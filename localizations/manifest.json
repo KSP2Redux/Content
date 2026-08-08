@@ -1,0 +1,137 @@
+{
+  "version": "8ce48239703c3e943ebc637baa7135020a7e7cdc4b52ecd65ecd8ddd54d8a09f",
+  "files": [
+    {
+      "path": "actiongroups_loc.csv",
+      "sha256": "8a46448b3e0f16a0e3c942650cf507d9743277d8d8ef56c18b8d1da2ced15c90",
+      "bytes": 589,
+      "order": 0
+    },
+    {
+      "path": "celestialbody_loc.csv",
+      "sha256": "a3557b6d11541fa9a2a58874191829930f92388c728f600ea63db0f0347e2518",
+      "bytes": 487,
+      "order": 1
+    },
+    {
+      "path": "experiments_loc.csv",
+      "sha256": "67842ac070f4d03748fb5bb9568c60dadd9f2fe274b01b717f4d1aaaa9a1bc9d",
+      "bytes": 14949,
+      "order": 2
+    },
+    {
+      "path": "loadingtips_loc.csv",
+      "sha256": "9fe8487132773e5b2a110bed4a5c2c86c4338eb3ebe1c5488e44a535e3fd52c4",
+      "bytes": 8377,
+      "order": 3
+    },
+    {
+      "path": "misc_loc.csv",
+      "sha256": "2538b5125cd67373a94716ff0c60f8e9e7096ff5b94df948fe3d146ce7d7f03e",
+      "bytes": 15219,
+      "order": 4
+    },
+    {
+      "path": "missions_loc.csv",
+      "sha256": "671ac5dfa51aca207fbb0968ee78dd5ecefaea1bc1e90f2e2fa4e9a8cdb0b220",
+      "bytes": 187528,
+      "order": 5
+    },
+    {
+      "path": "notifications_loc.csv",
+      "sha256": "95a3608a25bfcc7fdfadd504fc33ac0ef7aa33fb094a2a142d7ec714badd5d20",
+      "bytes": 1629,
+      "order": 6
+    },
+    {
+      "path": "partmodules_loc.csv",
+      "sha256": "92432981978493388ba2effc532a4bea6012e5292ca8ccd883cbd985b0c710a3",
+      "bytes": 12384,
+      "order": 7
+    },
+    {
+      "path": "parts_loc.csv",
+      "sha256": "4e7ef354ad129a3ad1120dec24d7f24a2bf84ac6159251f3653930195f279051",
+      "bytes": 193437,
+      "order": 8
+    },
+    {
+      "path": "technodes_loc.csv",
+      "sha256": "74daf3a1a49b7a27053518c3b7c2cc45ff4284c48c9175cfe11785ab869b5465",
+      "bytes": 6612,
+      "order": 9
+    },
+    {
+      "path": "tutorials_loc.csv",
+      "sha256": "45b48fd4c21b24e79ba14dda65f4b978668adc2c9dc8266d688049f262ddd7bd",
+      "bytes": 297242,
+      "order": 10
+    },
+    {
+      "path": "ui_escapemenu_loc.csv",
+      "sha256": "2ea8424bd506b65a19315a28f02f78470754f6638d789f2eea985fc84617047c",
+      "bytes": 4999,
+      "order": 11
+    },
+    {
+      "path": "ui_flight_loc.csv",
+      "sha256": "81a93d5ff37d63ebc05417cd3f68a8a7551235db7c1c48a2a597124ef4523773",
+      "bytes": 13131,
+      "order": 12
+    },
+    {
+      "path": "ui_ksc_loc.csv",
+      "sha256": "e9f9fd09d964a4a230dec7a1e3b0400f4b0359af5cd096a7df60d463342da62c",
+      "bytes": 2455,
+      "order": 13
+    },
+    {
+      "path": "ui_mainmenu_loc.csv",
+      "sha256": "1cf150a38533f0c2d4d012b0e7668c7f4474a3de94089d6c188b29a72f13458e",
+      "bytes": 4908,
+      "order": 14
+    },
+    {
+      "path": "ui_map_loc.csv",
+      "sha256": "618879a9c84fdb7f4bb3d2d4d6be5c7c3d73e759aa1cd0b9db3fd74894dd03c3",
+      "bytes": 4883,
+      "order": 15
+    },
+    {
+      "path": "ui_rdcenter_loc.csv",
+      "sha256": "2e38999dda4b199aa62a7b285492f84164f3bc5215faf720f1fa99047df74bc7",
+      "bytes": 1087,
+      "order": 16
+    },
+    {
+      "path": "ui_resources_loc.csv",
+      "sha256": "90fd3cb1c92509e449a9192bf440339d91f841f62020caa336325255631dd532",
+      "bytes": 30885,
+      "order": 17
+    },
+    {
+      "path": "ui_settings_loc.csv",
+      "sha256": "ba3ec05fd6fcafefb86412f643ed90ab5760e25d763253790f64a674d626917a",
+      "bytes": 162382,
+      "order": 18
+    },
+    {
+      "path": "ui_trackingstation_loc.csv",
+      "sha256": "d74fd96917e47ba5994fa7dcff06f9004a15b997a55ec1a1bf4d0315ee40433c",
+      "bytes": 3133,
+      "order": 19
+    },
+    {
+      "path": "ui_vab_loc.csv",
+      "sha256": "54fcca03fa4624958c81e44f606be15043955cb8650600641d25012b6e59d245",
+      "bytes": 22708,
+      "order": 20
+    },
+    {
+      "path": "units_loc.csv",
+      "sha256": "2bc576831eea81fe6c95995324861656588299b9fbacfbfbe32c2811dcf81cd2",
+      "bytes": 715,
+      "order": 21
+    }
+  ]
+}

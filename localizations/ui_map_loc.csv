@@ -1,0 +1,42 @@
+Key,Type,Desc,English,French,Italian,German,Spanish,Japanese,Korean,Polish,Russian,Chinese-Simplified [zh-CN],Portuguese-Brazil [pt-BR],Chinese-Traditional [zh-TW],Pirate English [en-PI],Serbian,Swedish,Romanian,$Context,$Status
+KerbalLifeHacks/Map/WarpToAp,Text,,Warp to Apoapsis,Avancer jusqu'à l'apoastre,Avanza all'apoapside,Vorspulen bis zur Apoapsis,Acelerar hasta el apoapsis,Warp to Apoapsis,원지점으로 워프하기,Przeskocz do Apocentrum,Ускорить Время к Апоцентру,快进至远点,Acelerar tempo até o Apoapsis,Warp to Apoapsis,Warp t' Top a' the orbit,Warp to Apoapsis,Warp to Apoapsis,Warp to Apoapsis,,Localized
+KerbalLifeHacks/Map/WarpToPe,Text,,Warp to Periapsis,Avancer jusqu'au périastre,Avanza al Periapside,Vorspulen bis zur Periapsis,Acelerar hasta el periapsis,Warp to Periapsis,근점으로 워프하기,Przeskocz do Perycentrum,Ускорить Время к Перицентру,快进至近点,Acelerar Tempo até o Periastro,Warp to Periapsis,Warp t' The bottom a' th' orbit,Warp to Periapsis,Warp to Periapsis,Warp to Periapsis,,Localized
+KerbalLifeHacks/Map/WarpToSOI,Text,,Warp to SOI Change,Avancer au changement de SDI,Avanza alla transizione di SdI,Vorspulen bis zur SOI-Wechsel,Acelerar hasta el cambio de esfera de influencia,Warp to SOI Change,영향권으로 워프하기,Przeskocz do Zmiany Sfery Wpływu,Ускорить к смене Сферы Тяготения,快进至引力范围变化,Acelerar até a troca de SOI,Warp to SOI Change,Warp t' SOI Change,Warp to SOI Change,Warp to SOI Change,Warp to SOI Change,,Localized
+Map/Objects/EmptyFavorites,Text,,"Add <#2FFE2F>Favorite Objects</color>
+  by <mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=105></voffset></mspace>
+ on a object.","Ajouter les <#2FFE2F>objets préférés</color>
+  par <mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=105></voffset></mspace>
+  sur un objet.","Aggiungi <#2FFE2F>Oggetti preferiti</color>
+  con <mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=105></voffset></mspace>
+  su un oggetto.
+","<#2FFE2F>Favorisierte Teile</color>
+  nach <mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=105></voffset></mspace>
+  an einem Objekt hinzufügen.","Añadir <#2FFE2F>objetos favoritos</color>
+  al <mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=105></voffset></mspace>
+  en un objeto.","オブジェクトで
+ <mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=105></voffset></mspace>して<#2FFE2F>お気に入りのオブジェクト</color>
+に追加","오브젝트에서 <voffset=.3em><sprite=""Input-Keyboard"" index=105></voffset></mspace>을(를) 눌러
+ <#2FFE2F>즐겨찾는 오브젝트</color>를
+ <mspace=20> 추가하세요.","Dodaj do <#2FFE2F>ulubionych części</color>
+ , naciskając <mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=105></voffset></mspace>
+  na części.","Добавьте <#2FFE2F>Любимые детали,</color>
+ нажав <mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=105></voffset></mspace>
+  на объекте.","添加<#2FFE2F>收藏物体</color>
+，方法是在物体上<mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=105></voffset></mspace>。
+","Adicionar <#2FFE2F>objetos favoritos</color>
+  por <mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=105></voffset></mspace>
+  em um objeto.","透過在物件上<mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=105></voffset></mspace>
+ 
+ 新增<#2FFE2F>最愛的物件</color>
+。","Add <#2FFE2F>Favorite Objects</color>
+  by <mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=105></voffset></mspace>
+ on a object.
+","Add <#2FFE2F>Favorite Objects</color>
+  by <mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=105></voffset></mspace>
+ on a object.","Add <#2FFE2F>Favorite Objects</color>
+  by <mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=105></voffset></mspace>
+ on a object.","Add <#2FFE2F>Favorite Objects</color>
+  by <mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=105></voffset></mspace>
+ on a object.",,Localized
+Map/Trajectory/WarpTo,Text,,Time Warp to Point,Avance rapide jusqu'au point,Avanza fino a qui,Vorspulen zu Punkt,Acelerar tiempo hasta el punto,ポイントまで時間加速,포인트로 타임워프,Przeskocz do punktu,Ускорить время до точки,时间加速至目标点,Distorção temporal até o ponto,時間曲速到點,Time Warp t' Point,Time Warp to Point,Time Warp to Point,Time Warp to Point,,Localized
+VesselInfo/Title,Text,,Vessel Identity,Identité du vaisseau,Identita' del veicolo,Schiffsidentität,Identidad de la nave,Vessel Identity,기체 정체,Dane identyfikacyjne statku,Тип аппарата,航天器身份标识,Vessel Identity,Vessel Identity,Vessel Identity,Vessel Identity,Vessel Identity,Vessel Identity,,Localized

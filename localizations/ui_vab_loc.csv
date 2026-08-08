@@ -1,0 +1,150 @@
+Key,Type,Desc,English,French,Italian,German,Spanish,Japanese,Korean,Polish,Russian,Chinese-Simplified [zh-CN],Portuguese-Brazil [pt-BR],Chinese-Traditional [zh-TW],Pirate English [en-PI],Serbian,Swedish,Romanian,$Context,$Status
+VAB/PartsPicker/0536-Resource Storage,Text,,Resource Storage,Stockage de ressources,Depositi risorse,Ressourcenlager,Almacenamiento de recursos,資源の貯蔵庫,저장소,Przechowywanie Surowców,Контейнер для Ресурсов,资源储存,Armazenamento de Recursos,Resource Storage,Treasure Hold,складиште ресурса,Resource Storage,Depozitare de Resurse,,Localized
+VAB/PartsPicker/0535-Resource Extraction,Text,,Resource Extraction,Extraction de ressources,Sistemi di estrazione,Ressourcenextraktion,Extracción de recursos,資源の抽出,자원 추출,Wydobywanie Surowców,Добыча Ресурсов,资源获取,Extração de Recursos,Resource Extraction,Loot takin',Екстракција ресурса,Resource Extraction,Extracția resurselor,,Localized
+Menu/VAB/Boat Launch,Text,,Boat Launch,Lancement de bateau,Rampa di lancio,Boot starten,Grada,ボート打ち上げ,도크 발사,Wodowanie,Запуск корабля,船只下水点,Lançamento de barco,載具發射,Boat Launch,лансирање чамца,Boat Launch,Lansare Barcă,,Localized
+Menu/VAB/VAB,Text,,VAB,BAV,EAV,FZF,EEV,VAB,VAB,Hangar rakiet,Цех вертикальной сборки,航天器组装大楼,PMV,載具組裝大樓,VAB,VAB,VAB,VAB,,Localized
+VAB/DeltaVTool/Situation,Text,,Situation,Situation,Situazione,Situation,Situación,状況,상황,Stan,Условия,情况,Situação,狀況,Situation,Situation,Situation,Situation,,Localized
+VAB/DeltaVTool/Stage,Text,,Stage,Étage,Stage,Stufe,Etapa,ステージ,스테이지,Stopień,Ступени,分级,Estágio,分節,Stage,Stage,Stage,Stage,,Localized
+VAB/Fuel/ElectricCharge,Text,,Electric Charge,Charge électrique,Carica elettrica,Elektrischer Strom,Carga eléctrica,電力,전력량,Ładunek elektr.,Электроэнергия,电能,Carga elétrica,電量,Electric Charge,Electric Charge,Electric Charge,Electric Charge,,Localized
+VAB/PartsPicker/0000-Pod,Text,,Pod,Capsule,Capsule,Kapsel,Cápsula,ポッド,포드,Kapsuła,Командный модуль,指令舱,Cápsula,莢艙,Pod,Pod,Pod,Pod,,Localized
+VAB/PartsPicker/0010-Probe,Text,,Probe,Sonde,Sonde,Sonde,Sonda,探査機,위성,Sonda,Зонд,探测器,Sonda,探測器,Probe,Probe,Probe,Probe,,Localized
+VAB/PartsPicker/0020-Cockpit,Text,,Cockpit,Cockpit,Abitacoli,Cockpit,Cabina,コックピット,조종석,Kokpit,Кабина,驾驶舱,Cabine,駕駛艙,Cockpit,Cockpit,Cockpit,Cockpit,,Localized
+VAB/PartsPicker/0090-Fuel Line,Text,,Fuel Line,Conduite d'ergol,Condotti,Treibstoffleitung,Línea de combustible,燃料配管,연료라인,Przewód paliwowy,Топливопровод,燃料管线,Linha de combustível,燃油管路,Fuel Line,Fuel Line,Fuel Line,Fuel Line,,Localized
+VAB/PartsPicker/0110-Solid Fuel Booster,Text,,Solid Fuel Booster,Propulseur à ergol solide,Booster solidi,Festtreibstoff-Booster,Acelerador de combustible sólido,固体燃料ブースター,고체로켓부스터,Silnik pomocniczy na paliwo stałe,Твердотопливный ускоритель,固体燃料助推器,Booster de Combustível Sólido,固態燃料助推器,Solid Fuel Booster,Solid Fuel Booster,Solid Fuel Booster,Solid Fuel Booster,,Localized
+VAB/PartsPicker/0120-Jet Engine,Text,,Jet Engine,Moteur de jet,Motori a reazione,Düsentriebwerk,Motor a reacción,ジェットエンジン,제트엔진,Silnik odrzutowy,Реактивный двигатель,喷气式引擎,Motor a jato,噴射引擎,Jet Engine,Jet Engine,Jet Engine,Jet Engine,,Localized
+VAB/PartsPicker/0160-Strut,Text,,Strut,Étai,Tiranti,Strebe,Riostra,ストラット,스트럿,Rozpora,Стойка,支柱,Estrutura,支架,Strut,Strut,Strut,Strut,,Localized
+VAB/PartsPicker/0170-Clamp,Text,,Clamp,Pince,Supporti di lancio,Klemme,Abrazadera,クランプ,클램프,Zaczep,Зажим,爪钩,Garra,夾鉗,Clamp,Clamp,Clamp,Clamp,,Localized
+VAB/PartsPicker/0180-Engine Mount,Text,,Engine Mount,Surface de montage,Supporti motori,Triebwerksaufhängung,Bancada de motor,エンジンマウント,엔진 마운트,Mocowanie silnika,Крепление для двигателей,引擎支架,Suporte para motores,引擎支架,Engine Mount,Engine Mount,Engine Mount,Engine Mount,,Localized
+VAB/PartsPicker/0190-Adapter,Text,,Adapter,Adaptateur,Adattatori,Adapter,Adaptador,変換アダプター,어댑터,Przejściówka,Адаптер,转接器,Adaptador,適配器,Adapter,Adapter,Adapter,Adapter,,Localized
+VAB/PartsPicker/0200-Beam,Text,,Beam,Rayon / Poutre,Travi,Träger,Haces,ビーム,빔,Belka,Балка,钢梁,Feixe,光束,Beam,Beam,Beam,Beam,,Localized
+VAB/PartsPicker/0210-Body,Text,,Body,Corps,Fusoliere,Rumpf,Cuerpo,機体,기체,Korpus,Объект,机身,Corpo,機體,Body,Body,Body,Body,,Localized
+VAB/PartsPicker/0220-Panel,Text,,Panel,Panneau,Pannelli,Modul,Panel,パネル,패널,Panel,Панель,结构板,Painel,面板,Panel,Panel,Panel,Panel,,Localized
+VAB/PartsPicker/0230-Hub,Text,,Hub,Centre,Nodi,Hub,Concentrador,ハブ,허브,Węzeł,Хаб,集线器,Centro,輪轂,Hub,Hub,Hub,Hub,,Localized
+VAB/PartsPicker/0240-Truss,Text,,Truss,Structure de maintien,Tralicci,Traverse,Armazón,トラス,트러스,Kratownica,Ферма,桁架,Treliça,桁架,Truss,Truss,Truss,Truss,,Localized
+VAB/PartsPicker/0250-Truss Adapter,Text,,Truss Adapter,Adaptateur de structure de maintien,Adattatori tralicci,Traversen-Adapter,Adaptador de armazón,トラス変換アダプター,트러스 어댑터,Przejściówka kratownicowa,Адаптер ферм,桁架转接器,Adaptador de treliça,桁架適配器,Truss Adapter,Truss Adapter,Truss Adapter,Truss Adapter,,Localized
+VAB/PartsPicker/0260-Truss Resizer,Text,,Truss Resizer,Structure de maintien variable,Riduttori tralicci,Traversen-Skalierer,Redimensionador de armazón,トラスリサイザー,트러스 리사이저,Zmieniacz kratownicowy,Соединитель ферм,桁架缩放器,Redimensionador de treliça,桁架尺寸調整器,Truss Resizer,Truss Resizer,Truss Resizer,Truss Resizer,,Localized
+VAB/PartsPicker/0270-Tube,Text,,Tube,Tube,Tubi,Röhre,Tubo,チューブ,튜브,Rura,Труба,管路,Tubo,管子,Tube,Tube,Tube,Tube,,Localized
+VAB/PartsPicker/0280-Stack Decoupler,Text,,Stack Decoupler,Découpleur vertical,Disaccoppiatori in linea,Stapel-Entkoppler,Desacoplador de etapa,スタックデカプラー,직렬 디커플러,Rozdzielacz osiowy,Поперечный отделитель,分级分离器,Desacoplador de Estágio,堆疊式解耦器,Stack Decoupler,Stack Decoupler,Stack Decoupler,Stack Decoupler,,Localized
+VAB/PartsPicker/0290-Stack Separator,Text,,Stack Separator,Séparateur vertical,Separatori in linea,Stapel-Separator,Separador de etapa,スタックセパレーター,직렬 세퍼레이터,Separator osiowy,Пирокольцо,分级切分器,Separador de Estágio,堆疊式分離器,Stack Separator,Stack Separator,Stack Separator,Stack Separator,,Localized
+VAB/PartsPicker/0300-Radial Decoupler,Text,,Radial Decoupler,Découpleur radial,Disaccoppiatori radiali,Radial-Entkoppler,Desacoplador radial,ラジアル型デカプラー,방사형 디커플러,Rozdzielacz obwodowy,Продольный отделитель,径向分离器,Desacoplador Radial,徑向解耦器,Radial Decoupler,Radial Decoupler,Radial Decoupler,Radial Decoupler,,Localized
+VAB/PartsPicker/0310-Docking Port,Text,,Docking Port,Port d'amarrage,Portelli di attracco,Andockluke,Puerto,ドッキングポート,도킹 포트,Port dokowania,Стыковочный узел,对接口,Porta de acoplagem,對接端口,Docking Port,Docking Port,Docking Port,Docking Port,,Localized
+VAB/PartsPicker/0320-Fairing,Text,,Fairing,Carénage,Carenature,Verkleidung,Cofia,フェアリング,페어링,Owiewka,Обтекатель,整流罩,Carenagem,整流罩,Fairing,Fairing,Fairing,Fairing,,Localized
+VAB/PartsPicker/0330-Cargo Bay,Text,,Cargo Bay,Soute,Stive di carico,Laderaum,Módulo de carga,カーゴベイ,화물칸,Ładownia,Грузовой отсек,货舱,Compartimento de Carga,貨艙,Cargo Bay,Cargo Bay,Cargo Bay,Cargo Bay,,Localized
+VAB/PartsPicker/0340-Crew Cabin,Text,,Crew Cabin,Cabine d'équipage,Cabine equipaggio,Crew-Kabine,Cabina de tripulación,クルーキャビン,객실,Kabina załogowa,Кабина экипажа,乘员舱,Cabine de tripulação,組員機艙,Crew Cabin,Crew Cabin,Crew Cabin,Crew Cabin,,Localized
+VAB/PartsPicker/0350-Truss,Text,,Truss,Structure de maintien,Tralicci,Traverse,Armazón,トラス,트러스,Kratownica,Ферма,桁架,Treliça,桁架,Truss,Truss,Truss,Truss,,Localized
+VAB/PartsPicker/0360-Nose Cone,Text,,Nose Cone,Coiffe,Ogive,Bugnase,Nariz cónica,ノーズコーン,노즈콘,Stożek dziobowy,Носовой обтекатель,头锥,Cone dianteiro,鼻錐,Nose Cone,Nose Cone,Nose Cone,Nose Cone,,Localized
+VAB/PartsPicker/0370-Intake,Text,,Intake,Entrée,Prese d'aria,Einlass,Toma de aire,インテーク,흡기,Wlot,Воздухозаборник,进气,Entrada,進氣口,Intake,Intake,Intake,Intake,,Localized
+VAB/PartsPicker/0380-Wing,Text,,Wing,Aile,Ali,Flügel,Ala,翼,날개,Skrzydło,Крыло,机翼,Asa,翼身,Wing,Wing,Wing,Wing,,Localized
+VAB/PartsPicker/0390-Stabilizer,Text,,Stabilizer,Stabilisateur,Stabilizzatori,Stabilisator,Estabilizador,スタビライザー,스테빌라이저,Stabilizator,Стабилизатор,稳定器,Estabilizador,穩定儀,Stabilizer,Stabilizer,Stabilizer,Stabilizer,,Localized
+VAB/PartsPicker/0400-Control Surface,Text,,Control Surface,Surface de contrôle,Superfici di controllo,Steueroberfläche,Superficie de control,操縦翼面,조종면,Powierzchnia sterowa,Управляющая поверхность,控制面,Superfície de controle,控制面,Control Surface,Control Surface,Control Surface,Control Surface,,Localized
+VAB/PartsPicker/0410-Tail Section,Text,,Tail Section,Empennage,Sezioni di coda,Heckteil,Sección de cola,尾部,꼬리부,Odcinek ogonowy,Хвост,尾翼段,Seção de Cauda,尾部,Tail Section,Tail Section,Tail Section,Tail Section,,Localized
+VAB/PartsPicker/0420-Landing Leg,Text,,Landing Leg,Train d'atterrissage (jambe),Supporti di atterraggio,Landebein,Pata de aterrizaje,着陸脚,랜딩레그,Noga,Посадочная опора,着陆支架,Perna de aterrissagem,著陸架,Landing Leg,Landing Leg,Landing Leg,Landing Leg,,Localized
+VAB/PartsPicker/0430-Landing Gear,Text,,Landing Gear,Train d'atterrissage,Carrelli di atterraggio,Fahrwerk,Tren de aterrizaje,ランディングギア,랜딩기어,Podwozie,Шасси,起落架,Trem de pouso,起落架,Landing Gear,Landing Gear,Landing Gear,Landing Gear,,Localized
+VAB/PartsPicker/0440-Wheel,Text,,Wheel,Roue,Ruote,Rad,Rueda,ホイール,바퀴,Koło,Колесо,轮子,Roda,輪子,Wheel,Wheel,Wheel,Wheel,,Localized
+VAB/PartsPicker/0450-Heat Shield,Text,,Heat Shield,Bouclier thermique,Scudi termici,Hitzeschild,Escudo térmico,耐熱シールド,열 차폐막,Osłona ciepłochronna,Теплозащитный экран,热防护罩,Escudo de Calor,隔熱罩,Heat Shield,Heat Shield,Heat Shield,Heat Shield,,Localized
+VAB/PartsPicker/0460-Radiator,Text,,Radiator,Radiateur,Radiatori,Kühler,Radiador,ラジエーター,라디에이터,Radiator,Радиатор,散热器,Radiador,散熱器,Radiator,Radiator,Radiator,Radiator,,Localized
+VAB/PartsPicker/0470-Battery,Text,,Battery,Pile,Batterie,Akku,Batería,バッテリー,배터리,Bateria,Аккумулятор,电池,Bateria,電池,Battery,Battery,Battery,Battery,,Localized
+VAB/PartsPicker/0480-Solar Array,Text,,Solar Array,Dispositif solaire,Sistemi fotovoltaici,Solaranlage,Panel solar,ソーラーアレイ,태양광 어레이,Zespół fotowoltaiczny,Комплекс солнечных панелей,太阳能电池板,Painel Solar,太陽能光電陣列,Solar Array,Solar Array,Solar Array,Solar Array,,Localized
+VAB/PartsPicker/0490-Generator,Text,,Generator,Générateur,Generatori,Generator,Generador,発電機,발전기,Generator,Генератор,发电机,Gerador,發電機,Generator,Generator,Generator,Generator,,Localized
+VAB/PartsPicker/0500-Antenna,Text,,Antenna,Antenne,Antenne,Antenne,Antena,アンテナ,안테나,Antena,Антенна,天线,Antena,天線,Antenna,Antenna,Antenna,Antenna,,Localized
+VAB/PartsPicker/0530-Stabilizer,Text,,Stabilizer,Stabilisateur,Stabilizzatori,Stabilisator,Estabilizador,スタビライザー,스테빌라이저,Stabilizator,Стабилизатор,稳定器,Estabilizador,穩定儀,Stabilizer,Stabilizer,Stabilizer,Stabilizer,,Localized
+VAB/PartsPicker/0540-Light,Text,,Light,Lumière,Luci,Leuchte,Iluminación,ライト,조명,Światło,Освещение,灯,Lâmpada,燈,Light,Light,Light,Light,,Localized
+VAB/PartsPicker/0550-Ladder,Text,,Ladder,Échelle,Scale,Leiter,Escalera,ハシゴ,사다리,Drabina,Лестница,梯子,Escada,梯子,Ladder,Ladder,Ladder,Ladder,,Localized
+VAB/PartsPicker/0560-Science Collector,Text,,Science Collector,Récupérateur scientifique,Apparati scientifici,Wissenschaftskollektor,Coleccionista de Ciencia,サイエンスコレクター,과학 수집기,Kolekcjoner nauki,Научный модуль,科学收集装置,Coletor de Ciência,科學採集車,Science Collector,Science Collector,Science Collector,Science Collector,,Localized
+VAB/PartsPicker/Electrical,Text,,"Electrical
+ Generate and store EC","Électricité
+  Génération et stockage de CE","Alimentazione
+  Genera e immagazzina CE","Elektrik
+  ES erzeugen und speichern","Electricidad
+  Genera y almacena CE","電気機器
+ 電力を生成し貯蔵します","전력
+  전력을 생산하고 저장","Elektryczność
+  Wytwarzanie i przechowywanie ŁE","Электрооборудование
+Создает и запасает электроэнергию","电气
+ 产生和储存电能","Elétrico
+  Gere e armazene CE","電子
+ 產生和儲存電荷","Electrical
+ Generate and store EC","Electrical
+ Generate and store EC","Electrical
+ Generate and store EC","Electrical
+ Generate and store EC",,Localized
+VAB/PartsPicker/Engines,Text,,"Engines
+ Propel vehicles by consuming fuel","Moteurs
+  Propulsion des véhicules à l'aide de carburant","Motori
+  Forniscono spinta ai veicoli consumando propellente","Triebwerke
+  Raumfahrzeuge mittels Treibstoff antreiben","Motores
+  Impulsa vehículos quemando combustible","エンジン
+ 燃料を消費することで機体を推進します","엔진
+  연료를 소모해 기체를 추진","Silniki
+  Napędzanie pojazdów kosztem paliwa","Двигатели
+ Перемещают аппараты, расходуя топливо","引擎
+ 消耗燃料推进航天器","Motores
+  Impulsione veículos consumindo combustível","引擎
+ 透過消耗燃料驅動載具","Engines
+ Propel vehicles by consuming fuel","Engines
+ Propel vehicles by consuming fuel","Engines
+ Propel vehicles by consuming fuel","Engines
+ Propel vehicles by consuming fuel",,Localized
+VAB/PartsPicker/Favorites,Text,,"Favorites
+ All the parts you like!","Favoris
+  Toutes vos pièces préférées !","Preferiti
+  Tutte le parti che preferisci!","Favoriten
+  All deine Lieblingsteile!","Favoritos
+  ¡Las piezas que más te gustan!","お気に入り
+ 好きなパーツを全部追加できます！","즐겨찾기
+  여러분이 좋아하는 부품!","Ulubione
+  Wszystkie części, które lubisz!","Любимые
+ Все детали, которые вы любите!","收藏
+ 你最喜欢的所有部件！","Favoritos
+  Todas as peças que você curte!","最愛
+ 你喜歡的所有零件！","Favorites
+ All the parts you like!","Favorites
+ All the parts you like!","Favorites
+ All the parts you like!","Favorites
+ All the parts you like!",,Localized
+VAB/PartsPicker/Landing Legs,Text,,Landing Legs,Train d'atterrissage (jambes),Supporti di atterraggio,Landebeine,Patas de aterrizaje,着陸脚,랜딩레그,Nogi,Посадочные опоры,着陆支架,Pernas de aterrissagem,著陸架,Landing Legs,Landing Legs,Landing Legs,Landing Legs,,Localized
+VAB/PartsPicker/SearchFieldPlaceholder,Text,,"Search ""landing gear""","Chercher ""train d'atterrissage""",Cerca...,In „Fahrwerk“ suchen,"Buscar ""tren de aterrizaje""",「ランディングギア」を検索,"""랜딩기어"" 검색",Wyszukaj „podwozie”,Искать «шасси»,搜索“起落架”,"Buscar ""trem de pouso""",搜尋「起落架」,"Search ""landing gear""","Search ""landing gear""","Search ""landing gear""","Search ""landing gear""",,Localized
+VAB/PartsPicker/Structures,Text,,"Structures
+ Trusses and adapters","Structures
+  Structures de maintien et adaptateurs","Strutture
+Tralicci e adattatori","Strukturen
+  Traversen und Adapter","Estructuras
+  Armazones y adaptadores","構造パーツ
+ トラスと変換アダプター","구조물
+  트러스와 어댑터","Struktury
+  Kratownice i przejściówki","Структуры
+ Фермы и адаптеры","构件
+ 桁架和转接器","Estruturas
+  Treliças e adaptadores","結構
+ 桁架和適配器","Structures
+ Trusses and adapters","Structures
+ Trusses and adapters","Structures
+ Trusses and adapters","Structures
+ Trusses and adapters",,Localized
+VAB/Search/MassFilter1,Text,,0 - 0.1,0 - 0.1,"0 - 0,1",0 - 0.1,0 - 0.1,0 - 0.1,0 - 0.1,0 - 0.1,0 - 0.1,0-0.1,0 - 0.1,0 - 0.1,0 - 0.1,0 - 0.1,0 - 0.1,0 - 0.1,,Localized
+VAB/Search/MassFilter2,Text,,0.1 - 0.5,0.1 - 0.5,"0,1 - 0,5",0.1 - 0.5,0.1 - 0.5,0.1 - 0.5,0.1 - 0.5,0.1 - 0.5,0.1 - 0.5,0.1-0.5,0.1 - 0.5,0.1 - 0.5,0.1 - 0.5,0.1 - 0.5,0.1 - 0.5,0.1 - 0.5,,Localized
+VAB/Search/MassFilter3,Text,,0.5 - 1,0.5 - 1,"0,5 - 1",0.5 - 1,0.5 - 1,0.5 - 1,0.5 - 1,0.5 - 1,0.5 - 1,0.5-1,0.5 - 1,0.5 - 1,0.5 - 1,0.5 - 1,0.5 - 1,0.5 - 1,,Localized
+VAB/Size/2X,Text,,2X,2 X,2XL,x 2,X2,2X,2X,2X,ГИГАНТ.,2X,GG,2X,2X,2X,2X,2X,,Localized
+VAB/Size/2XLARGE,Text,,2X LARGE,2 X GRAND,2XL,DOPPELTE GRÖSSE,GRANDE X2,2XL,2XL,2X DUŻY,ГИГАНТСКИЙ,2X大（10m）,2X GRANDE,2XL,2X LARGE,2X LARGE,2X LARGE,2X LARGE,,Localized
+VAB/Size/3X,Text,,3X,3 X,3XL,x 3,X3,3X,3X,3X,3X,3X,3X,3X,3X,3X,3X,3X,,Localized
+VAB/Size/3XLARGE,Text,,3X LARGE,3 X GRAND,3XL,DREIFACHE GRÖSSE,GRANDE X3,3XL,3XL,3X DUŻY,3X БОЛЬШОЙ,3X大（20m）,3X GRANDE,3XL,3X LARGE,3X LARGE,3X LARGE,3X LARGE,,Localized
+VAB/Size/4X,Text,,4X,4 X,4XL,x 4,X4,4X,4X,4X,4X,4X,4X,4X,4X,4X,4X,4X,,Localized
+VAB/Size/4XLARGE,Text,,4X LARGE,4 X GRAND,4XL,VIERFACHE GRÖSSE,GRANDE X4,4XL,4XL,4X DUŻY,4X БОЛЬШОЙ,4X大（20m~40m）,4X GRANDE,4XL,4X LARGE,4X LARGE,4X LARGE,4X LARGE,,Localized
+VAB/Size/5X,Text,,5X,5 X,5XL,x 5,X5,5X,5X,5X,5X,5X,5X,5X,5X,5X,5X,5X,,Localized
+VAB/Size/5XLARGE,Text,,5X LARGE,5 X GRAND,5XL,FÜNFFACHE GRÖSSE,GRANDE X5,5XL,5XL,5X DUŻY,5X БОЛЬШОЙ,5X大（40m~60M）,5X GRANDE,5XL,5X LARGE,5X LARGE,5X LARGE,5X LARGE,,Localized
+VAB/Size/6X,Text,,6X,6 X,6XL,x 6,X6,6XL,6X,6X,6X,6X,6X,6X,6X,6X,6X,6X,,Localized
+VAB/Size/6XLARGE,Text,,6X Large,6 X GRAND,6XL,SECHSFACHE GRÖSSE,GRANDE X6,6XL,6XL,6X duży,6X БОЛЬШОЙ,6X大（60m~100m）,6X GRANDE,6XL,6X Large,6X Large,6X Large,6X Large,,Localized
+VAB/Size/LARGE,Text,,LARGE,GRAND,L,GROSS,GRANDE,大型,대형,DUŻY,БОЛЬШОЙ,大（3.75m）,GRANDE,L,LARGE,LARGE,LARGE,LARGE,,Localized
+VAB/Size/MEDIUM,Text,,MEDIUM,MOYEN,M,MITTEL,MEDIANO,中型,중형,ŚREDNI,СРЕДНИЙ,中（2.5m）,MÉDIO,M,MEDIUM,MEDIUM,MEDIUM,MEDIUM,,Localized
+VAB/Size/XLARGE,Text,,X LARGE,TRÈS GRAND,XL,EXTRAGROSS,EXTRAGRANDE,XL,특대형,B. DUŻY,ОЧ. БОЛ.,特大（5m）,X GRANDE,XL,X LARGE,X LARGE,X LARGE,X LARGE,,Localized
+VAB/Size/XSMALL,Text,,X SMALL,TRÈS PETIT,XS,EXTRAKLEIN,DIMINUTO,XS,특소형,B. MAŁY,ОЧ. МАЛ.,特小（0.625m）,X PEQUENA,XS,X SMALL,X SMALL,X SMALL,X SMALL,,Localized
+VAB/Tooltip/XXXXXXL,Text,,6X,6 X,6XL,6X,6X,6XL,6X,6XL,6XL,6X大,6XG,6XL,6X,6X,6X,6X,,Localized
+VAB/Size/XSMALLPLUS,Text,,X SMALL +,TRÈS PETIT +,S+,EXTRAKLEIN +,DIMINUTO +,X SMALL +,특소형+,B. MAŁY +,ОЧ.МАЛ.+,很小（0.9375m）,X SMALL +,X SMALL +,X SMALL +,X SMALL +,X SMALL +,X SMALL +,,Localized
+VAB/Size/SMALLPLUS,Text,,SMALL +,PETIT +,S+,KLEIN +,PEQUEÑO +,SMALL +,소형 +,MAŁY +,МАЛ. +,较小（1.875m）,SMALL +,SMALL +,SMALL +,SMALL +,SMALL +,SMALL +,,Localized
+VAB/Size/MEDIUMPLUS,Text,,MEDIUM +,MOYEN +,M+,MITTEL +,MEDIANO +,MEDIUM +,중형 +,ŚREDNI +,СРЕД. +,较大（3.125m）,MEDIUM +,MEDIUM +,MEDIUM +,MEDIUM +,MEDIUM +,MEDIUM +,,Localized
+VAB/Size/LARGEPLUS,Text,,LARGE +,GRAND +,L+,GROSS +,GRANDE +,LARGE +,대형 +,DUŻY +,БОЛ. +,很大（4.375m）,LARGE +,LARGE +,LARGE +,LARGE +,LARGE +,LARGE +,,Localized
+VAB/Size/XLARGEPLUS,Text,,X LARGE +,TRÈS GRAND +,XL+,EXTRAGROSS +,X GRANDE+,X LARGE +,특대형+,B. DUŻY +,ОЧ. БОЛ. +,巨大（7.5m）,X LARGE +,X LARGE +,X LARGE +,X LARGE +,X LARGE +,X LARGE +,,Localized
+VAB/PartsPicker/0537-Camera,Text,,Camera,Caméra,Telecamere,Kamera,Cámara,Camera,카메라,Kamera,Камера,相机,Camera,Camera,Camera,Camera,Camera,Camera,,Localized
+VAB/PartsPicker/0538-Sticker,Text,,Sticker,Autocollant,Adesivi,Sticker,Pegatina,Sticker,스티커,Naklejka,Наклейка,贴花,Sticker,Sticker,Sticker,Sticker,Sticker,Sticker,,Localized
+VAB/Messages/PartNotAvailable,Text,,Part not available: {0},Pièce non disponible : {0},Parte non disponibile: {0},Part not available: {0},Part not available: {0},Part not available: {0},Part not available: {0},Part not available: {0},Деталь недоступна: {0},部件不可用: {0},Part not available: {0},Part not available: {0},Part not available: {0},Part not available: {0},Part not available: {0},Part not available: {0},,Localized
+VAB/Messages/InvalidRootPart,Text,,This craft can't be loaded because its root part is missing.,"Ce vaisseau ne peut pas être chargé, car sa pièce racine est manquante.",Impossibile caricare questo veicolo perché manca il suo componente radice,This craft can't be loaded because its root part is missing.,This craft can't be loaded because its root part is missing.,This craft can't be loaded because its root part is missing.,This craft can't be loaded because its root part is missing.,This craft can't be loaded because its root part is missing.,This craft can't be loaded because its root part is missing.,这个飞船无法加载，因为它的根部件缺失。,This craft can't be loaded because its root part is missing.,This craft can't be loaded because its root part is missing.,This craft can't be loaded because its root part is missing.,This craft can't be loaded because its root part is missing.,This craft can't be loaded because its root part is missing.,This craft can't be loaded because its root part is missing.,,Localized
