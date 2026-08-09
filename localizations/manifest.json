@@ -1,5 +1,5 @@
 {
-  "version": "895922321ba32acf944346fffeef0e17b7e8bc8c72b8f753e582b5f368202a2c",
+  "version": "a2b97bc627c144355a3f6f7e2accf8efd4f2fe788d97f610ca63a6e58b441af1",
   "files": [
     {
       "path": "actiongroups_loc.csv",
@@ -45,8 +45,8 @@
     },
     {
       "path": "partmodules_loc.csv",
-      "sha256": "92432981978493388ba2effc532a4bea6012e5292ca8ccd883cbd985b0c710a3",
-      "bytes": 12384,
+      "sha256": "c5d6d1510f0da1eee03e375dc27e8344aa0ac3367f0138b055a46e6a5d5b984d",
+      "bytes": 13509,
       "order": 7
     },
     {
@@ -69,8 +69,8 @@
     },
     {
       "path": "tutorials_loc.csv",
-      "sha256": "45b48fd4c21b24e79ba14dda65f4b978668adc2c9dc8266d688049f262ddd7bd",
-      "bytes": 297242,
+      "sha256": "7a274ffda1a25e5307fc259eb7673aef1d8cbd4389fa555c2fbd02ab0535b426",
+      "bytes": 368286,
       "order": 11
     },
     {
@@ -117,8 +117,8 @@
     },
     {
       "path": "ui_settings_loc.csv",
-      "sha256": "b52df44a7ced2c47cc4ab15154ed5b97e7cfe83fc38f7e18b6c3aaa2725edc50",
-      "bytes": 171426,
+      "sha256": "55f280c9e5d57347abec5a73c77ba50c12f949fe6f3eaa97fc99a49462a6143a",
+      "bytes": 171336,
       "order": 19
     },
     {

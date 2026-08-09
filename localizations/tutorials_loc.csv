@@ -1523,10 +1523,11 @@ Tutorials/Lessons/Titles/Tutorial4/Passive Stability,Text,,Passive Stability,Sta
 Tutorials/tutorial_4.3.1,Text,,"Director, our engineers are trying to make a rocket, but they can't make it fly straight. 
 Let's test it to see what's the issue!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace>  Press the GO button to launch this rocket","Director, our engineers are trying to make a rocket, but they can't make it fly straight. 
-Let's test it to see what's the issue!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace>  Press the GO button to launch this rocket","Directeur, nos ingénieurs essaye de faire une fusée mais ils n'arrivent pas à la faire aller droit.
+Testons la pour voir quel est le problème !
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace>  Press the GO button to launch this rocket","Director, our engineers are trying to make a rocket, but they can't make it fly straight. 
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 
+Appuyez sur le bouton GO pour lancer cette fusée","Director, our engineers are trying to make a rocket, but they can't make it fly straight. 
 Let's test it to see what's the issue!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace>  Press the GO button to launch this rocket","Director, our engineers are trying to make a rocket, but they can't make it fly straight. 
@@ -1571,9 +1572,9 @@ Let's test it to see what's the issue!
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace>  Press the GO button to launch this rocket",,Localized
 Tutorials/tutorial_4.3.3,Text,,"It seems that this rocket indeed is unstable!
 
-Let's go to the VAB and try to fix it.","It seems that this rocket indeed is unstable!
+Let's go to the VAB and try to fix it.","On dirait bien que cette fusée est vraiment instable !
 
-Let's go to the VAB and try to fix it.","It seems that this rocket indeed is unstable!
+Allons dans le BAV pour essayer de régler ça.","It seems that this rocket indeed is unstable!
 
 Let's go to the VAB and try to fix it.","It seems that this rocket indeed is unstable!
 
@@ -1602,13 +1603,13 @@ Let's go to the VAB and try to fix it.","It seems that this rocket indeed is uns
 Let's go to the VAB and try to fix it.","It seems that this rocket indeed is unstable!
 
 Let's go to the VAB and try to fix it.",,Localized
-Tutorials/tutorial_4.3.5,Text,,"Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!",好，来看看我们怎么帮他们把这枚火箭修好！,"Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!",,Localized
-Tutorials/tutorial_4.3.6,Text,,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,看起来这艘飞船的第一级太宽太短了！,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,,Localized
+Tutorials/tutorial_4.3.5,Text,,"Ok, now let's see how we can help them and fix that rocket!","Ok, maintenant voyons comment nous pouvons les aider et réparer cette fusée !","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!",好，来看看我们怎么帮他们把这枚火箭修好！,"Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!",,Localized
+Tutorials/tutorial_4.3.6,Text,,It seems that this ship's first stage is way too wide and short!,On dirait que le premier étage de ce vaisseau est bien trop large et court !,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,看起来这艘飞船的第一级太宽太短了！,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,,Localized
 Tutorials/tutorial_4.3.7,Text,,"First things first, short rockets are far less stable than taller rockets. 
 
-Let's increase the height of this rocket.","First things first, short rockets are far less stable than taller rockets. 
+Let's increase the height of this rocket.","Commençons par le commencement, les fusées plus courtes sont bien moins stables que les plus grandes.
 
-Let's increase the height of this rocket.","First things first, short rockets are far less stable than taller rockets. 
+Agrandissons cette fusée.","First things first, short rockets are far less stable than taller rockets. 
 
 Let's increase the height of this rocket.","First things first, short rockets are far less stable than taller rockets. 
 
@@ -1639,9 +1640,9 @@ Let's increase the height of this rocket.","First things first, short rockets ar
 Let's increase the height of this rocket.",,Localized
 Tutorials/tutorial_4.3.8,Text,,"First, we will delete the first stage of the rocket and make a new one that will be more stable.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the ""S4-6400"" fuel tank below the decoupler that connects the second orbital stage to the wider first stage.","First, we will delete the first stage of the rocket and make a new one that will be more stable.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the ""S4-6400"" fuel tank below the decoupler that connects the second orbital stage to the wider first stage.","Premièrement, effaçons le premier étage pour en faire un nouveau plus stable.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the ""S4-6400"" fuel tank below the decoupler that connects the second orbital stage to the wider first stage.","First, we will delete the first stage of the rocket and make a new one that will be more stable.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Sélectionnez le réservoir ""S4-6400"" en dessous du découpleur qui connecte le deuxième étage orbital au premier étage plus large.","First, we will delete the first stage of the rocket and make a new one that will be more stable.
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the ""S4-6400"" fuel tank below the decoupler that connects the second orbital stage to the wider first stage.","First, we will delete the first stage of the rocket and make a new one that will be more stable.
 
@@ -1670,16 +1671,16 @@ Tutorials/tutorial_4.3.8,Text,,"First, we will delete the first stage of the roc
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the ""S4-6400"" fuel tank below the decoupler that connects the second orbital stage to the wider first stage.","First, we will delete the first stage of the rocket and make a new one that will be more stable.
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the ""S4-6400"" fuel tank below the decoupler that connects the second orbital stage to the wider first stage.",,Localized
-Tutorials/tutorial_4.3.9,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 将移除的部分放入弃置区。","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.",,Localized
+Tutorials/tutorial_4.3.9,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Déplacer la section que vous avez retiré dans la zone poubelle.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 将移除的部分放入弃置区。","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.",,Localized
 Tutorials/tutorial_4.3.10,Text,,"Now, we also need to remove those stabilizers at the top of the rocket.
 
 Those are useful but placed at the wrong place
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and place the stabilizer in the trash area","Now, we also need to remove those stabilizers at the top of the rocket.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and place the stabilizer in the trash area","Maintenant nous devons retirer ces stabilisateurs en haut de la fusée.
 
-Those are useful but placed at the wrong place
+Ils sont utile mais placés au mauvais endroit
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and place the stabilizer in the trash area","Now, we also need to remove those stabilizers at the top of the rocket.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Sélectionnez les stabilisateurs et placez les dans la zone poubelle","Now, we also need to remove those stabilizers at the top of the rocket.
 
 Those are useful but placed at the wrong place
 
@@ -2363,3 +2364,695 @@ Tutorials/tutorial_4.3.30,Text,,"Tutorial complete! You have learned:
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> how to make stable rockets.
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to use symmetry tool.",,Localized
+Tutorials/Lessons/Titles/Tutorial4/Probe Cores,Text,,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,,Localized
+Tutorials/Lessons/Descriptions/Tutorial 4.5,Text,,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,,Localized
+Tutorials/tutorial_4.5.1,Text,,"Did you know you don't have to send a Kerbal to space? 
+
+You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Did you know you don't have to send a Kerbal to space? 
+
+You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Did you know you don't have to send a Kerbal to space? 
+
+You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Did you know you don't have to send a Kerbal to space? 
+
+You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Did you know you don't have to send a Kerbal to space? 
+
+You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Did you know you don't have to send a Kerbal to space? 
+
+You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Did you know you don't have to send a Kerbal to space? 
+
+You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Did you know you don't have to send a Kerbal to space? 
+
+You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Did you know you don't have to send a Kerbal to space? 
+
+You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Did you know you don't have to send a Kerbal to space? 
+
+You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Did you know you don't have to send a Kerbal to space? 
+
+You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Did you know you don't have to send a Kerbal to space? 
+
+You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Did you know you don't have to send a Kerbal to space? 
+
+You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Did you know you don't have to send a Kerbal to space? 
+
+You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Did you know you don't have to send a Kerbal to space? 
+
+You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Did you know you don't have to send a Kerbal to space? 
+
+You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.",,Localized
+Tutorials/tutorial_4.5.2,Text,,"Let's make a small probe together that we will be able to attach to a rocket.
+
+The plan is to attach the probe to a rocket, fly it to where we plan to release the probe, and then let it go to perform its task independently.
+
+And we won't need any Kerbals on board because the rocket will be controlled by the probe itself!","Let's make a small probe together that we will be able to attach to a rocket.
+
+The plan is to attach the probe to a rocket, fly it to where we plan to release the probe, and then let it go to perform its task independently.
+
+And we won't need any Kerbals on board because the rocket will be controlled by the probe itself!","Let's make a small probe together that we will be able to attach to a rocket.
+
+The plan is to attach the probe to a rocket, fly it to where we plan to release the probe, and then let it go to perform its task independently.
+
+And we won't need any Kerbals on board because the rocket will be controlled by the probe itself!","Let's make a small probe together that we will be able to attach to a rocket.
+
+The plan is to attach the probe to a rocket, fly it to where we plan to release the probe, and then let it go to perform its task independently.
+
+And we won't need any Kerbals on board because the rocket will be controlled by the probe itself!","Let's make a small probe together that we will be able to attach to a rocket.
+
+The plan is to attach the probe to a rocket, fly it to where we plan to release the probe, and then let it go to perform its task independently.
+
+And we won't need any Kerbals on board because the rocket will be controlled by the probe itself!","Let's make a small probe together that we will be able to attach to a rocket.
+
+The plan is to attach the probe to a rocket, fly it to where we plan to release the probe, and then let it go to perform its task independently.
+
+And we won't need any Kerbals on board because the rocket will be controlled by the probe itself!","Let's make a small probe together that we will be able to attach to a rocket.
+
+The plan is to attach the probe to a rocket, fly it to where we plan to release the probe, and then let it go to perform its task independently.
+
+And we won't need any Kerbals on board because the rocket will be controlled by the probe itself!","Let's make a small probe together that we will be able to attach to a rocket.
+
+The plan is to attach the probe to a rocket, fly it to where we plan to release the probe, and then let it go to perform its task independently.
+
+And we won't need any Kerbals on board because the rocket will be controlled by the probe itself!","Let's make a small probe together that we will be able to attach to a rocket.
+
+The plan is to attach the probe to a rocket, fly it to where we plan to release the probe, and then let it go to perform its task independently.
+
+And we won't need any Kerbals on board because the rocket will be controlled by the probe itself!","Let's make a small probe together that we will be able to attach to a rocket.
+
+The plan is to attach the probe to a rocket, fly it to where we plan to release the probe, and then let it go to perform its task independently.
+
+And we won't need any Kerbals on board because the rocket will be controlled by the probe itself!","Let's make a small probe together that we will be able to attach to a rocket.
+
+The plan is to attach the probe to a rocket, fly it to where we plan to release the probe, and then let it go to perform its task independently.
+
+And we won't need any Kerbals on board because the rocket will be controlled by the probe itself!","Let's make a small probe together that we will be able to attach to a rocket.
+
+The plan is to attach the probe to a rocket, fly it to where we plan to release the probe, and then let it go to perform its task independently.
+
+And we won't need any Kerbals on board because the rocket will be controlled by the probe itself!","Let's make a small probe together that we will be able to attach to a rocket.
+
+The plan is to attach the probe to a rocket, fly it to where we plan to release the probe, and then let it go to perform its task independently.
+
+And we won't need any Kerbals on board because the rocket will be controlled by the probe itself!","Let's make a small probe together that we will be able to attach to a rocket.
+
+The plan is to attach the probe to a rocket, fly it to where we plan to release the probe, and then let it go to perform its task independently.
+
+And we won't need any Kerbals on board because the rocket will be controlled by the probe itself!","Let's make a small probe together that we will be able to attach to a rocket.
+
+The plan is to attach the probe to a rocket, fly it to where we plan to release the probe, and then let it go to perform its task independently.
+
+And we won't need any Kerbals on board because the rocket will be controlled by the probe itself!","Let's make a small probe together that we will be able to attach to a rocket.
+
+The plan is to attach the probe to a rocket, fly it to where we plan to release the probe, and then let it go to perform its task independently.
+
+And we won't need any Kerbals on board because the rocket will be controlled by the probe itself!",,Localized
+Tutorials/tutorial_4.5.3,Text,,"First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
+You can think of it as a robotic pilot!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
+You can think of it as a robotic pilot!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
+You can think of it as a robotic pilot!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
+You can think of it as a robotic pilot!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
+You can think of it as a robotic pilot!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
+You can think of it as a robotic pilot!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
+You can think of it as a robotic pilot!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
+You can think of it as a robotic pilot!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
+You can think of it as a robotic pilot!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
+You can think of it as a robotic pilot!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
+You can think of it as a robotic pilot!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
+You can think of it as a robotic pilot!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
+You can think of it as a robotic pilot!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
+You can think of it as a robotic pilot!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
+You can think of it as a robotic pilot!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
+You can think of it as a robotic pilot!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.",,Localized
+Tutorials/tutorial_4.5.4,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.",,Localized
+Tutorials/tutorial_4.5.5,Text,,"Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.",,Localized
+Tutorials/tutorial_4.5.6,Text,,"For that probe, we'll use an antenna that can contact Kerbin from Duna or Eve.
+
+The Communotron HG-55 is perfect for that. It's even retractable, so it won't be damaged during lift-off!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communotron HG-55 in the Parts Picker menu.","For that probe, we'll use an antenna that can contact Kerbin from Duna or Eve.
+
+The Communotron HG-55 is perfect for that. It's even retractable, so it won't be damaged during lift-off!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communotron HG-55 in the Parts Picker menu.","For that probe, we'll use an antenna that can contact Kerbin from Duna or Eve.
+
+The Communotron HG-55 is perfect for that. It's even retractable, so it won't be damaged during lift-off!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communotron HG-55 in the Parts Picker menu.","For that probe, we'll use an antenna that can contact Kerbin from Duna or Eve.
+
+The Communotron HG-55 is perfect for that. It's even retractable, so it won't be damaged during lift-off!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communotron HG-55 in the Parts Picker menu.","For that probe, we'll use an antenna that can contact Kerbin from Duna or Eve.
+
+The Communotron HG-55 is perfect for that. It's even retractable, so it won't be damaged during lift-off!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communotron HG-55 in the Parts Picker menu.","For that probe, we'll use an antenna that can contact Kerbin from Duna or Eve.
+
+The Communotron HG-55 is perfect for that. It's even retractable, so it won't be damaged during lift-off!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communotron HG-55 in the Parts Picker menu.","For that probe, we'll use an antenna that can contact Kerbin from Duna or Eve.
+
+The Communotron HG-55 is perfect for that. It's even retractable, so it won't be damaged during lift-off!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communotron HG-55 in the Parts Picker menu.","For that probe, we'll use an antenna that can contact Kerbin from Duna or Eve.
+
+The Communotron HG-55 is perfect for that. It's even retractable, so it won't be damaged during lift-off!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communotron HG-55 in the Parts Picker menu.","For that probe, we'll use an antenna that can contact Kerbin from Duna or Eve.
+
+The Communotron HG-55 is perfect for that. It's even retractable, so it won't be damaged during lift-off!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communotron HG-55 in the Parts Picker menu.","For that probe, we'll use an antenna that can contact Kerbin from Duna or Eve.
+
+The Communotron HG-55 is perfect for that. It's even retractable, so it won't be damaged during lift-off!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communotron HG-55 in the Parts Picker menu.","For that probe, we'll use an antenna that can contact Kerbin from Duna or Eve.
+
+The Communotron HG-55 is perfect for that. It's even retractable, so it won't be damaged during lift-off!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communotron HG-55 in the Parts Picker menu.","For that probe, we'll use an antenna that can contact Kerbin from Duna or Eve.
+
+The Communotron HG-55 is perfect for that. It's even retractable, so it won't be damaged during lift-off!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communotron HG-55 in the Parts Picker menu.","For that probe, we'll use an antenna that can contact Kerbin from Duna or Eve.
+
+The Communotron HG-55 is perfect for that. It's even retractable, so it won't be damaged during lift-off!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communotron HG-55 in the Parts Picker menu.","For that probe, we'll use an antenna that can contact Kerbin from Duna or Eve.
+
+The Communotron HG-55 is perfect for that. It's even retractable, so it won't be damaged during lift-off!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communotron HG-55 in the Parts Picker menu.","For that probe, we'll use an antenna that can contact Kerbin from Duna or Eve.
+
+The Communotron HG-55 is perfect for that. It's even retractable, so it won't be damaged during lift-off!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communotron HG-55 in the Parts Picker menu.","For that probe, we'll use an antenna that can contact Kerbin from Duna or Eve.
+
+The Communotron HG-55 is perfect for that. It's even retractable, so it won't be damaged during lift-off!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communotron HG-55 in the Parts Picker menu.",,Localized
+Tutorials/tutorial_4.5.7,Text,,"We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.",,Localized
+Tutorials/tutorial_4.5.8,Text,,"To power our probe, we will need a way to produce energy, 
+and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
+and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
+and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
+and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
+and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
+and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
+and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
+and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
+and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
+and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
+and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
+and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
+and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
+and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
+and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
+and for a probe like this, solar energy will be perfect!",,Localized
+Tutorials/tutorial_4.5.9,Text,,"It would be best to have 2 batteries and 2 solar panels, so that our probe is symmetrical and balanced.
+
+To make sure it's symmetrical, click on the symmetry mode button and select the 2x symmetry mode!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Choose 2x symmetry. ","It would be best to have 2 batteries and 2 solar panels, so that our probe is symmetrical and balanced.
+
+To make sure it's symmetrical, click on the symmetry mode button and select the 2x symmetry mode!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Choose 2x symmetry. ","It would be best to have 2 batteries and 2 solar panels, so that our probe is symmetrical and balanced.
+
+To make sure it's symmetrical, click on the symmetry mode button and select the 2x symmetry mode!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Choose 2x symmetry. ","It would be best to have 2 batteries and 2 solar panels, so that our probe is symmetrical and balanced.
+
+To make sure it's symmetrical, click on the symmetry mode button and select the 2x symmetry mode!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Choose 2x symmetry. ","It would be best to have 2 batteries and 2 solar panels, so that our probe is symmetrical and balanced.
+
+To make sure it's symmetrical, click on the symmetry mode button and select the 2x symmetry mode!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Choose 2x symmetry. ","It would be best to have 2 batteries and 2 solar panels, so that our probe is symmetrical and balanced.
+
+To make sure it's symmetrical, click on the symmetry mode button and select the 2x symmetry mode!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Choose 2x symmetry. ","It would be best to have 2 batteries and 2 solar panels, so that our probe is symmetrical and balanced.
+
+To make sure it's symmetrical, click on the symmetry mode button and select the 2x symmetry mode!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Choose 2x symmetry. ","It would be best to have 2 batteries and 2 solar panels, so that our probe is symmetrical and balanced.
+
+To make sure it's symmetrical, click on the symmetry mode button and select the 2x symmetry mode!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Choose 2x symmetry. ","It would be best to have 2 batteries and 2 solar panels, so that our probe is symmetrical and balanced.
+
+To make sure it's symmetrical, click on the symmetry mode button and select the 2x symmetry mode!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Choose 2x symmetry. ","It would be best to have 2 batteries and 2 solar panels, so that our probe is symmetrical and balanced.
+
+To make sure it's symmetrical, click on the symmetry mode button and select the 2x symmetry mode!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Choose 2x symmetry. ","It would be best to have 2 batteries and 2 solar panels, so that our probe is symmetrical and balanced.
+
+To make sure it's symmetrical, click on the symmetry mode button and select the 2x symmetry mode!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Choose 2x symmetry. ","It would be best to have 2 batteries and 2 solar panels, so that our probe is symmetrical and balanced.
+
+To make sure it's symmetrical, click on the symmetry mode button and select the 2x symmetry mode!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Choose 2x symmetry. ","It would be best to have 2 batteries and 2 solar panels, so that our probe is symmetrical and balanced.
+
+To make sure it's symmetrical, click on the symmetry mode button and select the 2x symmetry mode!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Choose 2x symmetry. ","It would be best to have 2 batteries and 2 solar panels, so that our probe is symmetrical and balanced.
+
+To make sure it's symmetrical, click on the symmetry mode button and select the 2x symmetry mode!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Choose 2x symmetry. ","It would be best to have 2 batteries and 2 solar panels, so that our probe is symmetrical and balanced.
+
+To make sure it's symmetrical, click on the symmetry mode button and select the 2x symmetry mode!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Choose 2x symmetry. ","It would be best to have 2 batteries and 2 solar panels, so that our probe is symmetrical and balanced.
+
+To make sure it's symmetrical, click on the symmetry mode button and select the 2x symmetry mode!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Choose 2x symmetry. ",,Localized
+Tutorials/tutorial_4.5.10,Text,,"Now, let's place the batteries!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Now, let's place the batteries!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Now, let's place the batteries!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Now, let's place the batteries!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Now, let's place the batteries!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Now, let's place the batteries!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Now, let's place the batteries!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Now, let's place the batteries!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Now, let's place the batteries!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Now, let's place the batteries!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Now, let's place the batteries!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Now, let's place the batteries!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Now, let's place the batteries!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Now, let's place the batteries!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Now, let's place the batteries!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Now, let's place the batteries!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.",,Localized
+Tutorials/tutorial_4.5.11,Text,,"For a probe like this, which will have onboard electricity production, we do not need large batteries.
+
+Smaller ones, such as the Z-100 Battery, will be more than enough!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Z-100 Battery in the Parts Picker menu.","For a probe like this, which will have onboard electricity production, we do not need large batteries.
+
+Smaller ones, such as the Z-100 Battery, will be more than enough!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Z-100 Battery in the Parts Picker menu.","For a probe like this, which will have onboard electricity production, we do not need large batteries.
+
+Smaller ones, such as the Z-100 Battery, will be more than enough!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Z-100 Battery in the Parts Picker menu.","For a probe like this, which will have onboard electricity production, we do not need large batteries.
+
+Smaller ones, such as the Z-100 Battery, will be more than enough!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Z-100 Battery in the Parts Picker menu.","For a probe like this, which will have onboard electricity production, we do not need large batteries.
+
+Smaller ones, such as the Z-100 Battery, will be more than enough!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Z-100 Battery in the Parts Picker menu.","For a probe like this, which will have onboard electricity production, we do not need large batteries.
+
+Smaller ones, such as the Z-100 Battery, will be more than enough!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Z-100 Battery in the Parts Picker menu.","For a probe like this, which will have onboard electricity production, we do not need large batteries.
+
+Smaller ones, such as the Z-100 Battery, will be more than enough!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Z-100 Battery in the Parts Picker menu.","For a probe like this, which will have onboard electricity production, we do not need large batteries.
+
+Smaller ones, such as the Z-100 Battery, will be more than enough!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Z-100 Battery in the Parts Picker menu.","For a probe like this, which will have onboard electricity production, we do not need large batteries.
+
+Smaller ones, such as the Z-100 Battery, will be more than enough!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Z-100 Battery in the Parts Picker menu.","For a probe like this, which will have onboard electricity production, we do not need large batteries.
+
+Smaller ones, such as the Z-100 Battery, will be more than enough!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Z-100 Battery in the Parts Picker menu.","For a probe like this, which will have onboard electricity production, we do not need large batteries.
+
+Smaller ones, such as the Z-100 Battery, will be more than enough!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Z-100 Battery in the Parts Picker menu.","For a probe like this, which will have onboard electricity production, we do not need large batteries.
+
+Smaller ones, such as the Z-100 Battery, will be more than enough!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Z-100 Battery in the Parts Picker menu.","For a probe like this, which will have onboard electricity production, we do not need large batteries.
+
+Smaller ones, such as the Z-100 Battery, will be more than enough!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Z-100 Battery in the Parts Picker menu.","For a probe like this, which will have onboard electricity production, we do not need large batteries.
+
+Smaller ones, such as the Z-100 Battery, will be more than enough!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Z-100 Battery in the Parts Picker menu.","For a probe like this, which will have onboard electricity production, we do not need large batteries.
+
+Smaller ones, such as the Z-100 Battery, will be more than enough!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Z-100 Battery in the Parts Picker menu.","For a probe like this, which will have onboard electricity production, we do not need large batteries.
+
+Smaller ones, such as the Z-100 Battery, will be more than enough!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Z-100 Battery in the Parts Picker menu.",,Localized
+Tutorials/tutorial_4.5.12,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)",,Localized
+Tutorials/tutorial_4.5.13,Text,,"And finally, we can place the solar panel to produce electricity.
+
+We need to keep in mind that the farther we are from Kerbol, the less electricity we will produce.
+
+But don't worry, for a small probe like this, we will produce enough even while orbiting Eeloo!","And finally, we can place the solar panel to produce electricity.
+
+We need to keep in mind that the farther we are from Kerbol, the less electricity we will produce.
+
+But don't worry, for a small probe like this, we will produce enough even while orbiting Eeloo!","And finally, we can place the solar panel to produce electricity.
+
+We need to keep in mind that the farther we are from Kerbol, the less electricity we will produce.
+
+But don't worry, for a small probe like this, we will produce enough even while orbiting Eeloo!","And finally, we can place the solar panel to produce electricity.
+
+We need to keep in mind that the farther we are from Kerbol, the less electricity we will produce.
+
+But don't worry, for a small probe like this, we will produce enough even while orbiting Eeloo!","And finally, we can place the solar panel to produce electricity.
+
+We need to keep in mind that the farther we are from Kerbol, the less electricity we will produce.
+
+But don't worry, for a small probe like this, we will produce enough even while orbiting Eeloo!","And finally, we can place the solar panel to produce electricity.
+
+We need to keep in mind that the farther we are from Kerbol, the less electricity we will produce.
+
+But don't worry, for a small probe like this, we will produce enough even while orbiting Eeloo!","And finally, we can place the solar panel to produce electricity.
+
+We need to keep in mind that the farther we are from Kerbol, the less electricity we will produce.
+
+But don't worry, for a small probe like this, we will produce enough even while orbiting Eeloo!","And finally, we can place the solar panel to produce electricity.
+
+We need to keep in mind that the farther we are from Kerbol, the less electricity we will produce.
+
+But don't worry, for a small probe like this, we will produce enough even while orbiting Eeloo!","And finally, we can place the solar panel to produce electricity.
+
+We need to keep in mind that the farther we are from Kerbol, the less electricity we will produce.
+
+But don't worry, for a small probe like this, we will produce enough even while orbiting Eeloo!","And finally, we can place the solar panel to produce electricity.
+
+We need to keep in mind that the farther we are from Kerbol, the less electricity we will produce.
+
+But don't worry, for a small probe like this, we will produce enough even while orbiting Eeloo!","And finally, we can place the solar panel to produce electricity.
+
+We need to keep in mind that the farther we are from Kerbol, the less electricity we will produce.
+
+But don't worry, for a small probe like this, we will produce enough even while orbiting Eeloo!","And finally, we can place the solar panel to produce electricity.
+
+We need to keep in mind that the farther we are from Kerbol, the less electricity we will produce.
+
+But don't worry, for a small probe like this, we will produce enough even while orbiting Eeloo!","And finally, we can place the solar panel to produce electricity.
+
+We need to keep in mind that the farther we are from Kerbol, the less electricity we will produce.
+
+But don't worry, for a small probe like this, we will produce enough even while orbiting Eeloo!","And finally, we can place the solar panel to produce electricity.
+
+We need to keep in mind that the farther we are from Kerbol, the less electricity we will produce.
+
+But don't worry, for a small probe like this, we will produce enough even while orbiting Eeloo!","And finally, we can place the solar panel to produce electricity.
+
+We need to keep in mind that the farther we are from Kerbol, the less electricity we will produce.
+
+But don't worry, for a small probe like this, we will produce enough even while orbiting Eeloo!","And finally, we can place the solar panel to produce electricity.
+
+We need to keep in mind that the farther we are from Kerbol, the less electricity we will produce.
+
+But don't worry, for a small probe like this, we will produce enough even while orbiting Eeloo!",,Localized
+Tutorials/tutorial_4.5.14,Text,,"For that, we'll use a small, retractable solar panel so it's not too heavy to lift!
+
+The OX-10C Solar Panel will be perfect for that task!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OX-10C Solar Panel in the Parts Picker menu.","For that, we'll use a small, retractable solar panel so it's not too heavy to lift!
+
+The OX-10C Solar Panel will be perfect for that task!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OX-10C Solar Panel in the Parts Picker menu.","For that, we'll use a small, retractable solar panel so it's not too heavy to lift!
+
+The OX-10C Solar Panel will be perfect for that task!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OX-10C Solar Panel in the Parts Picker menu.","For that, we'll use a small, retractable solar panel so it's not too heavy to lift!
+
+The OX-10C Solar Panel will be perfect for that task!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OX-10C Solar Panel in the Parts Picker menu.","For that, we'll use a small, retractable solar panel so it's not too heavy to lift!
+
+The OX-10C Solar Panel will be perfect for that task!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OX-10C Solar Panel in the Parts Picker menu.","For that, we'll use a small, retractable solar panel so it's not too heavy to lift!
+
+The OX-10C Solar Panel will be perfect for that task!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OX-10C Solar Panel in the Parts Picker menu.","For that, we'll use a small, retractable solar panel so it's not too heavy to lift!
+
+The OX-10C Solar Panel will be perfect for that task!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OX-10C Solar Panel in the Parts Picker menu.","For that, we'll use a small, retractable solar panel so it's not too heavy to lift!
+
+The OX-10C Solar Panel will be perfect for that task!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OX-10C Solar Panel in the Parts Picker menu.","For that, we'll use a small, retractable solar panel so it's not too heavy to lift!
+
+The OX-10C Solar Panel will be perfect for that task!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OX-10C Solar Panel in the Parts Picker menu.","For that, we'll use a small, retractable solar panel so it's not too heavy to lift!
+
+The OX-10C Solar Panel will be perfect for that task!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OX-10C Solar Panel in the Parts Picker menu.","For that, we'll use a small, retractable solar panel so it's not too heavy to lift!
+
+The OX-10C Solar Panel will be perfect for that task!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OX-10C Solar Panel in the Parts Picker menu.","For that, we'll use a small, retractable solar panel so it's not too heavy to lift!
+
+The OX-10C Solar Panel will be perfect for that task!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OX-10C Solar Panel in the Parts Picker menu.","For that, we'll use a small, retractable solar panel so it's not too heavy to lift!
+
+The OX-10C Solar Panel will be perfect for that task!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OX-10C Solar Panel in the Parts Picker menu.","For that, we'll use a small, retractable solar panel so it's not too heavy to lift!
+
+The OX-10C Solar Panel will be perfect for that task!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OX-10C Solar Panel in the Parts Picker menu.","For that, we'll use a small, retractable solar panel so it's not too heavy to lift!
+
+The OX-10C Solar Panel will be perfect for that task!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OX-10C Solar Panel in the Parts Picker menu.","For that, we'll use a small, retractable solar panel so it's not too heavy to lift!
+
+The OX-10C Solar Panel will be perfect for that task!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OX-10C Solar Panel in the Parts Picker menu.",,Localized
+Tutorials/tutorial_4.5.15,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)",,Localized
+Tutorials/tutorial_4.5.16,Text,,"Great! That's all there is to it.
+
+Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
+
+Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
+
+Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
+
+Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
+
+Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
+
+Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
+
+Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
+
+Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
+
+Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
+
+Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
+
+Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
+
+Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
+
+Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
+
+Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
+
+Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
+
+Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.",,Localized
+Tutorials/tutorial_4.5.18_failure_msg,Text,,"Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?",,Localized
+Tutorials/tutorial_4.5.17,Text,,"Tutorial complete! You have learned:
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Essentials for probes.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make a probe.","Tutorial complete! You have learned:
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Essentials for probes.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make a probe.","Tutorial complete! You have learned:
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Essentials for probes.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make a probe.","Tutorial complete! You have learned:
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Essentials for probes.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make a probe.","Tutorial complete! You have learned:
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Essentials for probes.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make a probe.","Tutorial complete! You have learned:
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Essentials for probes.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make a probe.","Tutorial complete! You have learned:
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Essentials for probes.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make a probe.","Tutorial complete! You have learned:
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Essentials for probes.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make a probe.","Tutorial complete! You have learned:
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Essentials for probes.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make a probe.","Tutorial complete! You have learned:
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Essentials for probes.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make a probe.","Tutorial complete! You have learned:
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Essentials for probes.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make a probe.","Tutorial complete! You have learned:
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Essentials for probes.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make a probe.","Tutorial complete! You have learned:
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Essentials for probes.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make a probe.","Tutorial complete! You have learned:
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Essentials for probes.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make a probe.","Tutorial complete! You have learned:
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Essentials for probes.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make a probe.","Tutorial complete! You have learned:
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Essentials for probes.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make a probe.",,Localized
