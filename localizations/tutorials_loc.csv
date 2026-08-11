@@ -1527,10 +1527,10 @@ Let's test it to see what's the issue!
 Testons la pour voir quel est le problème !
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 
-Appuyez sur le bouton GO pour lancer cette fusée","Director, our engineers are trying to make a rocket, but they can't make it fly straight. 
-Let's test it to see what's the issue!
+Appuyez sur le bouton GO pour lancer cette fusée","Direttore, i nostri ingegneri stanno cercando di costruire un razzo, ma non riescono a farlo volare dritto
+Eseguiamo un test per capire quale sia il problema!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace>  Press the GO button to launch this rocket","Director, our engineers are trying to make a rocket, but they can't make it fly straight. 
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Premi il pulsante VAI per lanciare questo razzo","Director, our engineers are trying to make a rocket, but they can't make it fly straight. 
 Let's test it to see what's the issue!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace>  Press the GO button to launch this rocket","Director, our engineers are trying to make a rocket, but they can't make it fly straight. 
@@ -1574,9 +1574,9 @@ Tutorials/tutorial_4.3.3,Text,,"It seems that this rocket indeed is unstable!
 
 Let's go to the VAB and try to fix it.","On dirait bien que cette fusée est vraiment instable !
 
-Allons dans le BAV pour essayer de régler ça.","It seems that this rocket indeed is unstable!
+Allons dans le BAV pour essayer de régler ça.","A quanto pare questo razzo è davvero instabile!
 
-Let's go to the VAB and try to fix it.","It seems that this rocket indeed is unstable!
+Torniamo nel VAB e proviamo a sistemarlo","It seems that this rocket indeed is unstable!
 
 Let's go to the VAB and try to fix it.","It seems that this rocket indeed is unstable!
 
@@ -1603,15 +1603,15 @@ Let's go to the VAB and try to fix it.","It seems that this rocket indeed is uns
 Let's go to the VAB and try to fix it.","It seems that this rocket indeed is unstable!
 
 Let's go to the VAB and try to fix it.",,Localized
-Tutorials/tutorial_4.3.5,Text,,"Ok, now let's see how we can help them and fix that rocket!","Ok, maintenant voyons comment nous pouvons les aider et réparer cette fusée !","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!",好，来看看我们怎么帮他们把这枚火箭修好！,"Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!",,Localized
-Tutorials/tutorial_4.3.6,Text,,It seems that this ship's first stage is way too wide and short!,On dirait que le premier étage de ce vaisseau est bien trop large et court !,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,看起来这艘飞船的第一级太宽太短了！,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,,Localized
+Tutorials/tutorial_4.3.5,Text,,"Ok, now let's see how we can help them and fix that rocket!","Ok, maintenant voyons comment nous pouvons les aider et réparer cette fusée !","Bene, ora vediamo come possiamo aiutarli e sistemare quel razzo!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!",好，来看看我们怎么帮他们把这枚火箭修好！,"Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!","Ok, now let's see how we can help them and fix that rocket!",,Localized
+Tutorials/tutorial_4.3.6,Text,,It seems that this ship's first stage is way too wide and short!,On dirait que le premier étage de ce vaisseau est bien trop large et court !,A quanto pare il primo stadio di questo veicolo è decisamente troppo largo e corto!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,看起来这艘飞船的第一级太宽太短了！,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,It seems that this ship's first stage is way too wide and short!,,Localized
 Tutorials/tutorial_4.3.7,Text,,"First things first, short rockets are far less stable than taller rockets. 
 
 Let's increase the height of this rocket.","Commençons par le commencement, les fusées plus courtes sont bien moins stables que les plus grandes.
 
-Agrandissons cette fusée.","First things first, short rockets are far less stable than taller rockets. 
+Agrandissons cette fusée.","Prima di tutto, i razzi corti sono decisamente meno stabili di quelli lunghi
 
-Let's increase the height of this rocket.","First things first, short rockets are far less stable than taller rockets. 
+Incrementiamo l'altezza di questo razzo","First things first, short rockets are far less stable than taller rockets. 
 
 Let's increase the height of this rocket.","First things first, short rockets are far less stable than taller rockets. 
 
@@ -1642,9 +1642,9 @@ Tutorials/tutorial_4.3.8,Text,,"First, we will delete the first stage of the roc
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the ""S4-6400"" fuel tank below the decoupler that connects the second orbital stage to the wider first stage.","Premièrement, effaçons le premier étage pour en faire un nouveau plus stable.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Sélectionnez le réservoir ""S4-6400"" en dessous du découpleur qui connecte le deuxième étage orbital au premier étage plus large.","First, we will delete the first stage of the rocket and make a new one that will be more stable.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Sélectionnez le réservoir ""S4-6400"" en dessous du découpleur qui connecte le deuxième étage orbital au premier étage plus large.","Per prima cosa elimineremo il primo stadio del razzo e ne realizzeremo uno nuovo che sarà più stabile
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the ""S4-6400"" fuel tank below the decoupler that connects the second orbital stage to the wider first stage.","First, we will delete the first stage of the rocket and make a new one that will be more stable.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Seleziona il serbatoio di carburante ""S4-6400"" sotto il disaccoppiatore che collega il secondo stadio orbitale al primo stadio più largo","First, we will delete the first stage of the rocket and make a new one that will be more stable.
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the ""S4-6400"" fuel tank below the decoupler that connects the second orbital stage to the wider first stage.","First, we will delete the first stage of the rocket and make a new one that will be more stable.
 
@@ -1671,107 +1671,107 @@ Tutorials/tutorial_4.3.8,Text,,"First, we will delete the first stage of the roc
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the ""S4-6400"" fuel tank below the decoupler that connects the second orbital stage to the wider first stage.","First, we will delete the first stage of the rocket and make a new one that will be more stable.
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the ""S4-6400"" fuel tank below the decoupler that connects the second orbital stage to the wider first stage.",,Localized
-Tutorials/tutorial_4.3.9,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Déplacer la section que vous avez retiré dans la zone poubelle.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 将移除的部分放入弃置区。","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.",,Localized
+Tutorials/tutorial_4.3.9,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Déplacer la section que vous avez retiré dans la zone poubelle.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Posiziona la parte rimossa nel Cestino","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 将移除的部分放入弃置区。","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the removed section in the Trash area.",,Localized
 Tutorials/tutorial_4.3.10,Text,,"Now, we also need to remove those stabilizers at the top of the rocket.
 
-Those are useful but placed at the wrong place
+Those are useful, but incorrectly placed. We'll need them later.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and place the stabilizer in the trash area","Maintenant nous devons retirer ces stabilisateurs en haut de la fusée.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and delete the stabilizers","Maintenant nous devons retirer ces stabilisateurs en haut de la fusée.
 
-Ils sont utile mais placés au mauvais endroit
+Ils sont utiles, mais placés au mauvais endroit
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Sélectionnez les stabilisateurs et placez les dans la zone poubelle","Now, we also need to remove those stabilizers at the top of the rocket.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Sélectionnez les stabilisateurs et supprimer les","Ora dobbiamo rimuovere anche quegli stabilizzatori in cima al razzo.
 
-Those are useful but placed at the wrong place
+Sono utili, ma posizionati nel punto sbagliato. Ci serviranno più tardi.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and place the stabilizer in the trash area","Now, we also need to remove those stabilizers at the top of the rocket.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Seleziona ed elimina gli stabilizzatori","Now, we also need to remove those stabilizers at the top of the rocket.
 
-Those are useful but placed at the wrong place
+Those are useful, but incorrectly placed. We'll need them later.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and place the stabilizer in the trash area","Now, we also need to remove those stabilizers at the top of the rocket.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and delete the stabilizers","Now, we also need to remove those stabilizers at the top of the rocket.
 
-Those are useful but placed at the wrong place
+Those are useful, but incorrectly placed. We'll need them later.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and place the stabilizer in the trash area","Now, we also need to remove those stabilizers at the top of the rocket.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and delete the stabilizers","Now, we also need to remove those stabilizers at the top of the rocket.
 
-Those are useful but placed at the wrong place
+Those are useful, but incorrectly placed. We'll need them later.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and place the stabilizer in the trash area","Now, we also need to remove those stabilizers at the top of the rocket.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and delete the stabilizers","Now, we also need to remove those stabilizers at the top of the rocket.
 
-Those are useful but placed at the wrong place
+Those are useful, but incorrectly placed. We'll need them later.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and place the stabilizer in the trash area","Now, we also need to remove those stabilizers at the top of the rocket.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and delete the stabilizers","Now, we also need to remove those stabilizers at the top of the rocket.
 
-Those are useful but placed at the wrong place
+Those are useful, but incorrectly placed. We'll need them later.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and place the stabilizer in the trash area","Now, we also need to remove those stabilizers at the top of the rocket.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and delete the stabilizers","Now, we also need to remove those stabilizers at the top of the rocket.
 
-Those are useful but placed at the wrong place
+Those are useful, but incorrectly placed. We'll need them later.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and place the stabilizer in the trash area","现在，我们还要移除火箭顶部的那些稳定翼。
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and delete the stabilizers","现在，我们还要移除火箭顶部的那些稳定翼。
 
 它们虽然有用，但放在了错误的位置。
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 选中稳定翼并将其放入弃置区。","Now, we also need to remove those stabilizers at the top of the rocket.
 
-Those are useful but placed at the wrong place
+Those are useful, but incorrectly placed. We'll need them later.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and place the stabilizer in the trash area","Now, we also need to remove those stabilizers at the top of the rocket.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and delete the stabilizers","Now, we also need to remove those stabilizers at the top of the rocket.
 
-Those are useful but placed at the wrong place
+Those are useful, but incorrectly placed. We'll need them later.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and place the stabilizer in the trash area","Now, we also need to remove those stabilizers at the top of the rocket.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and delete the stabilizers","Now, we also need to remove those stabilizers at the top of the rocket.
 
-Those are useful but placed at the wrong place
+Those are useful, but incorrectly placed. We'll need them later.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and place the stabilizer in the trash area","Now, we also need to remove those stabilizers at the top of the rocket.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and delete the stabilizers","Now, we also need to remove those stabilizers at the top of the rocket.
 
-Those are useful but placed at the wrong place
+Those are useful, but incorrectly placed. We'll need them later.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and place the stabilizer in the trash area","Now, we also need to remove those stabilizers at the top of the rocket.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and delete the stabilizers","Now, we also need to remove those stabilizers at the top of the rocket.
 
-Those are useful but placed at the wrong place
+Those are useful, but incorrectly placed. We'll need them later.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and place the stabilizer in the trash area","Now, we also need to remove those stabilizers at the top of the rocket.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and delete the stabilizers","Now, we also need to remove those stabilizers at the top of the rocket.
 
-Those are useful but placed at the wrong place
+Those are useful, but incorrectly placed. We'll need them later.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and place the stabilizer in the trash area",,Localized
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select and delete the stabilizers",,Localized
 Tutorials/tutorial_4.3.11,Text,,"Goodbye! Now, let's attach longer and thinner fuel tanks to this rocket.
 
-Fuel tanks like the x200-32 Methalox Fuel Tank would be perfect for that!
+Fuel tanks like the X200-32 Methalox Fuel Tank would be perfect for that!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Fuel Tank category in the Parts Picker menu.","Goodbye! Now, let's attach longer and thinner fuel tanks to this rocket.
 
-Fuel tanks like the x200-32 Methalox Fuel Tank would be perfect for that!
+Fuel tanks like the X200-32 Methalox Fuel Tank would be perfect for that!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Fuel Tank category in the Parts Picker menu.","Addio! Ora agganciamo a questo razzo dei serbatoi di carburante più lunghi e sottili
+
+Dei serbatoi come l'X200-32 sarebbero perfetti!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Seleziona la categoria Serbatoi nel menu Selezionatore Parti","Goodbye! Now, let's attach longer and thinner fuel tanks to this rocket.
+
+Fuel tanks like the X200-32 Methalox Fuel Tank would be perfect for that!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Fuel Tank category in the Parts Picker menu.","Goodbye! Now, let's attach longer and thinner fuel tanks to this rocket.
 
-Fuel tanks like the x200-32 Methalox Fuel Tank would be perfect for that!
+Fuel tanks like the X200-32 Methalox Fuel Tank would be perfect for that!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Fuel Tank category in the Parts Picker menu.","Goodbye! Now, let's attach longer and thinner fuel tanks to this rocket.
 
-Fuel tanks like the x200-32 Methalox Fuel Tank would be perfect for that!
+Fuel tanks like the X200-32 Methalox Fuel Tank would be perfect for that!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Fuel Tank category in the Parts Picker menu.","Goodbye! Now, let's attach longer and thinner fuel tanks to this rocket.
 
-Fuel tanks like the x200-32 Methalox Fuel Tank would be perfect for that!
+Fuel tanks like the X200-32 Methalox Fuel Tank would be perfect for that!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Fuel Tank category in the Parts Picker menu.","Goodbye! Now, let's attach longer and thinner fuel tanks to this rocket.
 
-Fuel tanks like the x200-32 Methalox Fuel Tank would be perfect for that!
+Fuel tanks like the X200-32 Methalox Fuel Tank would be perfect for that!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Fuel Tank category in the Parts Picker menu.","Goodbye! Now, let's attach longer and thinner fuel tanks to this rocket.
 
-Fuel tanks like the x200-32 Methalox Fuel Tank would be perfect for that!
-
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Fuel Tank category in the Parts Picker menu.","Goodbye! Now, let's attach longer and thinner fuel tanks to this rocket.
-
-Fuel tanks like the x200-32 Methalox Fuel Tank would be perfect for that!
-
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Fuel Tank category in the Parts Picker menu.","Goodbye! Now, let's attach longer and thinner fuel tanks to this rocket.
-
-Fuel tanks like the x200-32 Methalox Fuel Tank would be perfect for that!
+Fuel tanks like the X200-32 Methalox Fuel Tank would be perfect for that!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Fuel Tank category in the Parts Picker menu.","再见！现在我们来给这枚火箭装上更长更细的燃料箱。
 
@@ -1779,104 +1779,104 @@ Fuel tanks like the x200-32 Methalox Fuel Tank would be perfect for that!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 在部件菜单中选择燃料箱类别。","Goodbye! Now, let's attach longer and thinner fuel tanks to this rocket.
 
-Fuel tanks like the x200-32 Methalox Fuel Tank would be perfect for that!
+Fuel tanks like the X200-32 Methalox Fuel Tank would be perfect for that!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Fuel Tank category in the Parts Picker menu.","Goodbye! Now, let's attach longer and thinner fuel tanks to this rocket.
 
-Fuel tanks like the x200-32 Methalox Fuel Tank would be perfect for that!
+Fuel tanks like the X200-32 Methalox Fuel Tank would be perfect for that!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Fuel Tank category in the Parts Picker menu.","Goodbye! Now, let's attach longer and thinner fuel tanks to this rocket.
 
-Fuel tanks like the x200-32 Methalox Fuel Tank would be perfect for that!
+Fuel tanks like the X200-32 Methalox Fuel Tank would be perfect for that!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Fuel Tank category in the Parts Picker menu.","Goodbye! Now, let's attach longer and thinner fuel tanks to this rocket.
 
-Fuel tanks like the x200-32 Methalox Fuel Tank would be perfect for that!
+Fuel tanks like the X200-32 Methalox Fuel Tank would be perfect for that!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Fuel Tank category in the Parts Picker menu.","Goodbye! Now, let's attach longer and thinner fuel tanks to this rocket.
 
-Fuel tanks like the x200-32 Methalox Fuel Tank would be perfect for that!
+Fuel tanks like the X200-32 Methalox Fuel Tank would be perfect for that!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Fuel Tank category in the Parts Picker menu.","Goodbye! Now, let's attach longer and thinner fuel tanks to this rocket.
 
-Fuel tanks like the x200-32 Methalox Fuel Tank would be perfect for that!
+Fuel tanks like the X200-32 Methalox Fuel Tank would be perfect for that!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Fuel Tank category in the Parts Picker menu.",,Localized
-Tutorials/tutorial_4.3.12,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now Select the x200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now Select the x200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now Select the x200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now Select the x200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now Select the x200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now Select the x200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now Select the x200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now Select the x200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now Select the x200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 现在选择x200-32液氧甲烷燃料箱。","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now Select the x200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now Select the x200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now Select the x200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now Select the x200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now Select the x200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now Select the x200-32 Methalox Fuel Tank.",,Localized
-Tutorials/tutorial_4.3.13,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the x200-32 Methalox Fuel Tank below the highlighted Decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the x200-32 Methalox Fuel Tank below the highlighted Decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the x200-32 Methalox Fuel Tank below the highlighted Decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the x200-32 Methalox Fuel Tank below the highlighted Decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the x200-32 Methalox Fuel Tank below the highlighted Decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the x200-32 Methalox Fuel Tank below the highlighted Decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the x200-32 Methalox Fuel Tank below the highlighted Decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the x200-32 Methalox Fuel Tank below the highlighted Decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the x200-32 Methalox Fuel Tank below the highlighted Decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 将x200-32液氧甲烷燃料箱放在高亮显示的分离器下方。","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the x200-32 Methalox Fuel Tank below the highlighted Decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the x200-32 Methalox Fuel Tank below the highlighted Decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the x200-32 Methalox Fuel Tank below the highlighted Decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the x200-32 Methalox Fuel Tank below the highlighted Decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the x200-32 Methalox Fuel Tank below the highlighted Decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the x200-32 Methalox Fuel Tank below the highlighted Decoupler",,Localized
+Tutorials/tutorial_4.3.12,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now select the X200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now select the X200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Adesso seleziona il serbatoio di carburante Methalox X200-32","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now select the X200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now select the X200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now select the X200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now select the X200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now select the X200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now select the X200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 现在选择x200-32液氧甲烷燃料箱。","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now select the X200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now select the X200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now select the X200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now select the X200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now select the X200-32 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now select the X200-32 Methalox Fuel Tank.",,Localized
+Tutorials/tutorial_4.3.13,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the X200-32 Methalox Fuel Tank below the highlighted decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the X200-32 Methalox Fuel Tank below the highlighted decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Posiziona il serbatoio di carburante Methalox X200-32 sotto il disaccoppiatore evidenziato","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the X200-32 Methalox Fuel Tank below the highlighted decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the X200-32 Methalox Fuel Tank below the highlighted decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the X200-32 Methalox Fuel Tank below the highlighted decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the X200-32 Methalox Fuel Tank below the highlighted decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the X200-32 Methalox Fuel Tank below the highlighted decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the X200-32 Methalox Fuel Tank below the highlighted decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 将x200-32液氧甲烷燃料箱放在高亮显示的分离器下方。","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the X200-32 Methalox Fuel Tank below the highlighted decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the X200-32 Methalox Fuel Tank below the highlighted decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the X200-32 Methalox Fuel Tank below the highlighted decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the X200-32 Methalox Fuel Tank below the highlighted decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the X200-32 Methalox Fuel Tank below the highlighted decoupler","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place the X200-32 Methalox Fuel Tank below the highlighted decoupler",,Localized
 Tutorials/tutorial_4.3.14,Text,,"Let's add another one to make our rocket taller and make sure that we have enough fuel.
 
-Instead of using another x200-32 tank, let's use a x200-64 fuel tank, this will provide more fuel to our first stage!
+Instead of using another X200-32 tank, let's use a X200-64 fuel tank, this will provide more fuel to our first stage!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the x200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the X200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
 
-Instead of using another x200-32 tank, let's use a x200-64 fuel tank, this will provide more fuel to our first stage!
+Instead of using another X200-32 tank, let's use a X200-64 fuel tank, this will provide more fuel to our first stage!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the x200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the X200-64 Methalox Fuel Tank.","Aggiungiamone un altro per rendere il nostro razzo più alto e assicurarci di avere abbastanza carburante
 
-Instead of using another x200-32 tank, let's use a x200-64 fuel tank, this will provide more fuel to our first stage!
+Invece di usare un altro serbatoio X200-32, usiamo un serbatoio di carburante X200-64: questo fornirà più carburante al nostro primo stadio!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the x200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Seleziona il serbatoio di carburante Methalox X200-64","Let's add another one to make our rocket taller and make sure that we have enough fuel.
 
-Instead of using another x200-32 tank, let's use a x200-64 fuel tank, this will provide more fuel to our first stage!
+Instead of using another X200-32 tank, let's use a X200-64 fuel tank, this will provide more fuel to our first stage!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the x200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the X200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
 
-Instead of using another x200-32 tank, let's use a x200-64 fuel tank, this will provide more fuel to our first stage!
+Instead of using another X200-32 tank, let's use a X200-64 fuel tank, this will provide more fuel to our first stage!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the x200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the X200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
 
-Instead of using another x200-32 tank, let's use a x200-64 fuel tank, this will provide more fuel to our first stage!
+Instead of using another X200-32 tank, let's use a X200-64 fuel tank, this will provide more fuel to our first stage!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the x200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the X200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
 
-Instead of using another x200-32 tank, let's use a x200-64 fuel tank, this will provide more fuel to our first stage!
+Instead of using another X200-32 tank, let's use a X200-64 fuel tank, this will provide more fuel to our first stage!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the x200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the X200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
 
-Instead of using another x200-32 tank, let's use a x200-64 fuel tank, this will provide more fuel to our first stage!
+Instead of using another X200-32 tank, let's use a X200-64 fuel tank, this will provide more fuel to our first stage!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the x200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the X200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
 
-Instead of using another x200-32 tank, let's use a x200-64 fuel tank, this will provide more fuel to our first stage!
+Instead of using another X200-32 tank, let's use a X200-64 fuel tank, this will provide more fuel to our first stage!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the x200-64 Methalox Fuel Tank.","让我们再加一个，让火箭更高，并确保我们有足够的燃料。
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the X200-64 Methalox Fuel Tank.","让我们再加一个，让火箭更高，并确保我们有足够的燃料。
 
 与其再用一个x200-32燃料箱，不如用x200-64燃料箱，这将为我们的第一级提供更多燃料！
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 选择x200-64液氧甲烷燃料箱。","Let's add another one to make our rocket taller and make sure that we have enough fuel.
 
-Instead of using another x200-32 tank, let's use a x200-64 fuel tank, this will provide more fuel to our first stage!
+Instead of using another X200-32 tank, let's use a X200-64 fuel tank, this will provide more fuel to our first stage!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the x200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the X200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
 
-Instead of using another x200-32 tank, let's use a x200-64 fuel tank, this will provide more fuel to our first stage!
+Instead of using another X200-32 tank, let's use a X200-64 fuel tank, this will provide more fuel to our first stage!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the x200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the X200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
 
-Instead of using another x200-32 tank, let's use a x200-64 fuel tank, this will provide more fuel to our first stage!
+Instead of using another X200-32 tank, let's use a X200-64 fuel tank, this will provide more fuel to our first stage!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the x200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the X200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
 
-Instead of using another x200-32 tank, let's use a x200-64 fuel tank, this will provide more fuel to our first stage!
+Instead of using another X200-32 tank, let's use a X200-64 fuel tank, this will provide more fuel to our first stage!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the x200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the X200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
 
-Instead of using another x200-32 tank, let's use a x200-64 fuel tank, this will provide more fuel to our first stage!
+Instead of using another X200-32 tank, let's use a X200-64 fuel tank, this will provide more fuel to our first stage!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the x200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the X200-64 Methalox Fuel Tank.","Let's add another one to make our rocket taller and make sure that we have enough fuel.
 
-Instead of using another x200-32 tank, let's use a x200-64 fuel tank, this will provide more fuel to our first stage!
+Instead of using another X200-32 tank, let's use a X200-64 fuel tank, this will provide more fuel to our first stage!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the x200-64 Methalox Fuel Tank.",,Localized
-Tutorials/tutorial_4.3.15,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a x200-64 Methalox Fuel Tank below the previously placed Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a x200-64 Methalox Fuel Tank below the previously placed Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a x200-64 Methalox Fuel Tank below the previously placed Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a x200-64 Methalox Fuel Tank below the previously placed Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a x200-64 Methalox Fuel Tank below the previously placed Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a x200-64 Methalox Fuel Tank below the previously placed Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a x200-64 Methalox Fuel Tank below the previously placed Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a x200-64 Methalox Fuel Tank below the previously placed Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a x200-64 Methalox Fuel Tank below the previously placed Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 将x200-64液氧甲烷燃料箱放在先前放置的燃料箱下方。","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a x200-64 Methalox Fuel Tank below the previously placed Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a x200-64 Methalox Fuel Tank below the previously placed Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a x200-64 Methalox Fuel Tank below the previously placed Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a x200-64 Methalox Fuel Tank below the previously placed Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a x200-64 Methalox Fuel Tank below the previously placed Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a x200-64 Methalox Fuel Tank below the previously placed Fuel Tank.",,Localized
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the X200-64 Methalox Fuel Tank.",,Localized
+Tutorials/tutorial_4.3.15,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a X200-64 Methalox Fuel Tank below the previously placed fuel tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a X200-64 Methalox Fuel Tank below the previously placed fuel tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Posiziona un serbatoio di carburante Methalox X200-64 sotto il serbatoio di carburante posizionato in precedenza","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a X200-64 Methalox Fuel Tank below the previously placed fuel tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a X200-64 Methalox Fuel Tank below the previously placed fuel tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a X200-64 Methalox Fuel Tank below the previously placed fuel tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a X200-64 Methalox Fuel Tank below the previously placed fuel tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a X200-64 Methalox Fuel Tank below the previously placed fuel tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a X200-64 Methalox Fuel Tank below the previously placed fuel tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 将x200-64液氧甲烷燃料箱放在先前放置的燃料箱下方。","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a X200-64 Methalox Fuel Tank below the previously placed fuel tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a X200-64 Methalox Fuel Tank below the previously placed fuel tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a X200-64 Methalox Fuel Tank below the previously placed fuel tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a X200-64 Methalox Fuel Tank below the previously placed fuel tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a X200-64 Methalox Fuel Tank below the previously placed fuel tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Place a X200-64 Methalox Fuel Tank below the previously placed fuel tank.",,Localized
 Tutorials/tutorial_4.3.16,Text,,"Wow, much taller! Now it needs an engine.
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Engine category in the Parts Picker menu.","Wow, much taller! Now it needs an engine.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Engine category in the Parts Picker menu.","Wow, much taller! Now it needs an engine.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Engine category in the Parts Picker menu.","Wow, molto più alto! Ora ci serve un motore
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Engine category in the Parts Picker menu.","Wow, much taller! Now it needs an engine.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Seleziona la categoria Motori nel menu Selezionatore Parti","Wow, much taller! Now it needs an engine.
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Engine category in the Parts Picker menu.","Wow, much taller! Now it needs an engine.
 
@@ -1903,176 +1903,176 @@ Tutorials/tutorial_4.3.16,Text,,"Wow, much taller! Now it needs an engine.
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Engine category in the Parts Picker menu.","Wow, much taller! Now it needs an engine.
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Engine category in the Parts Picker menu.",,Localized
-Tutorials/tutorial_4.3.17,Text,,"A perfect engine for this task would be the RE-M3 ""MainSail"" engine!
+Tutorials/tutorial_4.3.17,Text,,"We need a powerful launcher engine for our first stage. Ooh! A perfect engine for this task would be the RE-M3 ""Mainsail"" engine!
 
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""MainSail"" engine","A perfect engine for this task would be the RE-M3 ""MainSail"" engine!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""Mainsail"" engine","We need a powerful launcher engine for our first stage. Ooh! A perfect engine for this task would be the RE-M3 ""Mainsail"" engine!
 
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""MainSail"" engine","A perfect engine for this task would be the RE-M3 ""MainSail"" engine!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""Mainsail"" engine","Ci serve un potente motore da lancio per il nostro primo stadio. Uh! Un motore perfetto per questo compito sarebbe il motore RE-M3 ""Mainsail""!
 
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""MainSail"" engine","A perfect engine for this task would be the RE-M3 ""MainSail"" engine!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Seleziona il motore RE-M3 ""Mainsail""","We need a powerful launcher engine for our first stage. Ooh! A perfect engine for this task would be the RE-M3 ""Mainsail"" engine!
 
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""MainSail"" engine","A perfect engine for this task would be the RE-M3 ""MainSail"" engine!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""Mainsail"" engine","We need a powerful launcher engine for our first stage. Ooh! A perfect engine for this task would be the RE-M3 ""Mainsail"" engine!
 
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""MainSail"" engine","A perfect engine for this task would be the RE-M3 ""MainSail"" engine!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""Mainsail"" engine","We need a powerful launcher engine for our first stage. Ooh! A perfect engine for this task would be the RE-M3 ""Mainsail"" engine!
 
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""MainSail"" engine","A perfect engine for this task would be the RE-M3 ""MainSail"" engine!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""Mainsail"" engine","We need a powerful launcher engine for our first stage. Ooh! A perfect engine for this task would be the RE-M3 ""Mainsail"" engine!
 
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""MainSail"" engine","A perfect engine for this task would be the RE-M3 ""MainSail"" engine!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""Mainsail"" engine","We need a powerful launcher engine for our first stage. Ooh! A perfect engine for this task would be the RE-M3 ""Mainsail"" engine!
 
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""MainSail"" engine","A perfect engine for this task would be the RE-M3 ""MainSail"" engine!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""Mainsail"" engine","We need a powerful launcher engine for our first stage. Ooh! A perfect engine for this task would be the RE-M3 ""Mainsail"" engine!
 
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""MainSail"" engine","这项任务最完美的引擎是RE-M3“主帆”引擎！
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""Mainsail"" engine","这项任务最完美的引擎是RE-M3“主帆”引擎！
 
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 选择RE-M3“主帆”引擎。","A perfect engine for this task would be the RE-M3 ""MainSail"" engine!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 选择RE-M3“主帆”引擎。","We need a powerful launcher engine for our first stage. Ooh! A perfect engine for this task would be the RE-M3 ""Mainsail"" engine!
 
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""MainSail"" engine","A perfect engine for this task would be the RE-M3 ""MainSail"" engine!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""Mainsail"" engine","We need a powerful launcher engine for our first stage. Ooh! A perfect engine for this task would be the RE-M3 ""Mainsail"" engine!
 
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""MainSail"" engine","A perfect engine for this task would be the RE-M3 ""MainSail"" engine!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""Mainsail"" engine","We need a powerful launcher engine for our first stage. Ooh! A perfect engine for this task would be the RE-M3 ""Mainsail"" engine!
 
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""MainSail"" engine","A perfect engine for this task would be the RE-M3 ""MainSail"" engine!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""Mainsail"" engine","We need a powerful launcher engine for our first stage. Ooh! A perfect engine for this task would be the RE-M3 ""Mainsail"" engine!
 
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""MainSail"" engine","A perfect engine for this task would be the RE-M3 ""MainSail"" engine!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""Mainsail"" engine","We need a powerful launcher engine for our first stage. Ooh! A perfect engine for this task would be the RE-M3 ""Mainsail"" engine!
 
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""MainSail"" engine","A perfect engine for this task would be the RE-M3 ""MainSail"" engine!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""Mainsail"" engine","We need a powerful launcher engine for our first stage. Ooh! A perfect engine for this task would be the RE-M3 ""Mainsail"" engine!
 
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""MainSail"" engine",,Localized
-Tutorials/tutorial_4.3.18,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""MainSail"" engine to the bottom of the x200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""MainSail"" engine to the bottom of the x200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""MainSail"" engine to the bottom of the x200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""MainSail"" engine to the bottom of the x200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""MainSail"" engine to the bottom of the x200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""MainSail"" engine to the bottom of the x200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""MainSail"" engine to the bottom of the x200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""MainSail"" engine to the bottom of the x200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""MainSail"" engine to the bottom of the x200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 将RE-M3“主帆”引擎安装到x200-64液氧甲烷燃料箱的底部。","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""MainSail"" engine to the bottom of the x200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""MainSail"" engine to the bottom of the x200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""MainSail"" engine to the bottom of the x200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""MainSail"" engine to the bottom of the x200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""MainSail"" engine to the bottom of the x200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""MainSail"" engine to the bottom of the x200-64 Methalox Fuel Tank.",,Localized
-Tutorials/tutorial_4.3.19,Text,,"Perfect, this rocket has a more stable first stage, thinner one but is much taller which will make it more stable in-flight.","Perfect, this rocket has a more stable first stage, thinner one but is much taller which will make it more stable in-flight.","Perfect, this rocket has a more stable first stage, thinner one but is much taller which will make it more stable in-flight.","Perfect, this rocket has a more stable first stage, thinner one but is much taller which will make it more stable in-flight.","Perfect, this rocket has a more stable first stage, thinner one but is much taller which will make it more stable in-flight.","Perfect, this rocket has a more stable first stage, thinner one but is much taller which will make it more stable in-flight.","Perfect, this rocket has a more stable first stage, thinner one but is much taller which will make it more stable in-flight.","Perfect, this rocket has a more stable first stage, thinner one but is much taller which will make it more stable in-flight.","Perfect, this rocket has a more stable first stage, thinner one but is much taller which will make it more stable in-flight.",完美，这枚火箭的第一级更稳定，虽然更细但更高，这将使其在飞行中更加稳定。,"Perfect, this rocket has a more stable first stage, thinner one but is much taller which will make it more stable in-flight.","Perfect, this rocket has a more stable first stage, thinner one but is much taller which will make it more stable in-flight.","Perfect, this rocket has a more stable first stage, thinner one but is much taller which will make it more stable in-flight.","Perfect, this rocket has a more stable first stage, thinner one but is much taller which will make it more stable in-flight.","Perfect, this rocket has a more stable first stage, thinner one but is much taller which will make it more stable in-flight.","Perfect, this rocket has a more stable first stage, thinner one but is much taller which will make it more stable in-flight.",,Localized
-Tutorials/tutorial_4.3.20,Text,,"As we spoke before, our rocket needs some stabilizers, but placed at the bottom of the rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the RE-M3 ""Mainsail"" engine",,Localized
+Tutorials/tutorial_4.3.18,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""Mainsail"" engine to the bottom of the X200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""Mainsail"" engine to the bottom of the X200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Aggancia il motore RE-M3 ""Mainsail"" alla base del serbatoio di carburante Methalox X200-64","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""Mainsail"" engine to the bottom of the X200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""Mainsail"" engine to the bottom of the X200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""Mainsail"" engine to the bottom of the X200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""Mainsail"" engine to the bottom of the X200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""Mainsail"" engine to the bottom of the X200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""Mainsail"" engine to the bottom of the X200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 将RE-M3“主帆”引擎安装到x200-64液氧甲烷燃料箱的底部。","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""Mainsail"" engine to the bottom of the X200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""Mainsail"" engine to the bottom of the X200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""Mainsail"" engine to the bottom of the X200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""Mainsail"" engine to the bottom of the X200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""Mainsail"" engine to the bottom of the X200-64 Methalox Fuel Tank.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the RE-M3 ""Mainsail"" engine to the bottom of the X200-64 Methalox Fuel Tank.",,Localized
+Tutorials/tutorial_4.3.19,Text,,"Perfect, this rocket has a taller, but thinner first stage which will make it more stable in-flight.","Perfect, this rocket has a taller, but thinner first stage which will make it more stable in-flight.","Perfetto, questo razzo ha un primo stadio più lungo, ma più sottile, il che lo renderà più stabile in volo","Perfect, this rocket has a taller, but thinner first stage which will make it more stable in-flight.","Perfect, this rocket has a taller, but thinner first stage which will make it more stable in-flight.","Perfect, this rocket has a taller, but thinner first stage which will make it more stable in-flight.","Perfect, this rocket has a taller, but thinner first stage which will make it more stable in-flight.","Perfect, this rocket has a taller, but thinner first stage which will make it more stable in-flight.","Perfect, this rocket has a taller, but thinner first stage which will make it more stable in-flight.",完美，这枚火箭的第一级更稳定，虽然更细但更高，这将使其在飞行中更加稳定。,"Perfect, this rocket has a taller, but thinner first stage which will make it more stable in-flight.","Perfect, this rocket has a taller, but thinner first stage which will make it more stable in-flight.","Perfect, this rocket has a taller, but thinner first stage which will make it more stable in-flight.","Perfect, this rocket has a taller, but thinner first stage which will make it more stable in-flight.","Perfect, this rocket has a taller, but thinner first stage which will make it more stable in-flight.","Perfect, this rocket has a taller, but thinner first stage which will make it more stable in-flight.",,Localized
+Tutorials/tutorial_4.3.20,Text,,"As mentioned before, our rocket needs some stabilizers. Ideally, at the bottom of the rocket!
 
-To make sure that we have 4 stabilizers placed perfectly, we can use the symmetry mode
+To make sure that we have 4 stabilizers placed perfectly, we can use Symmetry.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As we spoke before, our rocket needs some stabilizers, but placed at the bottom of the rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As mentioned before, our rocket needs some stabilizers. Ideally, at the bottom of the rocket!
 
-To make sure that we have 4 stabilizers placed perfectly, we can use the symmetry mode
+To make sure that we have 4 stabilizers placed perfectly, we can use Symmetry.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As we spoke before, our rocket needs some stabilizers, but placed at the bottom of the rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","Come detto prima, il nostro razzo ha bisogno di alcuni stabilizzatori. Idealmente, alla base del razzo!
 
-To make sure that we have 4 stabilizers placed perfectly, we can use the symmetry mode
+Per assicurarci che i 4 stabilizzatori siano posizionati alla perfezione, possiamo usare la Simmetria
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As we spoke before, our rocket needs some stabilizers, but placed at the bottom of the rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Fai clic sul pulsante della modalità Simmetria per selezionare la simmetria 4x","As mentioned before, our rocket needs some stabilizers. Ideally, at the bottom of the rocket!
 
-To make sure that we have 4 stabilizers placed perfectly, we can use the symmetry mode
+To make sure that we have 4 stabilizers placed perfectly, we can use Symmetry.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As we spoke before, our rocket needs some stabilizers, but placed at the bottom of the rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As mentioned before, our rocket needs some stabilizers. Ideally, at the bottom of the rocket!
 
-To make sure that we have 4 stabilizers placed perfectly, we can use the symmetry mode
+To make sure that we have 4 stabilizers placed perfectly, we can use Symmetry.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As we spoke before, our rocket needs some stabilizers, but placed at the bottom of the rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As mentioned before, our rocket needs some stabilizers. Ideally, at the bottom of the rocket!
 
-To make sure that we have 4 stabilizers placed perfectly, we can use the symmetry mode
+To make sure that we have 4 stabilizers placed perfectly, we can use Symmetry.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As we spoke before, our rocket needs some stabilizers, but placed at the bottom of the rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As mentioned before, our rocket needs some stabilizers. Ideally, at the bottom of the rocket!
 
-To make sure that we have 4 stabilizers placed perfectly, we can use the symmetry mode
+To make sure that we have 4 stabilizers placed perfectly, we can use Symmetry.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As we spoke before, our rocket needs some stabilizers, but placed at the bottom of the rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As mentioned before, our rocket needs some stabilizers. Ideally, at the bottom of the rocket!
 
-To make sure that we have 4 stabilizers placed perfectly, we can use the symmetry mode
+To make sure that we have 4 stabilizers placed perfectly, we can use Symmetry.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As we spoke before, our rocket needs some stabilizers, but placed at the bottom of the rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As mentioned before, our rocket needs some stabilizers. Ideally, at the bottom of the rocket!
 
-To make sure that we have 4 stabilizers placed perfectly, we can use the symmetry mode
+To make sure that we have 4 stabilizers placed perfectly, we can use Symmetry.
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","正如我们之前所说，我们的火箭需要一些稳定翼，但要装在火箭底部！
 
 为了确保完美地装上4个稳定翼，我们可以使用对称模式。
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 点击对称模式按钮，选择4x对称模式。","As we spoke before, our rocket needs some stabilizers, but placed at the bottom of the rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 点击对称模式按钮，选择4x对称模式。","As mentioned before, our rocket needs some stabilizers. Ideally, at the bottom of the rocket!
 
-To make sure that we have 4 stabilizers placed perfectly, we can use the symmetry mode
+To make sure that we have 4 stabilizers placed perfectly, we can use Symmetry.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As we spoke before, our rocket needs some stabilizers, but placed at the bottom of the rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As mentioned before, our rocket needs some stabilizers. Ideally, at the bottom of the rocket!
 
-To make sure that we have 4 stabilizers placed perfectly, we can use the symmetry mode
+To make sure that we have 4 stabilizers placed perfectly, we can use Symmetry.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As we spoke before, our rocket needs some stabilizers, but placed at the bottom of the rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As mentioned before, our rocket needs some stabilizers. Ideally, at the bottom of the rocket!
 
-To make sure that we have 4 stabilizers placed perfectly, we can use the symmetry mode
+To make sure that we have 4 stabilizers placed perfectly, we can use Symmetry.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As we spoke before, our rocket needs some stabilizers, but placed at the bottom of the rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As mentioned before, our rocket needs some stabilizers. Ideally, at the bottom of the rocket!
 
-To make sure that we have 4 stabilizers placed perfectly, we can use the symmetry mode
+To make sure that we have 4 stabilizers placed perfectly, we can use Symmetry.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As we spoke before, our rocket needs some stabilizers, but placed at the bottom of the rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As mentioned before, our rocket needs some stabilizers. Ideally, at the bottom of the rocket!
 
-To make sure that we have 4 stabilizers placed perfectly, we can use the symmetry mode
+To make sure that we have 4 stabilizers placed perfectly, we can use Symmetry.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As we spoke before, our rocket needs some stabilizers, but placed at the bottom of the rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","As mentioned before, our rocket needs some stabilizers. Ideally, at the bottom of the rocket!
 
-To make sure that we have 4 stabilizers placed perfectly, we can use the symmetry mode
+To make sure that we have 4 stabilizers placed perfectly, we can use Symmetry.
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.",,Localized
-Tutorials/tutorial_4.3.21,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 在部件菜单中选择空气动力学类别。","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.",,Localized
-Tutorials/tutorial_4.3.22,Text,,"The LPS-250 ""Transform"" stabilizers fins will be really good on that rocket!
+Tutorials/tutorial_4.3.21,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Seleziona la categoria Aerodinamica nel menu Selezionatore Parti","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 在部件菜单中选择空气动力学类别。","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Aerodynamics category in the Parts Picker menu.",,Localized
+Tutorials/tutorial_4.3.22,Text,,"The LPS-250 ""Transform"" stabilizer fins would look really good on our vessel!
 
-It will force the tail of the rocket to stay behind the nose, so it doesn't drift away.
+The reason we want this is so our <b><color=#FFA114><cspace=-.1>Center Of Pressure (CoP)</cspace></color></b> stays below our <b><color=#FFA114><cspace=-.1>Center Of Mass (CoM)</cspace></color></b>. Ever wonder why darts fly stably? Well, it's because of fins! While the top of our rocket wants to tip down, the air pushes on the fins in the other way, ensuring it doesn't veer off course!
 
-Also, its surface control will help the rocket to be more responsive to the actions of the pilot.
+Also, its small control surface will help our craft be more responsive in the atmosphere! It's a win-win situation!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizers fins will be really good on that rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizer fins would look really good on our vessel!
 
-It will force the tail of the rocket to stay behind the nose, so it doesn't drift away.
+The reason we want this is so our <b><color=#FFA114><cspace=-.1>Center Of Pressure (CoP)</cspace></color></b> stays below our <b><color=#FFA114><cspace=-.1>Center Of Mass (CoM)</cspace></color></b>. Ever wonder why darts fly stably? Well, it's because of fins! While the top of our rocket wants to tip down, the air pushes on the fins in the other way, ensuring it doesn't veer off course!
 
-Also, its surface control will help the rocket to be more responsive to the actions of the pilot.
+Also, its small control surface will help our craft be more responsive in the atmosphere! It's a win-win situation!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizers fins will be really good on that rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","Le alette stabilizzatrici LPS-250 ""Transform"" starebbero benissimo sul nostro veicolo!
 
-It will force the tail of the rocket to stay behind the nose, so it doesn't drift away.
+Il motivo per cui le vogliamo è fare in modo che il nostro <b><color=#FFA114><cspace=-.1>Centro di Pressione (CoP)</cspace></color></b> rimanga al di sotto del nostro <b><color=#FFA114><cspace=-.1>Centro di Massa (CoM)</cspace></color></b>. Ti sei mai chiesto perché le freccette volano in modo stabile? Beh, è grazie alle alette! Mentre la cima del nostro razzo tende a inclinarsi verso il basso, l'aria spinge sulle alette nel senso opposto, garantendo che non vada fuori rotta!
 
-Also, its surface control will help the rocket to be more responsive to the actions of the pilot.
+Inoltre, la sua piccola superficie di controllo aiuterà il nostro veicolo a essere più reattivo nell'atmosfera! È un vantaggio da tutti i punti di vista!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizers fins will be really good on that rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Seleziona lo stabilizzatore LPS-250 ""Transform"" nel menu Selezionatore Parti","The LPS-250 ""Transform"" stabilizer fins would look really good on our vessel!
 
-It will force the tail of the rocket to stay behind the nose, so it doesn't drift away.
+The reason we want this is so our <b><color=#FFA114><cspace=-.1>Center Of Pressure (CoP)</cspace></color></b> stays below our <b><color=#FFA114><cspace=-.1>Center Of Mass (CoM)</cspace></color></b>. Ever wonder why darts fly stably? Well, it's because of fins! While the top of our rocket wants to tip down, the air pushes on the fins in the other way, ensuring it doesn't veer off course!
 
-Also, its surface control will help the rocket to be more responsive to the actions of the pilot.
+Also, its small control surface will help our craft be more responsive in the atmosphere! It's a win-win situation!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizers fins will be really good on that rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizer fins would look really good on our vessel!
 
-It will force the tail of the rocket to stay behind the nose, so it doesn't drift away.
+The reason we want this is so our <b><color=#FFA114><cspace=-.1>Center Of Pressure (CoP)</cspace></color></b> stays below our <b><color=#FFA114><cspace=-.1>Center Of Mass (CoM)</cspace></color></b>. Ever wonder why darts fly stably? Well, it's because of fins! While the top of our rocket wants to tip down, the air pushes on the fins in the other way, ensuring it doesn't veer off course!
 
-Also, its surface control will help the rocket to be more responsive to the actions of the pilot.
+Also, its small control surface will help our craft be more responsive in the atmosphere! It's a win-win situation!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizers fins will be really good on that rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizer fins would look really good on our vessel!
 
-It will force the tail of the rocket to stay behind the nose, so it doesn't drift away.
+The reason we want this is so our <b><color=#FFA114><cspace=-.1>Center Of Pressure (CoP)</cspace></color></b> stays below our <b><color=#FFA114><cspace=-.1>Center Of Mass (CoM)</cspace></color></b>. Ever wonder why darts fly stably? Well, it's because of fins! While the top of our rocket wants to tip down, the air pushes on the fins in the other way, ensuring it doesn't veer off course!
 
-Also, its surface control will help the rocket to be more responsive to the actions of the pilot.
+Also, its small control surface will help our craft be more responsive in the atmosphere! It's a win-win situation!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizers fins will be really good on that rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizer fins would look really good on our vessel!
 
-It will force the tail of the rocket to stay behind the nose, so it doesn't drift away.
+The reason we want this is so our <b><color=#FFA114><cspace=-.1>Center Of Pressure (CoP)</cspace></color></b> stays below our <b><color=#FFA114><cspace=-.1>Center Of Mass (CoM)</cspace></color></b>. Ever wonder why darts fly stably? Well, it's because of fins! While the top of our rocket wants to tip down, the air pushes on the fins in the other way, ensuring it doesn't veer off course!
 
-Also, its surface control will help the rocket to be more responsive to the actions of the pilot.
+Also, its small control surface will help our craft be more responsive in the atmosphere! It's a win-win situation!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizers fins will be really good on that rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizer fins would look really good on our vessel!
 
-It will force the tail of the rocket to stay behind the nose, so it doesn't drift away.
+The reason we want this is so our <b><color=#FFA114><cspace=-.1>Center Of Pressure (CoP)</cspace></color></b> stays below our <b><color=#FFA114><cspace=-.1>Center Of Mass (CoM)</cspace></color></b>. Ever wonder why darts fly stably? Well, it's because of fins! While the top of our rocket wants to tip down, the air pushes on the fins in the other way, ensuring it doesn't veer off course!
 
-Also, its surface control will help the rocket to be more responsive to the actions of the pilot.
+Also, its small control surface will help our craft be more responsive in the atmosphere! It's a win-win situation!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizers fins will be really good on that rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizer fins would look really good on our vessel!
 
-It will force the tail of the rocket to stay behind the nose, so it doesn't drift away.
+The reason we want this is so our <b><color=#FFA114><cspace=-.1>Center Of Pressure (CoP)</cspace></color></b> stays below our <b><color=#FFA114><cspace=-.1>Center Of Mass (CoM)</cspace></color></b>. Ever wonder why darts fly stably? Well, it's because of fins! While the top of our rocket wants to tip down, the air pushes on the fins in the other way, ensuring it doesn't veer off course!
 
-Also, its surface control will help the rocket to be more responsive to the actions of the pilot.
+Also, its small control surface will help our craft be more responsive in the atmosphere! It's a win-win situation!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","LPS-250“转换”稳定翼在这枚火箭上会非常好用！
 
@@ -2080,54 +2080,54 @@ Also, its surface control will help the rocket to be more responsive to the acti
 
 此外，其翼面控制能力将帮助火箭更灵敏地响应飞行员的操控。
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 在部件选取器菜单中选择LPS-250“Transform”稳定翼。","The LPS-250 ""Transform"" stabilizers fins will be really good on that rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 在部件选取器菜单中选择LPS-250“Transform”稳定翼。","The LPS-250 ""Transform"" stabilizer fins would look really good on our vessel!
 
-It will force the tail of the rocket to stay behind the nose, so it doesn't drift away.
+The reason we want this is so our <b><color=#FFA114><cspace=-.1>Center Of Pressure (CoP)</cspace></color></b> stays below our <b><color=#FFA114><cspace=-.1>Center Of Mass (CoM)</cspace></color></b>. Ever wonder why darts fly stably? Well, it's because of fins! While the top of our rocket wants to tip down, the air pushes on the fins in the other way, ensuring it doesn't veer off course!
 
-Also, its surface control will help the rocket to be more responsive to the actions of the pilot.
+Also, its small control surface will help our craft be more responsive in the atmosphere! It's a win-win situation!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizers fins will be really good on that rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizer fins would look really good on our vessel!
 
-It will force the tail of the rocket to stay behind the nose, so it doesn't drift away.
+The reason we want this is so our <b><color=#FFA114><cspace=-.1>Center Of Pressure (CoP)</cspace></color></b> stays below our <b><color=#FFA114><cspace=-.1>Center Of Mass (CoM)</cspace></color></b>. Ever wonder why darts fly stably? Well, it's because of fins! While the top of our rocket wants to tip down, the air pushes on the fins in the other way, ensuring it doesn't veer off course!
 
-Also, its surface control will help the rocket to be more responsive to the actions of the pilot.
+Also, its small control surface will help our craft be more responsive in the atmosphere! It's a win-win situation!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizers fins will be really good on that rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizer fins would look really good on our vessel!
 
-It will force the tail of the rocket to stay behind the nose, so it doesn't drift away.
+The reason we want this is so our <b><color=#FFA114><cspace=-.1>Center Of Pressure (CoP)</cspace></color></b> stays below our <b><color=#FFA114><cspace=-.1>Center Of Mass (CoM)</cspace></color></b>. Ever wonder why darts fly stably? Well, it's because of fins! While the top of our rocket wants to tip down, the air pushes on the fins in the other way, ensuring it doesn't veer off course!
 
-Also, its surface control will help the rocket to be more responsive to the actions of the pilot.
+Also, its small control surface will help our craft be more responsive in the atmosphere! It's a win-win situation!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizers fins will be really good on that rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizer fins would look really good on our vessel!
 
-It will force the tail of the rocket to stay behind the nose, so it doesn't drift away.
+The reason we want this is so our <b><color=#FFA114><cspace=-.1>Center Of Pressure (CoP)</cspace></color></b> stays below our <b><color=#FFA114><cspace=-.1>Center Of Mass (CoM)</cspace></color></b>. Ever wonder why darts fly stably? Well, it's because of fins! While the top of our rocket wants to tip down, the air pushes on the fins in the other way, ensuring it doesn't veer off course!
 
-Also, its surface control will help the rocket to be more responsive to the actions of the pilot.
+Also, its small control surface will help our craft be more responsive in the atmosphere! It's a win-win situation!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizers fins will be really good on that rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizer fins would look really good on our vessel!
 
-It will force the tail of the rocket to stay behind the nose, so it doesn't drift away.
+The reason we want this is so our <b><color=#FFA114><cspace=-.1>Center Of Pressure (CoP)</cspace></color></b> stays below our <b><color=#FFA114><cspace=-.1>Center Of Mass (CoM)</cspace></color></b>. Ever wonder why darts fly stably? Well, it's because of fins! While the top of our rocket wants to tip down, the air pushes on the fins in the other way, ensuring it doesn't veer off course!
 
-Also, its surface control will help the rocket to be more responsive to the actions of the pilot.
+Also, its small control surface will help our craft be more responsive in the atmosphere! It's a win-win situation!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizers fins will be really good on that rocket!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","The LPS-250 ""Transform"" stabilizer fins would look really good on our vessel!
 
-It will force the tail of the rocket to stay behind the nose, so it doesn't drift away.
+The reason we want this is so our <b><color=#FFA114><cspace=-.1>Center Of Pressure (CoP)</cspace></color></b> stays below our <b><color=#FFA114><cspace=-.1>Center Of Mass (CoM)</cspace></color></b>. Ever wonder why darts fly stably? Well, it's because of fins! While the top of our rocket wants to tip down, the air pushes on the fins in the other way, ensuring it doesn't veer off course!
 
-Also, its surface control will help the rocket to be more responsive to the actions of the pilot.
+Also, its small control surface will help our craft be more responsive in the atmosphere! It's a win-win situation!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.",,Localized
-Tutorials/tutorial_4.3.23,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 将LPS-250“转换”稳定翼安装到火箭底部。","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.",,Localized
+Tutorials/tutorial_4.3.23,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Fissa gli stabilizzatori LPS-250 ""Transform"" alla base del tuo razzo","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 将LPS-250“转换”稳定翼安装到火箭底部。","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of your rocket.",,Localized
 Tutorials/tutorial_4.3.24,Text,,"Okay, let's see how this rocket flies!
 Don't forget to make sure that the staging order is correct!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press the Launch Button to place it on the launch pad.","Okay, let's see how this rocket flies!
 Don't forget to make sure that the staging order is correct!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press the Launch Button to place it on the launch pad.","Okay, let's see how this rocket flies!
-Don't forget to make sure that the staging order is correct!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press the Launch Button to place it on the launch pad.","Bene, vediamo come vola questo razzo!
+Non dimenticare di verificare che l'ordine degli stadi sia corretto!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press the Launch Button to place it on the launch pad.","Okay, let's see how this rocket flies!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Premi il pulsante Lancio per posizionarlo sulla rampa di lancio.","Okay, let's see how this rocket flies!
 Don't forget to make sure that the staging order is correct!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press the Launch Button to place it on the launch pad.","Okay, let's see how this rocket flies!
@@ -2175,11 +2175,11 @@ While active, <b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> will assist
 Any rocket with a Part attached that holds Kerbals provides your vehicles with the latest in rocketry technology called <b><color=#FFA114><cspace=-.1>Stability Assist System</cspace></color></b> or <b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> for short.
 
 
-While active, <b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> will assist you in keeping your rocket oriented in the direction it's heading, provided it's a stable rocket to begin with. Additionally, it enables you to select various orientations such as prograde, retrograde, etc.","Before we launch, there's one more thing we can use to help us stabilize this rocket. 
-Any rocket with a Part attached that holds Kerbals provides your vehicles with the latest in rocketry technology called <b><color=#FFA114><cspace=-.1>Stability Assist System</cspace></color></b> or <b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> for short.
+While active, <b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> will assist you in keeping your rocket oriented in the direction it's heading, provided it's a stable rocket to begin with. Additionally, it enables you to select various orientations such as prograde, retrograde, etc.","Prima del lancio, c'è un'ultima risorsa che possiamo usare per aiutarci a stabilizzare questo razzo.
+Qualsiasi razzo dotato di un componente in grado di ospitare Kerbal fornisce ai tuoi veicoli la più recente tecnologia missilistica, chiamata <b><color=#FFA114><cspace=-.1>Sistema d'Assistenza alla Stabilità</cspace></color></b> o <b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> in breve
 
 
-While active, <b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> will assist you in keeping your rocket oriented in the direction it's heading, provided it's a stable rocket to begin with. Additionally, it enables you to select various orientations such as prograde, retrograde, etc.","Before we launch, there's one more thing we can use to help us stabilize this rocket. 
+Quando è attivo, il <b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> ti aiuterà a mantenere il razzo orientato nella direzione in cui sta procedendo, a patto che il vettore sia già stabile di partenza. Inoltre, ti permette di selezionare vari assetti come prograde, retrograde, ecc","Before we launch, there's one more thing we can use to help us stabilize this rocket. 
 Any rocket with a Part attached that holds Kerbals provides your vehicles with the latest in rocketry technology called <b><color=#FFA114><cspace=-.1>Stability Assist System</cspace></color></b> or <b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> for short.
 
 
@@ -2236,9 +2236,9 @@ Tutorials/tutorial_4.3.26,Text,,"<b><color=#FFA114><cspace=-.1>SAS</cspace></col
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press the GO Button to launch this super-stable rocket!","<b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> defaults to the ON position so we don't have to do anything except be aware of it!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press the GO Button to launch this super-stable rocket!","<b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> defaults to the ON position so we don't have to do anything except be aware of it!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press the GO Button to launch this super-stable rocket!","<b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> è attivo di default, quindi non dobbiamo fare nulla se non esserne consapevoli!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press the GO Button to launch this super-stable rocket!","<b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> defaults to the ON position so we don't have to do anything except be aware of it!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Premi il pulsante VAI per lanciare questo razzo super-stabile!","<b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> defaults to the ON position so we don't have to do anything except be aware of it!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press the GO Button to launch this super-stable rocket!","<b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> defaults to the ON position so we don't have to do anything except be aware of it!
 
@@ -2269,9 +2269,9 @@ Tutorials/tutorial_4.3.28,Text,,"Nice and smooth! The taller rocket, the fins, a
 
 Well done!","Nice and smooth! The taller rocket, the fins, and the <b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> helped stabilize this rocket! 
 
-Well done!","Nice and smooth! The taller rocket, the fins, and the <b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> helped stabilize this rocket! 
+Well done!","Liscio come l'olio! Il razzo più alto, le alette e i controlli <b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> hanno aiutato a stabilizzare questo razzo!
 
-Well done!","Nice and smooth! The taller rocket, the fins, and the <b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> helped stabilize this rocket! 
+Ottimo lavoro!","Nice and smooth! The taller rocket, the fins, and the <b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> helped stabilize this rocket! 
 
 Well done!","Nice and smooth! The taller rocket, the fins, and the <b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> helped stabilize this rocket! 
 
@@ -2300,8 +2300,8 @@ Well done!","Nice and smooth! The taller rocket, the fins, and the <b><color=#FF
 Well done!",,Localized
 Tutorials/tutorial_4.3.29,Text,,"Now that's a nice rocket!
 Looks like you've showed the engineers how to make a proper rocket!","Now that's a nice rocket!
-Looks like you've showed the engineers how to make a proper rocket!","Now that's a nice rocket!
-Looks like you've showed the engineers how to make a proper rocket!","Now that's a nice rocket!
+Looks like you've showed the engineers how to make a proper rocket!","Questo sì che è un bel razzo!
+A quanto pare hai mostrato agli ingegneri come si costruisce un razzo fatto come si deve!","Now that's a nice rocket!
 Looks like you've showed the engineers how to make a proper rocket!","Now that's a nice rocket!
 Looks like you've showed the engineers how to make a proper rocket!","Now that's a nice rocket!
 Looks like you've showed the engineers how to make a proper rocket!","Now that's a nice rocket!
@@ -2317,60 +2317,77 @@ Looks like you've showed the engineers how to make a proper rocket!","Now that's
 Looks like you've showed the engineers how to make a proper rocket!",,Localized
 Tutorials/tutorial_4.3.30,Text,,"Tutorial complete! You have learned:
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> how to make stable rockets.
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to use symmetry tool.","Tutorial complete! You have learned:
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Shorter vehicles are prone to flipping more often.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Fins are invaluable when it comes to stabilizing rockets.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make stable rockets.","Tutorial complete! You have learned:
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> how to make stable rockets.
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to use symmetry tool.","Tutorial complete! You have learned:
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Shorter vehicles are prone to flipping more often.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Fins are invaluable when it comes to stabilizing rockets.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make stable rockets.","Tutorial completato! Hai imparato:
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> how to make stable rockets.
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to use symmetry tool.","Tutorial complete! You have learned:
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> I veicoli più corti tendono a ribaltarsi più facilmente
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Le alette sono impagabili per stabilizzare i razzi
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Come costruire razzi stabili","Tutorial complete! You have learned:
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> how to make stable rockets.
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to use symmetry tool.","Tutorial complete! You have learned:
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Shorter vehicles are prone to flipping more often.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Fins are invaluable when it comes to stabilizing rockets.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make stable rockets.","Tutorial complete! You have learned:
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> how to make stable rockets.
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to use symmetry tool.","Tutorial complete! You have learned:
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Shorter vehicles are prone to flipping more often.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Fins are invaluable when it comes to stabilizing rockets.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make stable rockets.","Tutorial complete! You have learned:
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> how to make stable rockets.
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to use symmetry tool.","Tutorial complete! You have learned:
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Shorter vehicles are prone to flipping more often.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Fins are invaluable when it comes to stabilizing rockets.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make stable rockets.","Tutorial complete! You have learned:
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> how to make stable rockets.
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to use symmetry tool.","Tutorial complete! You have learned:
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Shorter vehicles are prone to flipping more often.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Fins are invaluable when it comes to stabilizing rockets.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make stable rockets.","Tutorial complete! You have learned:
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> how to make stable rockets.
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to use symmetry tool.","Tutorial complete! You have learned:
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Shorter vehicles are prone to flipping more often.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Fins are invaluable when it comes to stabilizing rockets.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make stable rockets.","Tutorial complete! You have learned:
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> how to make stable rockets.
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to use symmetry tool.","教程完成！你学会了：
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Shorter vehicles are prone to flipping more often.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Fins are invaluable when it comes to stabilizing rockets.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make stable rockets.","教程完成！你学会了：
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 如何制造稳定的火箭。
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 如何使用对称工具。","Tutorial complete! You have learned:
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> how to make stable rockets.
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to use symmetry tool.","Tutorial complete! You have learned:
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Shorter vehicles are prone to flipping more often.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Fins are invaluable when it comes to stabilizing rockets.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make stable rockets.","Tutorial complete! You have learned:
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> how to make stable rockets.
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to use symmetry tool.","Tutorial complete! You have learned:
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Shorter vehicles are prone to flipping more often.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Fins are invaluable when it comes to stabilizing rockets.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make stable rockets.","Tutorial complete! You have learned:
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> how to make stable rockets.
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to use symmetry tool.","Tutorial complete! You have learned:
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Shorter vehicles are prone to flipping more often.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Fins are invaluable when it comes to stabilizing rockets.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make stable rockets.","Tutorial complete! You have learned:
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> how to make stable rockets.
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to use symmetry tool.","Tutorial complete! You have learned:
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Shorter vehicles are prone to flipping more often.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Fins are invaluable when it comes to stabilizing rockets.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make stable rockets.","Tutorial complete! You have learned:
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> how to make stable rockets.
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to use symmetry tool.","Tutorial complete! You have learned:
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Shorter vehicles are prone to flipping more often.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Fins are invaluable when it comes to stabilizing rockets.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make stable rockets.","Tutorial complete! You have learned:
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> how to make stable rockets.
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to use symmetry tool.",,Localized
-Tutorials/Lessons/Titles/Tutorial4/Probe Cores,Text,,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,,Localized
-Tutorials/Lessons/Descriptions/Tutorial 4.5,Text,,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,,Localized
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Shorter vehicles are prone to flipping more often.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Fins are invaluable when it comes to stabilizing rockets.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make stable rockets.",,Localized
+Tutorials/Lessons/Titles/Tutorial4/Probe Cores,Text,,Probe Cores,Probe Cores,Nuclei sonda,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,探测核心,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,Probe Cores,,Localized
+Tutorials/Lessons/Descriptions/Tutorial 4.5,Text,,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Impara come usare i nuclei sonda per le missioni senza equipaggio,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,学习何时，如何在无人任务中使用探测核心。,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,Learn how and when to use a probe core for uncrewed missions.,,Localized
 Tutorials/tutorial_4.5.1,Text,,"Did you know you don't have to send a Kerbal to space? 
 
 You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Did you know you don't have to send a Kerbal to space? 
 
-You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Did you know you don't have to send a Kerbal to space? 
+You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Sapevi che non devi per forza mandare un Kerbal nello spazio?
+
+Puoi lanciare un razzo senza equipaggio! Un razzo senza equipaggio è guidato da un nucleo sonda contenente un computer che tenta di replicare il lavoro di un pilota Kerbal","Did you know you don't have to send a Kerbal to space? 
 
 You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Did you know you don't have to send a Kerbal to space? 
 
@@ -2382,11 +2399,9 @@ You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core th
 
 You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Did you know you don't have to send a Kerbal to space? 
 
-You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Did you know you don't have to send a Kerbal to space? 
+You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","你知道吗？你不必把坎巴拉人送入太空。
 
-You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Did you know you don't have to send a Kerbal to space? 
-
-You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Did you know you don't have to send a Kerbal to space? 
+你可以发射无人火箭！无人火箭由探测核心引导，其中包含一台模拟坎巴拉飞行员操作的计算机。","Did you know you don't have to send a Kerbal to space? 
 
 You can send an uncrewed rocket! An uncrewed rocket is guided by a probe core that contains a computer that attempts to replicate the efforts of a Kerbal pilot.","Did you know you don't have to send a Kerbal to space? 
 
@@ -2407,7 +2422,11 @@ And we won't need any Kerbals on board because the rocket will be controlled by 
 
 The plan is to attach the probe to a rocket, fly it to where we plan to release the probe, and then let it go to perform its task independently.
 
-And we won't need any Kerbals on board because the rocket will be controlled by the probe itself!","Let's make a small probe together that we will be able to attach to a rocket.
+And we won't need any Kerbals on board because the rocket will be controlled by the probe itself!","Costruiamo insieme una piccola sonda da agganciare a un razzo
+
+Il piano è fissare la sonda a un razzo, portarla in volo fino al punto di rilascio previsto e poi sganciarla affinché svolga il suo compito in autonomia
+
+Non avremo bisogno di alcun Kerbal a bordo, perché il razzo sarà controllato dalla sonda stessa!","Let's make a small probe together that we will be able to attach to a rocket.
 
 The plan is to attach the probe to a rocket, fly it to where we plan to release the probe, and then let it go to perform its task independently.
 
@@ -2431,15 +2450,11 @@ And we won't need any Kerbals on board because the rocket will be controlled by 
 
 The plan is to attach the probe to a rocket, fly it to where we plan to release the probe, and then let it go to perform its task independently.
 
-And we won't need any Kerbals on board because the rocket will be controlled by the probe itself!","Let's make a small probe together that we will be able to attach to a rocket.
+And we won't need any Kerbals on board because the rocket will be controlled by the probe itself!","来一起制作一个小型探测器，然后把它安装到火箭上。
 
-The plan is to attach the probe to a rocket, fly it to where we plan to release the probe, and then let it go to perform its task independently.
+计划是将探测器安装到火箭上，飞到我们计划释放探测器的位置，然后让它脱离火箭，独立执行任务。
 
-And we won't need any Kerbals on board because the rocket will be controlled by the probe itself!","Let's make a small probe together that we will be able to attach to a rocket.
-
-The plan is to attach the probe to a rocket, fly it to where we plan to release the probe, and then let it go to perform its task independently.
-
-And we won't need any Kerbals on board because the rocket will be controlled by the probe itself!","Let's make a small probe together that we will be able to attach to a rocket.
+而且我们不需要任何坎巴拉人在船上，因为火箭将由探测器本身来控制！","Let's make a small probe together that we will be able to attach to a rocket.
 
 The plan is to attach the probe to a rocket, fly it to where we plan to release the probe, and then let it go to perform its task independently.
 
@@ -2470,7 +2485,10 @@ You can think of it as a robotic pilot!
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
 You can think of it as a robotic pilot!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","Per prima cosa ci serve un nucleo sonda (chiamato anche ""Unità di guida remota"" nel menu Selezionatore Parti) che controllerà il nostro razzo
+Puoi immaginarlo come un pilota robotico!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Seleziona la categoria Moduli di comando nel menu Selezionatore Parti","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
 You can think of it as a robotic pilot!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
@@ -2488,13 +2506,10 @@ You can think of it as a robotic pilot!
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
 You can think of it as a robotic pilot!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
-You can think of it as a robotic pilot!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","首先，我们需要一个探测核心（在部件菜单中也称为“远程控制单元”），它将控制我们的火箭。
+你可以把它想象成一个机器人飞行员！
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
-You can think of it as a robotic pilot!
-
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 在部件选取器菜单中选择指令舱类别。","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
 You can think of it as a robotic pilot!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.","First, we need a probe core (also called a ""Remote Guidance Unit"" in the Part Picker menu) that will control our rocket.
@@ -2513,12 +2528,14 @@ You can think of it as a robotic pilot!
 You can think of it as a robotic pilot!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Command Pod category in the Part Picker menu.",,Localized
-Tutorials/tutorial_4.5.4,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.",,Localized
+Tutorials/tutorial_4.5.4,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Seleziona il nucleo sonda OKTAVA per posizionarlo automaticamente nell'EAV","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 选择八音盒探测核心以自动将其放置在VAB中。","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OKTAVA Probe Core to automatically place it in the VAB.",,Localized
 Tutorials/tutorial_4.5.5,Text,,"Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Dato che non invieremo Kerbal, non serve che la sonda rientri su Kerbin: trasmetteremo tutti i dati raccolti tramite un'antenna!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Seleziona la categoria Comunicazioni nel menu Selezionatore Parti","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
 
@@ -2530,11 +2547,9 @@ Tutorials/tutorial_4.5.5,Text,,"Since we aren't sending a Kerbal, we don't need 
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","既然我们不送坎巴拉人上去，就不需要让探测器返回Kerbin了，因为我们可以用天线传输找到的任何数据！
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
-
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 在部件菜单中选择通信类别。","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communications category in the Parts Picker menu.","Since we aren't sending a Kerbal, we don't need the probe to come back to Kerbin because we'll be transmitting any data we find with an antenna!
 
@@ -2555,7 +2570,11 @@ The Communotron HG-55 is perfect for that. It's even retractable, so it won't be
 
 The Communotron HG-55 is perfect for that. It's even retractable, so it won't be damaged during lift-off!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communotron HG-55 in the Parts Picker menu.","For that probe, we'll use an antenna that can contact Kerbin from Duna or Eve.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communotron HG-55 in the Parts Picker menu.","Per quella sonda useremo un'antenna in grado di comunicare con Kerbin da Duna o Eve
+
+La Communotron HG-55 è perfetta per questo scopo. È persino retrattile, così non subirà danni durante il decollo!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Seleziona la Communotron HG-55 nel menu Selezionatore Parti","For that probe, we'll use an antenna that can contact Kerbin from Duna or Eve.
 
 The Communotron HG-55 is perfect for that. It's even retractable, so it won't be damaged during lift-off!
 
@@ -2579,15 +2598,11 @@ The Communotron HG-55 is perfect for that. It's even retractable, so it won't be
 
 The Communotron HG-55 is perfect for that. It's even retractable, so it won't be damaged during lift-off!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communotron HG-55 in the Parts Picker menu.","For that probe, we'll use an antenna that can contact Kerbin from Duna or Eve.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communotron HG-55 in the Parts Picker menu.","对于那个探测器，我们将使用一种能从Duna或Eve与Kerbin联系的天线。
 
-The Communotron HG-55 is perfect for that. It's even retractable, so it won't be damaged during lift-off!
+通信者HG-55非常适合这个任务。它甚至还是可伸缩的，所以在发射过程中不会受损！
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communotron HG-55 in the Parts Picker menu.","For that probe, we'll use an antenna that can contact Kerbin from Duna or Eve.
-
-The Communotron HG-55 is perfect for that. It's even retractable, so it won't be damaged during lift-off!
-
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Communotron HG-55 in the Parts Picker menu.","For that probe, we'll use an antenna that can contact Kerbin from Duna or Eve.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 在部件菜单中选择通信者HG-55。","For that probe, we'll use an antenna that can contact Kerbin from Duna or Eve.
 
 The Communotron HG-55 is perfect for that. It's even retractable, so it won't be damaged during lift-off!
 
@@ -2616,7 +2631,9 @@ Tutorials/tutorial_4.5.7,Text,,"We'll be decoupling all parts of this rocket exc
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","Disaccoppieremo tutte le parti di questo razzo tranne il nucleo sonda stesso, quindi dobbiamo assicurarci che l'antenna sia fissata ad esso anziché a un altro componente del razzo
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Fissa l'antenna Communotron HG-55 al nucleo sonda","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
 
@@ -2628,11 +2645,9 @@ Tutorials/tutorial_4.5.7,Text,,"We'll be decoupling all parts of this rocket exc
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","我们要分离火箭的所有部件，只留下探测核心本身，因此要确保天线安装在探测核心上，而不是火箭的其他部分。
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
-
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 将通信者HG-55天线安装到探测核心上。","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.","We'll be decoupling all parts of this rocket except for the probe core itself, so we want to make sure the antenna is attached to it rather than another part of the rocket.
 
@@ -2647,15 +2662,15 @@ Tutorials/tutorial_4.5.7,Text,,"We'll be decoupling all parts of this rocket exc
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the Communotron HG-55 Antenna to the probe core.",,Localized
 Tutorials/tutorial_4.5.8,Text,,"To power our probe, we will need a way to produce energy, 
 and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
+and for a probe like this, solar energy will be perfect!","Per alimentare la nostra sonda abbiamo bisogno di produrre energia...
+e per una sonda come questa l'energia solare sarà perfetta!","To power our probe, we will need a way to produce energy, 
 and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
 and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
 and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
 and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
 and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
-and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
-and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
-and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
-and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
+and for a probe like this, solar energy will be perfect!","为了给我们的探测器供电，我们需要一个补充能源的方法，
+而对于这样的探测器，太阳能将是完美的！","To power our probe, we will need a way to produce energy, 
 and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
 and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
 and for a probe like this, solar energy will be perfect!","To power our probe, we will need a way to produce energy, 
@@ -2670,7 +2685,11 @@ To make sure it's symmetrical, click on the symmetry mode button and select the 
 
 To make sure it's symmetrical, click on the symmetry mode button and select the 2x symmetry mode!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Choose 2x symmetry. ","It would be best to have 2 batteries and 2 solar panels, so that our probe is symmetrical and balanced.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Choose 2x symmetry. ","La cosa migliore sarebbe avere 2 batterie e 2 pannelli solari, così che la nostra sonda sia simmetrica e bilanciata
+
+Per assicurarti che sia simmetrica, fai clic sul pulsante della modalità Simmetria e seleziona la simmetria 2x!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Scegli la simmetria 2x ","It would be best to have 2 batteries and 2 solar panels, so that our probe is symmetrical and balanced.
 
 To make sure it's symmetrical, click on the symmetry mode button and select the 2x symmetry mode!
 
@@ -2694,15 +2713,11 @@ To make sure it's symmetrical, click on the symmetry mode button and select the 
 
 To make sure it's symmetrical, click on the symmetry mode button and select the 2x symmetry mode!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Choose 2x symmetry. ","It would be best to have 2 batteries and 2 solar panels, so that our probe is symmetrical and balanced.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Choose 2x symmetry. ","最好配备2个电池和2个太阳能板，这样我们的探测器就是对称且平衡的。
 
-To make sure it's symmetrical, click on the symmetry mode button and select the 2x symmetry mode!
+为确保对称，点击对称模式按钮并选择2x对称模式！
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Choose 2x symmetry. ","It would be best to have 2 batteries and 2 solar panels, so that our probe is symmetrical and balanced.
-
-To make sure it's symmetrical, click on the symmetry mode button and select the 2x symmetry mode!
-
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Choose 2x symmetry. ","It would be best to have 2 batteries and 2 solar panels, so that our probe is symmetrical and balanced.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 选择2x对称。 ","It would be best to have 2 batteries and 2 solar panels, so that our probe is symmetrical and balanced.
 
 To make sure it's symmetrical, click on the symmetry mode button and select the 2x symmetry mode!
 
@@ -2731,7 +2746,9 @@ Tutorials/tutorial_4.5.10,Text,,"Now, let's place the batteries!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Now, let's place the batteries!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Now, let's place the batteries!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Bene, piazziamo le batterie!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Seleziona la categoria Alimentazione","Now, let's place the batteries!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Now, let's place the batteries!
 
@@ -2743,11 +2760,9 @@ Tutorials/tutorial_4.5.10,Text,,"Now, let's place the batteries!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Now, let's place the batteries!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Now, let's place the batteries!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","现在我们来放置电池！
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Now, let's place the batteries!
-
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Now, let's place the batteries!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 选择电力类别。","Now, let's place the batteries!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the electrical category.","Now, let's place the batteries!
 
@@ -2768,7 +2783,11 @@ Smaller ones, such as the Z-100 Battery, will be more than enough!
 
 Smaller ones, such as the Z-100 Battery, will be more than enough!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Z-100 Battery in the Parts Picker menu.","For a probe like this, which will have onboard electricity production, we do not need large batteries.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Z-100 Battery in the Parts Picker menu.","Per una sonda di questo tipo, dotata di produzione di elettricità a bordo, non servono batterie grandi
+
+Modelli piccoli, come la batteria Z-100, saranno più che sufficienti!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Seleziona la batteria Z-100 nel menu Selezionatore Parti","For a probe like this, which will have onboard electricity production, we do not need large batteries.
 
 Smaller ones, such as the Z-100 Battery, will be more than enough!
 
@@ -2792,15 +2811,11 @@ Smaller ones, such as the Z-100 Battery, will be more than enough!
 
 Smaller ones, such as the Z-100 Battery, will be more than enough!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Z-100 Battery in the Parts Picker menu.","For a probe like this, which will have onboard electricity production, we do not need large batteries.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Z-100 Battery in the Parts Picker menu.","对于这种自带发电能力的探测器，我们不需要大电池。
 
-Smaller ones, such as the Z-100 Battery, will be more than enough!
+小一点的，比如Z-100电池，就完全够用了！
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Z-100 Battery in the Parts Picker menu.","For a probe like this, which will have onboard electricity production, we do not need large batteries.
-
-Smaller ones, such as the Z-100 Battery, will be more than enough!
-
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Z-100 Battery in the Parts Picker menu.","For a probe like this, which will have onboard electricity production, we do not need large batteries.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 在部件菜单中选择Z-100电池。","For a probe like this, which will have onboard electricity production, we do not need large batteries.
 
 Smaller ones, such as the Z-100 Battery, will be more than enough!
 
@@ -2825,7 +2840,7 @@ Smaller ones, such as the Z-100 Battery, will be more than enough!
 Smaller ones, such as the Z-100 Battery, will be more than enough!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Z-100 Battery in the Parts Picker menu.",,Localized
-Tutorials/tutorial_4.5.12,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)",,Localized
+Tutorials/tutorial_4.5.12,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Ora, posiziona la batteria Z-100 sullo scafo! (La posizione migliore è sulla fusoliera)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 现在，将Z-100电池放在探测核心上！（最好的位置是放在它的侧面。）","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the Z-100 Battery on the core! (The best place would be on its side.)",,Localized
 Tutorials/tutorial_4.5.13,Text,,"And finally, we can place the solar panel to produce electricity.
 
 We need to keep in mind that the farther we are from Kerbol, the less electricity we will produce.
@@ -2834,7 +2849,11 @@ But don't worry, for a small probe like this, we will produce enough even while 
 
 We need to keep in mind that the farther we are from Kerbol, the less electricity we will produce.
 
-But don't worry, for a small probe like this, we will produce enough even while orbiting Eeloo!","And finally, we can place the solar panel to produce electricity.
+But don't worry, for a small probe like this, we will produce enough even while orbiting Eeloo!","E infine, possiamo posizionare i pannelli solari per produrre elettricità
+
+Dobbiamo tenere a mente che più saremo lontani da Kerbol, meno elettricità produrremo
+
+Ma non temere: per una sonda così piccola, ne produrremo abbastanza persino mentre saremo in orbita attorno a Eeloo!","And finally, we can place the solar panel to produce electricity.
 
 We need to keep in mind that the farther we are from Kerbol, the less electricity we will produce.
 
@@ -2858,15 +2877,11 @@ But don't worry, for a small probe like this, we will produce enough even while 
 
 We need to keep in mind that the farther we are from Kerbol, the less electricity we will produce.
 
-But don't worry, for a small probe like this, we will produce enough even while orbiting Eeloo!","And finally, we can place the solar panel to produce electricity.
+But don't worry, for a small probe like this, we will produce enough even while orbiting Eeloo!","最后，我们可以放置太阳能板来发电。
 
-We need to keep in mind that the farther we are from Kerbol, the less electricity we will produce.
+需要注意的是，离Kerbol越远，产生的电力就越少。
 
-But don't worry, for a small probe like this, we will produce enough even while orbiting Eeloo!","And finally, we can place the solar panel to produce electricity.
-
-We need to keep in mind that the farther we are from Kerbol, the less electricity we will produce.
-
-But don't worry, for a small probe like this, we will produce enough even while orbiting Eeloo!","And finally, we can place the solar panel to produce electricity.
+不过别担心，对于这种小探测器来说，即使在环绕Eeloo轨道时，产生的电力也够了。","And finally, we can place the solar panel to produce electricity.
 
 We need to keep in mind that the farther we are from Kerbol, the less electricity we will produce.
 
@@ -2899,7 +2914,11 @@ The OX-10C Solar Panel will be perfect for that task!
 
 The OX-10C Solar Panel will be perfect for that task!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OX-10C Solar Panel in the Parts Picker menu.","For that, we'll use a small, retractable solar panel so it's not too heavy to lift!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OX-10C Solar Panel in the Parts Picker menu.","A questo scopo impiegheremo un pannello solare retrattile di piccole dimensioni, per evitare di appesantire troppo il decollo!
+
+Il pannello solare OX-10C sarà l'ideale per questa missione!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Seleziona il pannello solare OX-10C nel menu Selezionatore Parti","For that, we'll use a small, retractable solar panel so it's not too heavy to lift!
 
 The OX-10C Solar Panel will be perfect for that task!
 
@@ -2923,15 +2942,11 @@ The OX-10C Solar Panel will be perfect for that task!
 
 The OX-10C Solar Panel will be perfect for that task!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OX-10C Solar Panel in the Parts Picker menu.","For that, we'll use a small, retractable solar panel so it's not too heavy to lift!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OX-10C Solar Panel in the Parts Picker menu.","为此，我们将使用一个小型可伸缩太阳能板，这样不会因超重导致发射困难！
 
-The OX-10C Solar Panel will be perfect for that task!
+OX-10C太阳能板非常适合这项任务！
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OX-10C Solar Panel in the Parts Picker menu.","For that, we'll use a small, retractable solar panel so it's not too heavy to lift!
-
-The OX-10C Solar Panel will be perfect for that task!
-
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OX-10C Solar Panel in the Parts Picker menu.","For that, we'll use a small, retractable solar panel so it's not too heavy to lift!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 在部件菜单中选择OX-10C太阳能板。","For that, we'll use a small, retractable solar panel so it's not too heavy to lift!
 
 The OX-10C Solar Panel will be perfect for that task!
 
@@ -2956,12 +2971,14 @@ The OX-10C Solar Panel will be perfect for that task!
 The OX-10C Solar Panel will be perfect for that task!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the OX-10C Solar Panel in the Parts Picker menu.",,Localized
-Tutorials/tutorial_4.5.15,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)",,Localized
+Tutorials/tutorial_4.5.15,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Ora, posiziona il pannello solare OX-10C sullo scafo! (La posizione migliore è sulla fusoliera)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 现在，将OX-10C太阳能板放在核心上！（最好的位置是放在它的侧面。）","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Now, place the OX-10C Solar Panel on the core! (The best place would be on its side.)",,Localized
 Tutorials/tutorial_4.5.16,Text,,"Great! That's all there is to it.
 
 Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
 
-Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
+Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Ottimo! Tutto qui, niente di più semplice
+
+Ora la nostra sonda sarà in grado di trasmettere verso Kerbin tutti i dati raccolti utilizzando l'antenna","Great! That's all there is to it.
 
 Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
 
@@ -2973,11 +2990,9 @@ Now our probe will be able to transmit any data it retrieves back to Kerbin usin
 
 Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
 
-Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
+Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","干得漂亮！就这些东西了。
 
-Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
-
-Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
+现在我们的探测器将能够使用天线将其获取的任何数据传输回Kerbin。","Great! That's all there is to it.
 
 Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
 
@@ -2990,7 +3005,7 @@ Now our probe will be able to transmit any data it retrieves back to Kerbin usin
 Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.","Great! That's all there is to it.
 
 Now our probe will be able to transmit any data it retrieves back to Kerbin using the antenna.",,Localized
-Tutorials/tutorial_4.5.18_failure_msg,Text,,"Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?",,Localized
+Tutorials/tutorial_4.5.18_failure_msg,Text,,"Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?",Uhm... Sembra che manchi qualcosa sul nostro nucleo sonda. Vuoi provare di nuovo?,"Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?",嗯……我们的探测核心似乎少了点什么。再试一次？,"Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?","Uhmm, our probe core seems to be missing something. Try again?",,Localized
 Tutorials/tutorial_4.5.17,Text,,"Tutorial complete! You have learned:
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
@@ -2999,7 +3014,11 @@ Tutorials/tutorial_4.5.17,Text,,"Tutorial complete! You have learned:
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Essentials for probes.
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make a probe.","Tutorial complete! You have learned:
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make a probe.","Tutorial completato! Hai imparato:
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Qual è la differenza tra un modulo con equipaggio e un nucleo sonda
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Gli elementi essenziali per le sonde
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Come costruire una sonda","Tutorial complete! You have learned:
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Essentials for probes.
@@ -3023,15 +3042,11 @@ Tutorials/tutorial_4.5.17,Text,,"Tutorial complete! You have learned:
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Essentials for probes.
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make a probe.","Tutorial complete! You have learned:
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make a probe.","教程完成！你学会了：
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Essentials for probes.
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make a probe.","Tutorial complete! You have learned:
-
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Essentials for probes.
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make a probe.","Tutorial complete! You have learned:
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 如何区分载人指令舱与探测核心。
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 探测器的基本要素。
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 如何制作一个探测器。","Tutorial complete! You have learned:
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Essentials for probes.
