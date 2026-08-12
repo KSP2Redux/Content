@@ -1,5 +1,5 @@
 {
-  "version": "ab8f7256876617282ed22a04ac80a865550ef220b133e352faa0d827b6fd3289",
+  "version": "6f46bf51bfa3111ec82259cee5a09a8a1ec7b61c9a0cd062a4a7730df8ab03ce",
   "files": [
     {
       "path": "actiongroups_loc.csv",
@@ -117,8 +117,8 @@
     },
     {
       "path": "ui_settings_loc.csv",
-      "sha256": "49e474247533ebda3a70adf351af5e749dd14ba7889ae74b041cf8590b678f31",
-      "bytes": 173902,
+      "sha256": "f99cb0d53b82340886d96aee4b720e565ca9bba51fb25034bf537112986e13b4",
+      "bytes": 188022,
       "order": 19
     },
     {
