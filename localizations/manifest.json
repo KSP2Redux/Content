@@ -1,5 +1,5 @@
 {
-  "version": "af7c946aeeae0715685557c4975b1b53a6ce0432fec5ece037df51b468e44c36",
+  "version": "8ba1c25f49dc4e1c78315fe408025f7fe29806d5c939273e4a1883045a223dbe",
   "files": [
     {
       "path": "actiongroups_loc.csv",
@@ -45,8 +45,8 @@
     },
     {
       "path": "partmodules_loc.csv",
-      "sha256": "158da8ed44559a6c5a7115a48cf385c8ad3a3a4d3ba4d4d03ae1d8be2ea171e0",
-      "bytes": 14009,
+      "sha256": "895a5f68c6c1c01d2f8ffc0399a55243dda965c26401c12f1162fb3250f6633e",
+      "bytes": 14010,
       "order": 7
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "path": "ui_flight_loc.csv",
-      "sha256": "35beffdcd1c4cd149cebec80bb7c3f4557a14a8d563be24158dbf300f4971c4c",
-      "bytes": 52487,
+      "sha256": "c95873f5b0f32fb044f71af2c67752609ae72837f46ea7a05df0def84f2434a5",
+      "bytes": 52614,
       "order": 13
     },
     {
@@ -117,8 +117,8 @@
     },
     {
       "path": "ui_settings_loc.csv",
-      "sha256": "251062c319cea0979f91a0face6796f2d38bfe44706221651fc5cfb732ae38a6",
-      "bytes": 191447,
+      "sha256": "f1dfea438ad04763b29f83b01a3e9fb414738419b60b6421a9d5977e69629ada",
+      "bytes": 191452,
       "order": 19
     },
     {
