@@ -1,5 +1,5 @@
 {
-  "version": "8ba1c25f49dc4e1c78315fe408025f7fe29806d5c939273e4a1883045a223dbe",
+  "version": "2d9c903b76ca91509cd8d9ed32a7ef62269d1ec3db665b7870489d06f4c314ce",
   "files": [
     {
       "path": "actiongroups_loc.csv",
@@ -69,8 +69,8 @@
     },
     {
       "path": "tutorials_loc.csv",
-      "sha256": "b95ec95533be4788ae064c7d3de40b848471e27bc5cc199293a9cd0f097be06b",
-      "bytes": 377244,
+      "sha256": "0a13dacd50a37454d4566bf634b242aabf8ab4923bf9cc2511b5ddc2548bf591",
+      "bytes": 380939,
       "order": 11
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "path": "ui_flight_loc.csv",
-      "sha256": "c95873f5b0f32fb044f71af2c67752609ae72837f46ea7a05df0def84f2434a5",
-      "bytes": 52614,
+      "sha256": "d323367e7b2c3e575df24285c831f90ba3d234878741a5672170d781559301a9",
+      "bytes": 52937,
       "order": 13
     },
     {
@@ -111,8 +111,8 @@
     },
     {
       "path": "ui_resources_loc.csv",
-      "sha256": "90fd3cb1c92509e449a9192bf440339d91f841f62020caa336325255631dd532",
-      "bytes": 30885,
+      "sha256": "5493017c810fe848c08e546ee9b1a59621e5a6d38785b61f43bfeb0c903222dd",
+      "bytes": 31541,
       "order": 18
     },
     {
