@@ -1,5 +1,6 @@
 Key,Type,Desc,English,French,Italian,German,Spanish,Japanese,Korean,Polish,Russian,Chinese-Simplified [zh-CN],Portuguese-Brazil [pt-BR],Chinese-Traditional [zh-TW],Pirate English [en-PI],Serbian,Swedish,Romanian,$Context,$Status
 Unit/Symbol/Tonne,Text,,t,t,t,t,t,t,t,t,т,t,t,t,t,t,t,t,,Localized
+Unit/Symbol/Units,Text,,U,U,U,E,U,U,U,U,Ед.,U,U,單位,U,U,U,U,,Localized
 Unit/Text/Tonne,Text,,Tonne,Tonne,Tonnellata,Tonne,Tonelada,トン,톤,Tona,тонн,吨,Tonelada,噸,Tonne,Tonne,Tonne,Tonne,,Localized
 Unit/Symbol/Kilogram,Text,,kg,kg,Kg,kg,kg,kg,kg,kg,кг,kg,kg,kg,kg,kg,kg,kg,,Localized
 Unit/Text/Kilogram,Text,,Kilogram,Kilogramme,Chilogrammo,Kilogram,Kilogram,Kilogram,킬로그램,Kilogram,Килограмм,千克,Kilogram,Kilogram,Kilogram,Kilogram,Kilogram,Kilogram,,Localized
