@@ -1,5 +1,5 @@
 {
-  "version": "03434238a26507d810591617782e1dc406d77e9ffb4b9a42c9fbd0903b64ea15",
+  "version": "425b077525ae50b50a5541f8649c6b04b26c216e289ed26d52efd1bd3da6a0f1",
   "files": [
     {
       "path": "actiongroups_loc.csv",
@@ -21,8 +21,8 @@
     },
     {
       "path": "loadingtips_loc.csv",
-      "sha256": "ed6aeb48fe8ad3a6e7c3787d60b43bca9d70e014fc280d61f74f5f894d026e47",
-      "bytes": 8419,
+      "sha256": "a0f9ca3885f3e583ccb45b2ce293ea7836e3f6e834d82ae081f1ba6681cbfa4e",
+      "bytes": 8488,
       "order": 3
     },
     {
@@ -51,14 +51,14 @@
     },
     {
       "path": "parts_loc.csv",
-      "sha256": "9ef98a9653f873476bc64346a63f67232b1c08c57ef37d0b2123d7a58465cd30",
-      "bytes": 193447,
+      "sha256": "a264e4d5af389731c75ac7406e16a41da883db5354962ce0d986aa0c3333add4",
+      "bytes": 208399,
       "order": 8
     },
     {
       "path": "resources_loc.csv",
-      "sha256": "25304b97377ba3b88e13496475c250f2dc6d412a5ede6121ed4e7464ce69951a",
-      "bytes": 537,
+      "sha256": "d7c2cb611a54120242ff8650be4f93c466f78b2b5f7e746a18a5a2611f2a6020",
+      "bytes": 541,
       "order": 9
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "path": "ui_flight_loc.csv",
-      "sha256": "a3e7b04c6d5f9bab35a9cef4b8c8102b5159f4982c0d6db2b8b4a1507ea2b11f",
-      "bytes": 53157,
+      "sha256": "9e0846e4735921a10f8f41707159cd2eb51bdb318362b5171ad8b0c1cd0e9a0e",
+      "bytes": 53472,
       "order": 13
     },
     {
@@ -93,8 +93,8 @@
     },
     {
       "path": "ui_mainmenu_loc.csv",
-      "sha256": "76eecb4b93d0f5f73fc97cea30ac6e9ca710e3ee7d3256502ddb234c928e923e",
-      "bytes": 5112,
+      "sha256": "d124e8933029157fa51cea5661c184dc93b4f01710ed442ebc0968ba695ee77e",
+      "bytes": 5120,
       "order": 15
     },
     {
@@ -129,8 +129,8 @@
     },
     {
       "path": "ui_vab_loc.csv",
-      "sha256": "518cb23fd7fd6456f0e5567a0d63b26b7a5fbf68c17ab89ab0fe1c5b93ac49a9",
-      "bytes": 22730,
+      "sha256": "6a8bc1018faca7f59aafeec097d826672e011234316b1839420a2008092bd7c8",
+      "bytes": 23099,
       "order": 21
     },
     {
