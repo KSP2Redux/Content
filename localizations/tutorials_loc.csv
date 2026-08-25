@@ -361,7 +361,7 @@ The caveat being that it's not powerful enough for the thick, soupy atmosphere o
 Le Terrier est un moteur orbital, ce qui signifie qu'il n'est pas optimal pour les lancements atmosphériques, mais plutôt pour les manœuvres orbitales et dans l'espace lointain !
 
 Il a une impulsion spécifique (<b><color=#FFA114><cspace=-.1>ISP</cspace></color></b>) élevée, il consomme donc le carburant très efficacement, ce qui lui permet d'obtenir plus de Delta-V avec la même quantité d'ergol.
-Le hic, c'est qu'il n'est pas assez puissant pour l'atmosphère épaisse et pâteuse de Kerbin !","Aha! Il problema è proprio il motore del primo stadio!
+Le hic, c'est qu'il n'est pas assez puissant pour l'atmosphère épaisse et pâteuse de Kerbin !","Sto controllando ogni possibile problema... Aha! Il problema è proprio il motore del primo stadio!
 Il Terrier è un motore orbitale, il che significa che non è ottimale per i lanci atmosferici, ma piuttosto per le manovre orbitali e nello spazio profondo!
 
 Ha un alto impulso specifico (<b><color=#FFA114><cspace=-.1>ISP</cspace></color></b>), quindi usa il carburante in modo molto efficiente, permettendogli di ottenere più Delta-V con la stessa quantità di propellente.
@@ -859,7 +859,7 @@ It factors in the efficiency of the engines, the vehicle's changing mass, and th
 Tutorials/tutorial_4.2.3,Text,,"To get to the Mun, our rocket needs a <b><color=#FFA114><cspace=-.1>Delta-V</cspace></color></b> of over 6000 meters per second just to be safe. 
 This rocket only has 3859m/s!","Pour atteindre la Mune, notre fusée a besoin d'un <b><color=#FFA114><cspace=-.1>Delta-V</cspace></color></b> de plus de 6 000 mètres par seconde, juste pour être sûr.
 Cette fusée n'en a que 3859 m/s !","Per raggiungere Mun, il nostro razzo ha bisogno di un <b><color=#FFA114><cspace=-.1>Delta-V</cspace></color></b> di oltre 6000 metri al secondo, giusto per andare sul sicuro.
-Questo razzo ne ha solo 3859!","To get to the Mun, our rocket needs a <b><color=#FFA114><cspace=-.1>Delta-V</cspace></color></b> of over 6000 meters per second just to be safe. 
+Questo razzo ha solamente 3.859 m/s!","To get to the Mun, our rocket needs a <b><color=#FFA114><cspace=-.1>Delta-V</cspace></color></b> of over 6000 meters per second just to be safe. 
 This rocket only has 3859m/s!","To get to the Mun, our rocket needs a <b><color=#FFA114><cspace=-.1>Delta-V</cspace></color></b> of over 6000 meters per second just to be safe. 
 This rocket only has 3859m/s!","To get to the Mun, our rocket needs a <b><color=#FFA114><cspace=-.1>Delta-V</cspace></color></b> of over 6000 meters per second just to be safe. 
 This rocket only has 3859m/s!","To get to the Mun, our rocket needs a <b><color=#FFA114><cspace=-.1>Delta-V</cspace></color></b> of over 6000 meters per second just to be safe. 
@@ -920,7 +920,7 @@ Voyons pourquoi !","Tutto questo può sembrare un po' complicato, ma per ora c
 Quello è il valore del tuo <b><color=#FFA114><cspace=-.1>Delta-V</cspace></color></b>! 
 
 Uhm, il primo e il secondo stadio sembrano a posto, possono portarci oltre gran parte dell'atmosfera.
-Tuttavia il nostro ultimo stadio, quello che dovrebbe avere più <b><color=#FFA114><cspace=-.1>Delta-V</cspace></color></b>, ne ha una quantità sorprendentemente bassa.
+Tuttavia il terzo stadio, quello che dovrebbe avere più <b><color=#FFA114><cspace=-.1>Delta-V</cspace></color></b>, ne ha una quantità sorprendentemente bassa.
 Scopriamo il perché!","This looks a little overwhelming, but I need you to just focus on the numbers near the top of each stage (with m/s). 
 That is the <b><color=#FFA114><cspace=-.1>Delta-V</cspace></color></b> value! 
 
@@ -1138,7 +1138,7 @@ Tutorials/tutorial_4.2.9,Text,,"Let's remove this launcher engine! Note that we 
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Delete the ""Mammoth II"" Engine","Retirons ce moteur de lancement ! Notez que nous avons 1349 m/s de <b><color=#FFA114><cspace=-.1>Delta-V</cspace></color></b> pour le moment.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Supprimez le moteur « Mammouth II »","Sbarazziamoci di questo motore!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Supprimez le moteur « Mammouth II »","Sbarazziamoci di questo motore! Ricorda che abbiamo 1.349 m/s di <b><color=#FFA114><cspace=-.1>Delta-V</cspace></color></b> ora.
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Elimina il motore ""Mammoth-II""","Let's remove this launcher engine! Note that we have 1349m/s of <b><color=#FFA114><cspace=-.1>Delta-V</cspace></color></b> right now.
 
@@ -1344,12 +1344,12 @@ Wow ! Nous sommes passés de 1349 m/s à 3843 m/s simplement en remplaçant le
 
 Nous pouvons maintenant réattacher le premier étage sous le dernier étage pour terminer notre fusée.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Sélectionnez le sous-assemblage que vous avez mis de côté plus tôt en cliquant sur le découpleur supérieur du sous-assemblage","Ora dai un'occhiata al <b><color=#FFA114><cspace=-.1>Delta-V</cspace></color></b> di questa sezione del razzo prima di riattaccare il resto.
-Ottimo! Questo valore è più che sufficiente per tornare da Mun.
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Sélectionnez le sous-assemblage que vous avez mis de côté plus tôt en cliquant sur le découpleur supérieur du sous-assemblage","Ora dai un'occhiata al <b><color=#FFA114><cspace=-.1>Delta-V</cspace></color></b> di questa sezione del razzo prima di riagganciare il resto.
+Caspita! È passato da 1.349 m/s a 3.843 m/s semplicemente sostituendo un motore e aggiungendo un po' di carburante in più! Questo <b><color=#FFA114><cspace=-.1>Delta-V</cspace></color></b> è più che sufficiente per fare ritorno da Mun.
 
-Ora possiamo riattaccare il primo stadio sotto l'ultimo stadio per completare il nostro razzo.
+Ora possiamo riagganciare il primo stadio sotto l'ultimo stadio per completare il nostro razzo.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Seleziona il preassemblato che hai messo da parte in precedenza cliccando sul suo separatore superiore.","Now take a look at the <b><color=#FFA114><cspace=-.1>Delta-V</cspace></color></b> of this section of the rocket before we reattach the rest of it. 
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Seleziona l'assemblaggio messo da parte in precedenza facendo clic sul disaccoppiatore superiore dell'assemblaggio","Now take a look at the <b><color=#FFA114><cspace=-.1>Delta-V</cspace></color></b> of this section of the rocket before we reattach the rest of it. 
 Woah! It went from 1349m/s to 3843m/s just by replacing an engine and adding a bit more fuel to it! This has plenty of <b><color=#FFA114><cspace=-.1>Delta-V</cspace></color></b> to get back from the Mun. 
 
 We can now reattach the first stage under the last stage to complete our rocket. 
@@ -1468,7 +1468,7 @@ To correct the staging, we'll have to move our upper stage engine up!
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> In the staging stack, move the upper stage engine into stage 3",,Localized
 Tutorials/tutorial_4.2.19,Text,,"Woo! Our Delta-V is now 6514 m/s! 
 That's more than enough for this rocket to get to the Mun AND return to Kerbin.","Youpi ! Notre Delta-V est maintenant de 6514 m/s !
-C'est amplement suffisant pour que cette fusée atteigne la Mune ET revienne vers Kerbin.","Evviva! Il nostro Delta-V adesso è di 6514 m/s! 
+C'est amplement suffisant pour que cette fusée atteigne la Mune ET revienne vers Kerbin.","Evviva! Il nostro Delta-V adesso è di 6.514 m/s! 
 È più che sufficiente per permettere a questo razzo di raggiungere Mun... e tornare su Kerbin.","Woo! Our Delta-V is now 6514 m/s! 
 That's more than enough for this rocket to get to the Mun AND return to Kerbin.","Woo! Our Delta-V is now 6514 m/s! 
 That's more than enough for this rocket to get to the Mun AND return to Kerbin.","Woo! Our Delta-V is now 6514 m/s! 
@@ -1907,7 +1907,7 @@ Tutorials/tutorial_4.3.16,Text,,"Wow, it's so much taller! Now it needs an engin
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Engine category in the Parts Picker menu.","Wow, it's so much taller! Now it needs an engine.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Engine category in the Parts Picker menu.","Wow, molto più alto! Ora ci serve un motore
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the Engine category in the Parts Picker menu.","Wow, è molto più alto! Ora ci serve un motore
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Seleziona la categoria Motori nel menu Selezionatore Parti","Wow, it's so much taller! Now it needs an engine.
 
@@ -1995,7 +1995,7 @@ To make sure that we have 4 stabilizers placed perfectly, we can use Symmetry.
 
 To make sure that we have 4 stabilizers placed perfectly, we can use Symmetry.
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","Come detto prima, il nostro razzo ha bisogno di alcuni stabilizzatori. Idealmente, alla base del razzo!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Click on the symmetry mode button to select the 4x symmetry mode.","Come detto prima, questo razzo ha bisogno di alcuni stabilizzatori. Idealmente, alla base del razzo!
 
 Per assicurarci che i 4 stabilizzatori siano posizionati alla perfezione, possiamo usare la Simmetria
 
@@ -2065,11 +2065,11 @@ The reason we want this is so our <b><color=#FFA114><cspace=-.1>Center Of Pressu
 
 Also, its small control surface will help this craft be more responsive in the atmosphere! It's a win-win situation!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","Le alette stabilizzatrici LPS-250 ""Transform"" starebbero benissimo sul nostro veicolo!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.","Le alette stabilizzatrici LPS-250 ""Transform"" starebbero benissimo su questo veicolo!
 
 Il motivo per cui le vogliamo è fare in modo che il nostro <b><color=#FFA114><cspace=-.1>Centro di Pressione (CoP)</cspace></color></b> rimanga al di sotto del nostro <b><color=#FFA114><cspace=-.1>Centro di Massa (CoM)</cspace></color></b>. Ti sei mai chiesto perché le freccette volano in modo stabile? Beh, è grazie alle alette! Mentre la cima del nostro razzo tende a inclinarsi verso il basso, l'aria spinge sulle alette nel senso opposto, garantendo che non vada fuori rotta!
 
-Inoltre, la sua piccola superficie di controllo aiuterà il nostro veicolo a essere più reattivo nell'atmosfera! È un vantaggio da tutti i punti di vista!
+Inoltre, la sua piccola superficie di controllo aiuterà questo veicolo a essere più reattivo nell'atmosfera! È un vantaggio da tutti i punti di vista!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Seleziona lo stabilizzatore LPS-250 ""Transform"" nel menu Selezionatore Parti","The LPS-250 ""Transform"" stabilizer fins would look really good on this vessel!
 
@@ -2150,7 +2150,7 @@ The reason we want this is so our <b><color=#FFA114><cspace=-.1>Center Of Pressu
 Also, its small control surface will help this craft be more responsive in the atmosphere! It's a win-win situation!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Select the LPS-250 ""Transform"" stabilizer in the Parts Picker menu.",,Localized
-Tutorials/tutorial_4.3.23,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Fissa gli stabilizzatori LPS-250 ""Transform"" alla base del tuo razzo","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 将LPS-250“转换”稳定翼安装到火箭底部。","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.",,Localized
+Tutorials/tutorial_4.3.23,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Fissa gli stabilizzatori LPS-250 ""Transform"" alla base di questo razzo","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 将LPS-250“转换”稳定翼安装到火箭底部。","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Attach the LPS-250 ""Transform"" stabilizers to the base of this rocket.",,Localized
 Tutorials/tutorial_4.3.24,Text,,"Okay, let's see how this rocket flies!
 Don't forget to make sure that the staging order is correct!
 
@@ -3105,4 +3105,4 @@ Tutorials/tutorial_4.5.17,Text,,"Tutorial complete! You have learned:
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> what the difference between a crewed module and a probe core is.
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Essentials for probes.
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> How to make a probe.",,Localized
-Tutorials/tutorial_4.3.31_failure_msg,Text,,"You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.",你的想法说不定挺好，但请按照本教程的预定步骤来！请再试一次。,"You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.",,Localized
+Tutorials/tutorial_4.3.31_failure_msg,Text,,"You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","L'idea potrebbe essere quella giusta, ma atteniamoci al progetto stabilito per questo tutorial! Per favore, riprova","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.",你的想法说不定挺好，但请按照本教程的预定步骤来！请再试一次。,"You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.","You might have the right idea, but let's stick to our planned blueprint for this tutorial! Please try again.",,Localized
