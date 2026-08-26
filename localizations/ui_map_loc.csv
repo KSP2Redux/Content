@@ -39,4 +39,10 @@ Map/Objects/EmptyFavorites,Text,,"Add <#2FFE2F>Favorite Objects</color>
   by <mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=105></voffset></mspace>
  on a object.",,Localized
 Map/Trajectory/WarpTo,Text,,Time Warp to Point,Avance rapide jusqu'au point,Avanza fino a qui,Vorspulen zu Punkt,Acelerar tiempo hasta el punto,ポイントまで時間加速,포인트로 타임워프,Przeskocz do punktu,Ускорить время до точки,时间加速至目标点,Distorção temporal até o ponto,時間曲速到點,Time Warp t' Point,Time Warp to Point,Time Warp to Point,Time Warp to Point,,Localized
-VesselInfo/Title,Text,,Vessel Identity,Identité du vaisseau,Identita' del veicolo,Schiffsidentität,Identidad de la nave,Vessel Identity,기체 정체,Dane identyfikacyjne statku,Тип аппарата,航天器身份标识,Vessel Identity,Vessel Identity,Vessel Identity,Vessel Identity,Vessel Identity,Vessel Identity,,Localized
+VesselInfo/Title,Text,,Vessel Identity,Identité du vaisseau,Identita' del veicolo,Schiffsidentität,Identidad de la nave,Vessel Identity,기체 정체,Dane identyfikacyjne statku,Тип аппарата,航天器身份标识,Identificação da Nave,Vessel Identity,Vessel Identity,Vessel Identity,Vessel Identity,Vessel Identity,,Localized
+VesselInfo/Category,Text,,Category,Catégorie,Categoria,Kategorie,Tipo,Category,분류,Kategoria,Категория,类别,Categoria,Category,Category,Category,Category,Category,,Localized
+VesselInfo/Apply,Text,,Apply,Appliquer,Applica,Übernehmen,Aplicar,Apply,적용,Zastosuj,Принять,应用,Aplicar,Apply,Apply,Apply,Apply,Apply,,Localized
+VesselInfo/Category/Debris,Text,,Debris,Débris,Detriti,Trümmer,Escombros,Debris,잔해,Szczątki,Мусор,残骸,Destroços,Debris,Debris,Debris,Debris,Debris,,Localized
+VesselInfo/Category/Probe,Text,,Probe,Sonde,Sonda,Sonde,Sonda,Probe,위성,Sonda,Зонд,探测器,Sonda,Probe,Probe,Probe,Probe,Probe,,Localized
+VesselInfo/Action,Text,,Vessel Info,Info du vaisseau,Informazioni veicolo,Schiffinfo,Información de la nave,Vessel Info,기체 정보,Informacje o Pojeździe,Описание аппарата,航天器信息,Informações da Nave,Vessel Info,Vessel Info,Vessel Info,Vessel Info,Vessel Info,,Localized
+VesselInfo/VesselName,Text,,Vessel Name,Nom du vaisseau,Nome nave,Schiffname,Nombre de la nave,Vessel Name,기체 이름,Nazwa Pojazdu,Название аппарата,航天器名称,Nome da Nave,Vessel Name,Vessel Name,Vessel Name,Vessel Name,Vessel Name,,Localized
