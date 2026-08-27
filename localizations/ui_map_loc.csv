@@ -44,5 +44,11 @@ VesselInfo/Category,Text,,Category,Catégorie,Categoria,Kategorie,Tipo,Category,
 VesselInfo/Apply,Text,,Apply,Appliquer,Applica,Übernehmen,Aplicar,Apply,적용,Zastosuj,Принять,应用,Aplicar,Apply,Apply,Apply,Apply,Apply,,Localized
 VesselInfo/Category/Debris,Text,,Debris,Débris,Detriti,Trümmer,Escombros,Debris,잔해,Szczątki,Мусор,残骸,Destroços,Debris,Debris,Debris,Debris,Debris,,Localized
 VesselInfo/Category/Probe,Text,,Probe,Sonde,Sonda,Sonde,Sonda,Probe,위성,Sonda,Зонд,探测器,Sonda,Probe,Probe,Probe,Probe,Probe,,Localized
+VesselInfo/Category/Lander,Text,,Lander,Attérisseur,Lander,Lander,Aterrizador,Lander,착륙선,Lądownik,Спускаемый аппарат,着陆器,Aterrissador,Lander,Lander,Lander,Lander,Lander,,Localized
+VesselInfo/Category/Ship,Text,,Ship,Vaisseau,Nave,Schiff,Barco,Ship,우주선,Statek,Корабль,飞船,Nave,Ship,Ship,Ship,Ship,Ship,,Localized
+VesselInfo/Category/SpaceStation,Text,,Space Station,Station spatiale,Stazione Spaziale,Raumstation,Estación espacial,Space Station,우주정거장,Stacja Kosmiczna,Станция,空间站,Estação Espacial,Space Station,Space Station,Space Station,Space Station,Space Station,,Localized
+VesselInfo/Category/Plane,Text,,Plane,Avion,Velivolo,Flugzeug,Avión,Plane,비행기,Samolot,Самолет,飞机,Avião,Plane,Plane,Plane,Plane,Plane,,Localized
+VesselInfo/Category/Relay,Text,,Relay,Relais,Ripetitore,Relai,Repetidor,Relay,중계기,Przekaźnik,Ретранслятор,中继,Repetidor,Relay,Relay,Relay,Relay,Relay,,Localized
 VesselInfo/Action,Text,,Vessel Info,Info du vaisseau,Informazioni veicolo,Schiffinfo,Información de la nave,Vessel Info,기체 정보,Informacje o Pojeździe,Описание аппарата,航天器信息,Informações da Nave,Vessel Info,Vessel Info,Vessel Info,Vessel Info,Vessel Info,,Localized
 VesselInfo/VesselName,Text,,Vessel Name,Nom du vaisseau,Nome nave,Schiffname,Nombre de la nave,Vessel Name,기체 이름,Nazwa Pojazdu,Название аппарата,航天器名称,Nome da Nave,Vessel Name,Vessel Name,Vessel Name,Vessel Name,Vessel Name,,Localized
+VesselInfo/Category/SurfaceBase,Text,,Surface Base,Base,Base di superficie,Oberflächenbasis,Base,Surface Base,지상 기지,Baza Powierzchniowa,База,基地,Base de Superfície,Surface Base,Surface Base,Surface Base,Surface Base,Surface Base,,Localized

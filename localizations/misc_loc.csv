@@ -5,25 +5,112 @@ AutoSave/DisplayName/Individual/SOIChange,Text,,AutoSave-SOI Change {0},Sauvegar
 AutoSave/DisplayName/Individual/VesselSplashed,Text,,AutoSave-Vessel Splashed {0},Sauvegarde auto - Vaisseau amerri {0},Salvataggio automatico-Veicolo ammarato {0},Automatischer Spielstand - Raumfahrzeug gewassert {0},Guardado automático {0} - Nave amerizada,オートセーブ - 機体着水 {0},자동저장-기체 충돌 {0},Autozapis–Po wodowaniu {0},Автосохранение-Аппарат совершил посадку на воду {0},自动保存-航天器海降{0},Salvamento automático-Nave à deriva {0},自動儲存-載具已下水{0},AutoSave-Vessel Splashed {0},AutoSave-Vessel Splashed {0},AutoSave-Vessel Splashed {0},AutoSave-Vessel Splashed {0},,Localized
 AutoSave/DisplayName/Shared/SOIChange,Text,,AutoSave {0}-SOI Change,Sauvegarde auto {0} - Changement de SDI,Salvataggio automatico {0}-Transizione SdI,Automatischer Spielstand {0} - Wechsel der SOI,Guardado automático {0} - Cambio de EdI,オートセーブ {0} - SOI変更,자동저장 {0}-SOI 변경,Autozapis {0}–Zmiana SG,Автосохранение {0}-Изменение СТ,自动保存{0}-SOI改变,Salvamento automático {0}-Mudança de EDI,自動儲存{0}-SOI變更,AutoSave {0}-SOI Change,AutoSave {0}-SOI Change,AutoSave {0}-SOI Change,AutoSave {0}-SOI Change,,Localized
 AutoSave/DisplayName/Shared/VesselSplashed,Text,,AutoSave {0}-Vessel Splashed,Sauvegarde auto {0} - Vaisseau amerri,Salvataggio automatico {0}-Veicolo ammarato,Automatischer Spielstand {0} - Raumfahrzeug gewassert,Guardado automático {0} - Nave amerizada,オートセーブ {0} - 機体着水,자동저장 {0}-기체 충돌,Autozapis {0}–Po wodowaniu,Автосохранение {0}-Аппарат совершил посадку на воду,自动保存{0}-航天器海降,Salvamento automático {0}-Nave à deriva,自動儲存{0}-載具已下水,AutoSave {0}-Vessel Splashed,AutoSave {0}-Vessel Splashed,AutoSave {0}-Vessel Splashed,AutoSave {0}-Vessel Splashed,,Localized
-Redux/BugReporter/Title,Text,,BUG REPORTER,SIGNALER UNE ANOMALIE,REPORT DI BUG,FEHLERMELDER,INFORMAR DE UN ERROR,BUG REPORTER,버그 신고,ZGŁASZACZ BŁĘDÓW,Сообщить об ошибке,反馈Bug,BUG REPORTER,BUG REPORTER,BUG REPORTER,BUG REPORTER,BUG REPORTER,BUG REPORTER,,Localized
-Redux/BugReporter/Header,Text,,Bug details,Détails de l'anomalie,Dettagli del bug,Fehlerdetails,Detalles del error,Bug details,버그 정보,Szczegóły błędu,Описание проблемы,Bug细节,Bug details,Bug details,Bug details,Bug details,Bug details,Bug details,,Localized
-Redux/BugReporter/TitleField,Text,,Bug report title,Titre du rapport d'anomalie,Titolo report del bug,Meldungstitel,Título del error a informar,Bug report title,버그 신고 제목,Tytuł raportu błędu,Название сообщения об ошибке,Bug报告的标题,Bug report title,Bug report title,Bug report title,Bug report title,Bug report title,Bug report title,,Localized
-Redux/BugReporter/DeleteAttachment,Text,,DELETE ATTACHMENT,SUPPRIMER PIÈCE-JOINTE,CANCELLA ALLEGATO,ANHANG LÖSCHEN,BORRAR ARCHIVO,DELETE ATTACHMENT,첨부 삭제,USUŃ ZAŁĄCZNIK,УДАЛИТЬ,删除附件,DELETE ATTACHMENT,DELETE ATTACHMENT,DELETE ATTACHMENT,DELETE ATTACHMENT,DELETE ATTACHMENT,DELETE ATTACHMENT,,Localized
-ISRU/UI/DisplayOverlay,Text,,DISPLAY OVERLAY,AFFICHER REPARTITION,MOSTRA OVERLAY,DISPLAY OVERLAY,DISPLAY OVERLAY,DISPLAY OVERLAY,DISPLAY OVERLAY,DISPLAY OVERLAY,ПОКАЗАТЬ РАСПРЕДЕЛЕНИЕ,显示覆盖层,DISPLAY OVERLAY,DISPLAY OVERLAY,DISPLAY OVERLAY,DISPLAY OVERLAY,DISPLAY OVERLAY,DISPLAY OVERLAY,,Localized
-ISRU/UI/HideOverlay,Text,,HIDE OVERLAY,CACHER REPARTITION,NASCONDI OVERLAY,HIDE OVERLAY,HIDE OVERLAY,HIDE OVERLAY,HIDE OVERLAY,HIDE OVERLAY,СКРЫТЬ РАСПРЕДЕЛЕНИЕ,隐藏覆盖层,HIDE OVERLAY,HIDE OVERLAY,HIDE OVERLAY,HIDE OVERLAY,HIDE OVERLAY,HIDE OVERLAY,,Localized
-ISRU/UI/ScanForResources,Text,,SCAN FOR RESOURCES,SCANNER LES RESSOURCES,SCANSIONA RISORSE,SCAN FOR RESOURCES,SCAN FOR RESOURCES,SCAN FOR RESOURCES,SCAN FOR RESOURCES,SCAN FOR RESOURCES,СКАНИРОВАТЬ РЕСУРСЫ,扫描资源,SCAN FOR RESOURCES,SCAN FOR RESOURCES,SCAN FOR RESOURCES,SCAN FOR RESOURCES,SCAN FOR RESOURCES,SCAN FOR RESOURCES,,Localized
-ISRU/UI/UserMessages/NoScannableResources,Text,,This celestial body has no scannable resources,Ce corps céleste ne possède aucune ressource analysable,Questo corpo celeste è privo di risorse scansionabili,This celestial body has no scannable resources,This celestial body has no scannable resources,This celestial body has no scannable resources,This celestial body has no scannable resources,This celestial body has no scannable resources,Это небесное тело не имеет доступных для сканирования ресурсов.,这个天体没有可扫描的资源,This celestial body has no scannable resources,This celestial body has no scannable resources,This celestial body has no scannable resources,This celestial body has no scannable resources,This celestial body has no scannable resources,This celestial body has no scannable resources,,Localized
-Redux/BugReporter/ReportSent,Text,,Report Sent Successfully!,Rapport envoyé avec succès !,Report inviato con successo!,Report Sent Successfully!,Report Sent Successfully!,Report Sent Successfully!,Report Sent Successfully!,Report Sent Successfully!,Отчет успешно отправлен!,报告发送成功！,Report Sent Successfully!,Report Sent Successfully!,Report Sent Successfully!,Report Sent Successfully!,Report Sent Successfully!,Report Sent Successfully!,,Localized
-Redux/BugReporter/SelectAttachment,Text,,Select Attachment,Sélectionnez la pièce-jointe,Seleziona allegato,Select Attachment,Select Attachment,Select Attachment,Select Attachment,Select Attachment,Прикрепить файл,选择附着点,Select Attachment,Select Attachment,Select Attachment,Select Attachment,Select Attachment,Select Attachment,,Localized
-Redux/BugReporter/AttachmentFailed,Text,,File too large or inaccessible.,Fichier trop volumineux ou inaccessible.,File troppo grande o inaccessibile,File too large or inaccessible.,File too large or inaccessible.,File too large or inaccessible.,File too large or inaccessible.,File too large or inaccessible.,Файл слишком большой или недоступен.,文件过大或无法访问。,File too large or inaccessible.,File too large or inaccessible.,File too large or inaccessible.,File too large or inaccessible.,File too large or inaccessible.,File too large or inaccessible.,,Localized
-Redux/BugReporter/MissingFields,Text,,Please fill in all required fields (*).,Veuillez remplir tous les champs obligatoires (*).,Compila i campi obbligatori (*),Please fill in all required fields (*).,Please fill in all required fields (*).,Please fill in all required fields (*).,Please fill in all required fields (*).,Please fill in all required fields (*).,"Пожалуйста, заполните все обязательные поля (*).",请填写所有必填字段（*）。,Please fill in all required fields (*).,Please fill in all required fields (*).,Please fill in all required fields (*).,Please fill in all required fields (*).,Please fill in all required fields (*).,Please fill in all required fields (*).,,Localized
-Redux/BugReporter/SubmitError,Text,,Error: {0},Erreur: {0},Errore: {0},Error: {0},Error: {0},Error: {0},Error: {0},Error: {0},Ошибка: {0},错误: {0},Error: {0},Error: {0},Error: {0},Error: {0},Error: {0},Error: {0},,Localized
-ISRU/UI/AvailableResources/AtLocation,Text,,AVAILABLE RESOURCES AT {0},RESSOURCES DISPONIBLES À {0},RISORSE PRESENTI ALLE COORDINATE {0},AVAILABLE RESOURCES AT {0},AVAILABLE RESOURCES AT {0},AVAILABLE RESOURCES AT {0},AVAILABLE RESOURCES AT {0},AVAILABLE RESOURCES AT {0},ДОСТУПНЫ РЕСУРСЫ: {0},{0}处的可用资源,AVAILABLE RESOURCES AT {0},AVAILABLE RESOURCES AT {0},AVAILABLE RESOURCES AT {0},AVAILABLE RESOURCES AT {0},AVAILABLE RESOURCES AT {0},AVAILABLE RESOURCES AT {0},,Localized
+ISRU/Variants/TankType,Text,,Tank type,Type de réservoir,Tipo di tanica,Tanktyp,Tipo de depósito,Tank type,탱크 종류,Rodzaj zbiornika,Тип Бака,储罐类型,Tipo de tanque,Tank type,Tank type,Tank type,Tank type,Tank type,,Localized
+Menu/Main/ReduxCredits,Text,,Redux Credits,Crédits Redux,Crediti Redux,Redux Mitwirkende,Créditos Redux,Redux Credits,Redux 크레딧,Twórcy Redux,Redux: Авторы,Redux制作组,Créditos do Redux,Redux Credits,Redux Credits,Redux Credits,Redux Credits,Redux Credits,,Localized
+Menu/Main/KSP2 Redux Credits,Text,,// REDUX CREDITS,// CRÉDITS REDUX,// CREDITI REDUX,// REDUX MITWIRKENDE,// CRÉDITOS REDUX,// REDUX CREDITS,// REDUX 크레딧,// TWÓRCY REDUX,// АВТОРЫ REDUX,//Redux制作组,//CRÉDITOS DO REDUX,// REDUX CREDITS,// REDUX CREDITS,// REDUX CREDITS,// REDUX CREDITS,// REDUX CREDITS,,Localized
+Redux/BugReporter/ReportTitle,Text,,Report title *,Titre du rapport *,Titolo report *,Meldungstitel *,Título del reporte *,Report title *,신고 제목 *,Tytuł raportu *,Название отчета *,报告标题*,Título do relatório *,Report title *,Report title *,Report title *,Report title *,Report title *,,Localized
+Redux/BugReporter/Observed,Text,,Observed *,Comportement observé *,Osservato *,Beobachtet *,Observaciones *,Observed *,발견 현상 *,Zaobserwowano *,Что произошло *,观察到的现象*,Observado *,Observed *,Observed *,Observed *,Observed *,Observed *,,Localized
+Redux/BugReporter/Title,Text,,BUG REPORTER,SIGNALER UNE ANOMALIE,REPORT DI BUG,FEHLERMELDER,INFORMAR DE UN ERROR,BUG REPORTER,버그 신고,ZGŁASZACZ BŁĘDÓW,Сообщить об ошибке,反馈Bug,RELATOR DE ERROS,BUG REPORTER,BUG REPORTER,BUG REPORTER,BUG REPORTER,BUG REPORTER,,Localized
+Redux/BugReporter/ContactInfo,Text,,Contact information:,Informations de contact :,Informazione di contatto:,Kontaktinfo:,Información de contacto:,Contact information:,연락처:,Dane kontaktowe:,Контактная информация:,联系方式：,Informações de contato:,Contact information:,Contact information:,Contact information:,Contact information:,Contact information:,,Localized
+Redux/BugReporter/Header,Text,,Bug details,Détails de l'anomalie,Dettagli del bug,Fehlerdetails,Detalles del error,Bug details,버그 정보,Szczegóły błędu,Описание проблемы,Bug细节,Detalhes do erro,Bug details,Bug details,Bug details,Bug details,Bug details,,Localized
+Redux/BugReporter/ReproStepsField,Text,,"1. How to
+2. reproduce
+3. the issue","1. Comment
+2. reproduire
+3. le problème","1. Come
+2. riprodurre
+3. il problema","1. Wie man
+2. der Fehler
+3. wiederholt","1. Cómo
+2. reproducir
+3. el error","1. How to
+2. reproduce
+3. the issue","1. 무엇을
+2. 어떻게
+3. 문제점","1. Jak
+2. odtworzyć
+3. błąd","1.Что делали
+2. Как повторить
+3. В чём проблема","1.问题
+2.是如何
+3.出现的","1. Como
+2. reproduzir
+3. o problema","1. How to
+2. reproduce
+3. the issue","1. How to
+2. reproduce
+3. the issue","1. How to
+2. reproduce
+3. the issue","1. How to
+2. reproduce
+3. the issue","1. How to
+2. reproduce
+3. the issue",,Localized
+Redux/BugReporter/TitleField,Text,,Bug report title,Titre du rapport d'anomalie,Titolo report del bug,Meldungstitel,Título del error a informar,Bug report title,버그 신고 제목,Tytuł raportu błędu,Название сообщения об ошибке,Bug报告的标题,Título do relatório de erro,Bug report title,Bug report title,Bug report title,Bug report title,Bug report title,,Localized
+Redux/BugReporter/AdditionalInfoField,Text,,Any other remarks or useful information,Vous avez des remarques ou d'autres informations utiles à ajouter ?,Altre note o informazioni utili,Sonstige Beobachtungen oder nützliche Information,Alguna información adicional útil,Any other remarks or useful information,기타 의견 및 유용한 정보,Inne uwagi lub przydatne informacje,Другие замечания или полезная информация,添加任何有用的补充信息,Quaisquer outras observações ou informações úteis,Any other remarks or useful information,Any other remarks or useful information,Any other remarks or useful information,Any other remarks or useful information,Any other remarks or useful information,,Localized
+Redux/BugReporter/ReproductionSteps,Text,,"Steps to
+reproduce *","Étapes pour
+reproduire le bug *","Passi per
+riprodurre *","Schritte zur
+Wiederholung *","Pasos para
+reproducir el error *","Steps to
+reproduce *",재현 방법*,"Kroki do
+odtworzenia błędu *","Последовательность 
+действий*","复现
+步骤*","Passos para
+reproduzir *","Steps to
+reproduce *","Steps to
+reproduce *","Steps to
+reproduce *","Steps to
+reproduce *","Steps to
+reproduce *",,Localized
+Redux/BugReporter/Attachments,Text,,Attachments,Pièces-jointes,Allegati,Anhänge,Archivos adjuntos,Attachments,첨부,Załączniki,Вложения,附件,Anexos,Attachments,Attachments,Attachments,Attachments,Attachments,,Localized
+Redux/BugReporter/AddAttachment,Text,,ATTACH FILE,JOINDRE UN FICHIER,ALLEGA FILE,DATEI ANHÄNGEN,ADJUNTAR ARCHIVO,ATTACH FILE,파일 첨부,DOŁĄCZ PLIK,ПРИКРЕПИТЬ ФАЙЛ,添加文件,ANEXAR ARQUIVO,ATTACH FILE,ATTACH FILE,ATTACH FILE,ATTACH FILE,ATTACH FILE,,Localized
+Redux/BugReporter/ExpectedField,Text,,What behavior did you expect to see,Quel comportement vous attendiez-vous à voir,Che comportamento ti aspettavi di osservare,Welches Ergebnis hast du erwartet,Qué comportamiento esperaba observar,What behavior did you expect to see,어떤 결과가 나오길 기대했나요?,Jakie zachowanie było oczekiwane,Что вы ожидали увидеть?,你预期中的正常现象,Que comportamento você esperava ver,What behavior did you expect to see,What behavior did you expect to see,What behavior did you expect to see,What behavior did you expect to see,What behavior did you expect to see,,Localized
+Redux/BugReporter/ObservedField,Text,,What behavior did you observe,Quel comportement avez-vous observé ?,Che comportamento hai osservato,Welches Problem hast du beobachtet,Qué comportamientos observó,What behavior did you observe,어떤 현상을 보았나요?,Jakie zachowanie zostało zaobserwowane,Как проявилась ошибка?,你观察到哪些不正常现象,Que comportamento você observou?,What behavior did you observe,What behavior did you observe,What behavior did you observe,What behavior did you observe,What behavior did you observe,,Localized
+Redux/BugReporter/AdditionalInfo,Text,,"Additional
+information","Informations
+additionnelles","Informazioni
+addizionali","Zusätzliche
+Information","Información
+adicional","Additional
+information","추가
+정보","Dodatkowe
+informacje","Дополнительная
+информация","补充
+信息","Informações
+adicionais","Additional
+information","Additional
+information","Additional
+information","Additional
+information","Additional
+information",,Localized
+Redux/BugReporter/Platform,Text,,Platform *,Plateforme *,Piattaforma *,Plattform *,Plataforma *,Platform *,플랫폼 *,Platforma *,Платформа *,平台*,Plataforma *,Platform *,Platform *,Platform *,Platform *,Platform *,,Localized
+Redux/BugReporter/Expected,Text,,Expected *,Comportement attendu *,Aspettativa *,Erwartet *,Esperado *,Expected *,예상 현상 *,Oczekiwano *,Ожидаемое поведение *,预期表现*,Esperado *,Expected *,Expected *,Expected *,Expected *,Expected *,,Localized
+Redux/BugReporter/Submitting,Text,,SUBMITTING..,EN COURS D'ENVOI,INVIANDO..,SENDEN..,ENVIANDO..,SUBMITTING..,보내는 중...,WYSYŁANIE..,ОТПРАВЛЯЕМ..,提交中..,ENVIANDO..,SUBMITTING..,SUBMITTING..,SUBMITTING..,SUBMITTING..,SUBMITTING..,,Localized
+Redux/BugReporter/DeleteAttachment,Text,,DELETE ATTACHMENT,SUPPRIMER PIÈCE-JOINTE,CANCELLA ALLEGATO,ANHANG LÖSCHEN,BORRAR ARCHIVO,DELETE ATTACHMENT,첨부 삭제,USUŃ ZAŁĄCZNIK,УДАЛИТЬ,删除附件,EXCLUIR ANEXO,DELETE ATTACHMENT,DELETE ATTACHMENT,DELETE ATTACHMENT,DELETE ATTACHMENT,DELETE ATTACHMENT,,Localized
+Redux/BugReporter/Username,Text,,Username *,Pseudonyme *,Username *,Benutzername *,Nombre de usuario *,Username *,유저네임 *,Nazwa użytkownika *,Имя пользователя *,用户名*,Nome de usuário *,Username *,Username *,Username *,Username *,Username *,,Localized
+Redux/BugReporter/ReduxBugToggle,Text,,I can confirm this bug happens only in Redux and not in the stock version of the game,Je peux confirmer que ce bug n'arrive que dans Redux et non dans la version non-moddée du jeu,Posso confermare che questo bug si presenda solo con Redux e non nella versione base del gioco,"Ich bestätige, dass dieser Fehler nur in Redux vorkommt und nicht in der Standardversion des Spiels.",Puedo confirmar que este error solo aparece en Redux y no la en la versión original del juego,I can confirm this bug happens only in Redux and not in the stock version of the game,"이 버그는 Redux에서만 발생하며, 게임의 기본 버전에서는 발생하지 않는 것을 확신합니다.","Potwierdzam, że ten błąd występuje tylko w Redux a nie w fabrycznej wersji gry","Я могу подтвердить, что этот баг проявляется только в Redux и не воспроизводится в стандартной версии игры.",我确定此Bug只出现在Redux 版本游戏中，在原版游戏中未见出现,"Posso confirmar que esse erro ocorre apenas no Redux, e não na versão padrão do jogo.",I can confirm this bug happens only in Redux and not in the stock version of the game,I can confirm this bug happens only in Redux and not in the stock version of the game,I can confirm this bug happens only in Redux and not in the stock version of the game,I can confirm this bug happens only in Redux and not in the stock version of the game,I can confirm this bug happens only in Redux and not in the stock version of the game,,Localized
+Redux/BugReporter/RequiredText,Text,,All fields marked with an asterisk (*) are required.,Tous les champs marqués avec un astérisque (*) sont nécessaires.,Tutti i campi marcati con (*) sono richiesti.,Alle Felder mit einem Sternchen (*) sind Pflichtfelder.,Todas las casillas marcadas con un asterisco (*) son obligatorias.,All fields marked with an asterisk (*) are required.,별표(*)로 표시된 모든 필드는 필수입니다.,Wszystkie pola zaznaczone gwiazdką (*) są obowiązkowe.,Все поля помеченные символом (*) обязательны для заполнения,所有带有星号（*）的项目为必填项。,Todos os campos marcados com um asterisco (*) são obrigatórios.,All fields marked with an asterisk (*) are required.,All fields marked with an asterisk (*) are required.,All fields marked with an asterisk (*) are required.,All fields marked with an asterisk (*) are required.,All fields marked with an asterisk (*) are required.,,Localized
+Redux/BugReporter/Submit,Text,,SUBMIT,SOUMETTRE,INVIA,SENDEN,ENVIAR,SUBMIT,제출,WYŚLIJ,ОТПРАВИТЬ,提交,ENVIAR,SUBMIT,SUBMIT,SUBMIT,SUBMIT,SUBMIT,,Localized
+Redux/BugReporter/Close,Text,,CLOSE,FERMER,CHIUDI,SCHLIESSEN,CERRAR,CLOSE,닫기,ZAMKNIJ,ЗАКРЫТЬ,关闭,FECHAR,CLOSE,CLOSE,CLOSE,CLOSE,CLOSE,,Localized
+Menu/VesselRename/Undocked,Text,,Undocked: ,désamarré : ,Sganciato: ,Getrennt: ,Desacoplado: ,Undocked: ,도킹해제: ,Wydokowany: ,Отстыковано: ,已分离: ,Desatracada: ,Undocked: ,Undocked: ,Undocked: ,Undocked: ,Undocked: ,,Localized
+Menu/VesselRename/Docked,Text,,Docked: ,Amarré : ,Attraccato: ,Angedockt: ,Acoplado: ,Docked: ,도킹됨: ,Zadokowany: ,Состыковано: ,已对接: ,Atracada: ,Docked: ,Docked: ,Docked: ,Docked: ,Docked: ,,Localized
+ISRU/UI/DisplayOverlay,Text,,DISPLAY OVERLAY,AFFICHER REPARTITION,MOSTRA OVERLAY,DISPLAY OVERLAY,DISPLAY OVERLAY,DISPLAY OVERLAY,DISPLAY OVERLAY,DISPLAY OVERLAY,ПОКАЗАТЬ РАСПРЕДЕЛЕНИЕ,显示覆盖层,EXIBIR SOBREPOSIÇÃO DE TELA,DISPLAY OVERLAY,DISPLAY OVERLAY,DISPLAY OVERLAY,DISPLAY OVERLAY,DISPLAY OVERLAY,,Localized
+ISRU/UI/HideOverlay,Text,,HIDE OVERLAY,CACHER REPARTITION,NASCONDI OVERLAY,HIDE OVERLAY,HIDE OVERLAY,HIDE OVERLAY,HIDE OVERLAY,HIDE OVERLAY,СКРЫТЬ РАСПРЕДЕЛЕНИЕ,隐藏覆盖层,OCULTAR SOBREPOSIÇÃO DE TELA,HIDE OVERLAY,HIDE OVERLAY,HIDE OVERLAY,HIDE OVERLAY,HIDE OVERLAY,,Localized
+ISRU/UI/ScanForResources,Text,,SCAN FOR RESOURCES,SCANNER LES RESSOURCES,SCANSIONA RISORSE,SCAN FOR RESOURCES,SCAN FOR RESOURCES,SCAN FOR RESOURCES,SCAN FOR RESOURCES,SCAN FOR RESOURCES,СКАНИРОВАТЬ РЕСУРСЫ,扫描资源,ESCANEAR RECURSOS,SCAN FOR RESOURCES,SCAN FOR RESOURCES,SCAN FOR RESOURCES,SCAN FOR RESOURCES,SCAN FOR RESOURCES,,Localized
+ISRU/UI/UserMessages/NoScannableResources,Text,,This celestial body has no scannable resources,Ce corps céleste ne possède aucune ressource analysable,Questo corpo celeste è privo di risorse scansionabili,This celestial body has no scannable resources,This celestial body has no scannable resources,This celestial body has no scannable resources,This celestial body has no scannable resources,This celestial body has no scannable resources,Это небесное тело не имеет доступных для сканирования ресурсов.,这个天体没有可扫描的资源,Este corpo celeste não possui recursos escaneáveis,This celestial body has no scannable resources,This celestial body has no scannable resources,This celestial body has no scannable resources,This celestial body has no scannable resources,This celestial body has no scannable resources,,Localized
+Redux/BugReporter/ReportSent,Text,,Report Sent Successfully!,Rapport envoyé avec succès !,Report inviato con successo!,Report Sent Successfully!,Report Sent Successfully!,Report Sent Successfully!,Report Sent Successfully!,Report Sent Successfully!,Отчет успешно отправлен!,报告发送成功！,Relatório enviado com sucesso!,Report Sent Successfully!,Report Sent Successfully!,Report Sent Successfully!,Report Sent Successfully!,Report Sent Successfully!,,Localized
+Redux/BugReporter/SelectAttachment,Text,,Select Attachment,Sélectionnez la pièce-jointe,Seleziona allegato,Select Attachment,Select Attachment,Select Attachment,Select Attachment,Select Attachment,Прикрепить файл,选择附着点,Selecionar Anexo,Select Attachment,Select Attachment,Select Attachment,Select Attachment,Select Attachment,,Localized
+Redux/BugReporter/AttachmentFailed,Text,,File too large or inaccessible.,Fichier trop volumineux ou inaccessible.,File troppo grande o inaccessibile,File too large or inaccessible.,File too large or inaccessible.,File too large or inaccessible.,File too large or inaccessible.,File too large or inaccessible.,Файл слишком большой или недоступен.,文件过大或无法访问。,Arquivo muito grande ou inacessível.,File too large or inaccessible.,File too large or inaccessible.,File too large or inaccessible.,File too large or inaccessible.,File too large or inaccessible.,,Localized
+Redux/BugReporter/MissingFields,Text,,Please fill in all required fields (*).,Veuillez remplir tous les champs obligatoires (*).,Compila i campi obbligatori (*),Please fill in all required fields (*).,Please fill in all required fields (*).,Please fill in all required fields (*).,Please fill in all required fields (*).,Please fill in all required fields (*).,"Пожалуйста, заполните все обязательные поля (*).",请填写所有必填字段（*）。,"Por favor, preencha todos os campos obrigatórios (*).",Please fill in all required fields (*).,Please fill in all required fields (*).,Please fill in all required fields (*).,Please fill in all required fields (*).,Please fill in all required fields (*).,,Localized
+Redux/BugReporter/SubmitError,Text,,Error: {0},Erreur: {0},Errore: {0},Error: {0},Error: {0},Error: {0},Error: {0},Error: {0},Ошибка: {0},错误: {0},Erro: {0},Error: {0},Error: {0},Error: {0},Error: {0},Error: {0},,Localized
+ISRU/UI/AvailableResources/AtLocation,Text,,AVAILABLE RESOURCES AT {0},RESSOURCES DISPONIBLES À {0},RISORSE PRESENTI ALLE COORDINATE {0},AVAILABLE RESOURCES AT {0},AVAILABLE RESOURCES AT {0},AVAILABLE RESOURCES AT {0},AVAILABLE RESOURCES AT {0},AVAILABLE RESOURCES AT {0},ДОСТУПНЫ РЕСУРСЫ: {0},{0}处的可用资源,RECURSOS DISPONÍVEIS EM {0},AVAILABLE RESOURCES AT {0},AVAILABLE RESOURCES AT {0},AVAILABLE RESOURCES AT {0},AVAILABLE RESOURCES AT {0},AVAILABLE RESOURCES AT {0},,Localized
 ISRU/UI/Coordinates/North,Text,,N,N,N,N,N,N,N,N,С,北,N,N,N,N,N,N,,Localized
 ISRU/UI/Coordinates/South,Text,,S,S,S,S,S,S,S,S,Ю,南,S,S,S,S,S,S,,Localized
-ISRU/UI/Coordinates/East,Text,,E,E,E,E,E,E,E,E,В,东,E,E,E,E,E,E,,Localized
-ISRU/UI/Coordinates/West,Text,,W,O,W,W,W,W,W,W,З,西,W,W,W,W,W,W,,Localized
-ISRU/UI/ResourceGathering,Text,,RESOURCE GATHERING,COLLECTE DE RESSOURCES,ESTRAZIONE RISORSE,RESOURCE GATHERING,RESOURCE GATHERING,RESOURCE GATHERING,RESOURCE GATHERING,RESOURCE GATHERING,РАБОТА С РЕСУРСАМИ,资源采集,RESOURCE GATHERING,RESOURCE GATHERING,RESOURCE GATHERING,RESOURCE GATHERING,RESOURCE GATHERING,RESOURCE GATHERING,,Localized
-ISRU/UI/ScanTarget,Text,,SCAN TARGET,CIBLE DU SCAN,BERSAGLIO DI SCANSIONE,SCAN TARGET,SCAN TARGET,SCAN TARGET,SCAN TARGET,SCAN TARGET,ОБЪЕКТ СКАНИРОВАНИЯ,扫描目标,SCAN TARGET,SCAN TARGET,SCAN TARGET,SCAN TARGET,SCAN TARGET,SCAN TARGET,,Localized
-ISRU/UI/Columns/Resource,Text,,RESOURCE,RESSOURCE,RISORSA,RESOURCE,RESOURCE,RESOURCE,RESOURCE,RESOURCE,РЕСУРС,资源,RESOURCE,RESOURCE,RESOURCE,RESOURCE,RESOURCE,RESOURCE,,Localized
-ISRU/UI/Columns/Concentration,Text,,CONCENTRATION,CONCENTRATION,CONCENTRAZIONE,CONCENTRATION,CONCENTRATION,CONCENTRATION,CONCENTRATION,CONCENTRATION,КОНЦЕНТРАЦИЯ,丰度,CONCENTRATION,CONCENTRATION,CONCENTRATION,CONCENTRATION,CONCENTRATION,CONCENTRATION,,Localized
+ISRU/UI/Coordinates/East,Text,,E,E,E,E,E,E,E,E,В,东,L,E,E,E,E,E,,Localized
+ISRU/UI/Coordinates/West,Text,,W,O,W,W,W,W,W,W,З,西,O,W,W,W,W,W,,Localized
+ISRU/UI/ResourceGathering,Text,,RESOURCE GATHERING,COLLECTE DE RESSOURCES,ESTRAZIONE RISORSE,RESOURCE GATHERING,RESOURCE GATHERING,RESOURCE GATHERING,RESOURCE GATHERING,RESOURCE GATHERING,РАБОТА С РЕСУРСАМИ,资源采集,COLETA DE RECURSOS,RESOURCE GATHERING,RESOURCE GATHERING,RESOURCE GATHERING,RESOURCE GATHERING,RESOURCE GATHERING,,Localized
+ISRU/UI/ScanTarget,Text,,SCAN TARGET,CIBLE DU SCAN,BERSAGLIO DI SCANSIONE,SCAN TARGET,SCAN TARGET,SCAN TARGET,SCAN TARGET,SCAN TARGET,ОБЪЕКТ СКАНИРОВАНИЯ,扫描目标,ALVO DO ESCANEAMENTO,SCAN TARGET,SCAN TARGET,SCAN TARGET,SCAN TARGET,SCAN TARGET,,Localized
+ISRU/UI/Columns/Resource,Text,,RESOURCE,RESSOURCE,RISORSA,RESOURCE,RESOURCE,RESOURCE,RESOURCE,RESOURCE,РЕСУРС,资源,RECURSO,RESOURCE,RESOURCE,RESOURCE,RESOURCE,RESOURCE,,Localized
+ISRU/UI/Columns/Concentration,Text,,CONCENTRATION,CONCENTRATION,CONCENTRAZIONE,CONCENTRATION,CONCENTRATION,CONCENTRATION,CONCENTRATION,CONCENTRATION,КОНЦЕНТРАЦИЯ,丰度,CONCENTRAÇÃO,CONCENTRATION,CONCENTRATION,CONCENTRATION,CONCENTRATION,CONCENTRATION,,Localized
