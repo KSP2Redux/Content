@@ -1,5 +1,5 @@
 {
-  "version": "9af2d5709b6029b88044876f23c4f953f98625761876740aae2b31882ec0c9d0",
+  "version": "3c5cfb1aba0e347b47b5dcc12c2c404691b4e9ce408ce402b9857c50af79e205",
   "files": [
     {
       "path": "actiongroups_loc.csv",
@@ -51,8 +51,8 @@
     },
     {
       "path": "parts_loc.csv",
-      "sha256": "6aa032d387fdeeb6c1a8abe5d2d7b30aeccd57aab021e6a54be0a432c1c39428",
-      "bytes": 224264,
+      "sha256": "93b7dceb2572dd23eff6ab65d4ff49c1c166083cde8c8dc46a4c0a95969100b9",
+      "bytes": 224254,
       "order": 8
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "path": "ui_flight_loc.csv",
-      "sha256": "d0df84b1af4bbf4d10a2c70cea605ffd60f2f5435c6a64cda4b80cf4eebbd9d8",
-      "bytes": 56194,
+      "sha256": "5676a98f203f96bcce915619d34640ab3fe156d2017bafadeca2be959e069e37",
+      "bytes": 56188,
       "order": 13
     },
     {
@@ -111,8 +111,8 @@
     },
     {
       "path": "ui_resources_loc.csv",
-      "sha256": "4f3faac1fe1920f65d9e54cf43b12c987f3c59ffdae92c1445f3d9978757d7a0",
-      "bytes": 31549,
+      "sha256": "58b935bb251c1f49ba6e245fc1fb2bacd15812ed99f2e80834b9e04db746a162",
+      "bytes": 32146,
       "order": 18
     },
     {
@@ -123,8 +123,8 @@
     },
     {
       "path": "ui_trackingstation_loc.csv",
-      "sha256": "62db4a2bb67fc9f162d9b1aad25704ed4fc25c14febfe032f1f11df410658a9d",
-      "bytes": 4338,
+      "sha256": "90d29dc1a800685d8a7b70ca02aa320e0a06011da9614358b74e2b63ef711cdb",
+      "bytes": 4335,
       "order": 20
     },
     {
