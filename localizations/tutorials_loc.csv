@@ -191,7 +191,7 @@ Tutorials/tutorial_4.1.2,Text,,"I've given you a rocket to fly. Let's see how fa
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace>Нажмите кнопку «ПУСК» или клавишу пробела, чтобы запустить ракету!","给你一枚火箭。来试试你能让它飞离发射台多远！
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace>按下启动分级按钮或者空格键发射！","I've given you a rocket to fly. Let's see how far you can get it off the pad!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace>按下启动按钮或者空格键发射！","I've given you a rocket to fly. Let's see how far you can get it off the pad!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press the GO Button or the space bar to launch!","I've given you a rocket to fly. Let's see how far you can get it off the pad!
 
@@ -623,7 +623,7 @@ Tutorials/tutorial_4.1.19,Text,,"Your new and improved rocket is on the pad! Let
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace>Нажмите кнопку «ПУСК» или пробел, чтобы запустить свою ракету!","全新改进的火箭现已就位，来试试吧！
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace>现在点击启动分级按钮发射你的火箭！","Your new and improved rocket is on the pad! Let's give it a whirl, shall we?
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace>现在点击启动按钮发射你的火箭！","Your new and improved rocket is on the pad! Let's give it a whirl, shall we?
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press the GO button or the spacebar to launch your rocket!","Your new and improved rocket is on the pad! Let's give it a whirl, shall we?
 
@@ -1584,7 +1584,7 @@ Let's test it to see what's the issue!
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace>  Press the GO button to launch this rocket","主管，我们的工程师正在尝试制造一枚火箭，但他们没法让它飞直。
 我们来测试一下，看看问题出在哪！
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 按下启动分级按钮发射这枚火箭。","Director, our engineers are trying to make a rocket, but they can't make it fly straight. 
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 按下启动按钮发射这枚火箭。","Director, our engineers are trying to make a rocket, but they can't make it fly straight. 
 Let's test it to see what's the issue!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace>  Press the GO button to launch this rocket","Director, our engineers are trying to make a rocket, but they can't make it fly straight. 
@@ -2285,7 +2285,7 @@ Tutorials/tutorial_4.3.26,Text,,"<b><color=#FFA114><cspace=-.1>SAS</cspace></col
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press the GO Button to launch this super-stable rocket!","<b><color=#FFA114><cspace=-.1>稳定辅助系统</cspace></color></b>默认处于开启状态，所以我们除了知晓它之外不需要做任何操作！
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 按下启动分级按钮发射这枚超稳定的火箭！","<b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> defaults to the ON position so we don't have to do anything except be aware of it!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 按下启动按钮发射这枚超稳定的火箭！","<b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> defaults to the ON position so we don't have to do anything except be aware of it!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press the GO Button to launch this super-stable rocket!","<b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> defaults to the ON position so we don't have to do anything except be aware of it!
 
