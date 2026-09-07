@@ -1,5 +1,5 @@
 {
-  "version": "d9396dd7880fee6b1275ba0c8d4d68b31a0f3b1d47932b5484f0931637837fb0",
+  "version": "01f5327f31e352220d9c0c94c1eb53636a82671f64e12d1d084ca72d3eac8fed",
   "files": [
     {
       "path": "actiongroups_loc.csv",
@@ -33,8 +33,8 @@
     },
     {
       "path": "missions_loc.csv",
-      "sha256": "9610923795c4eccc05f9fdb6860a8d2449d7ee25152124c08ac3d7a1d71bd35f",
-      "bytes": 253409,
+      "sha256": "25f795b01a0ecb6a8ae72497d762672f7e024b4f416ab2a9f743346fcf6310ae",
+      "bytes": 253543,
       "order": 5
     },
     {
@@ -45,8 +45,8 @@
     },
     {
       "path": "partmodules_loc.csv",
-      "sha256": "a521791ee89301f05240b6c6307b9c1a92392ea00ae67cb9b196f3754ef2babf",
-      "bytes": 18518,
+      "sha256": "d039f42b5cf14076004dad94fab58e89465b203233b2f35b2dd5dd4550ac3e85",
+      "bytes": 18594,
       "order": 7
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "path": "ui_flight_loc.csv",
-      "sha256": "d2c9fcccd1753a0cdece4aecc7aff12278680695ef48a54feae858c369181c2c",
-      "bytes": 57048,
+      "sha256": "3a1eacdbf117585afb9b1746bdaea6f658af1f044dafbf0215be69e42ce03fb4",
+      "bytes": 57324,
       "order": 13
     },
     {
@@ -99,8 +99,8 @@
     },
     {
       "path": "ui_map_loc.csv",
-      "sha256": "eeb302ebae9e7f79e4a43e526685825957d64fda0b7b989fee6a9f1b2abaa8ae",
-      "bytes": 8303,
+      "sha256": "03442dd1a55fdff663b6459ed844e79f0681cdfff852509a41461807ba59d8b1",
+      "bytes": 8314,
       "order": 16
     },
     {
@@ -117,8 +117,8 @@
     },
     {
       "path": "ui_settings_loc.csv",
-      "sha256": "80d00c9dccbf5e910317ac39acf4918166e0f8f0f68d4056e1326e08333c7ba8",
-      "bytes": 193812,
+      "sha256": "6d1f5647dab56607d30c889c5a23993440a093ebdd18837400381eed1d805fd1",
+      "bytes": 193813,
       "order": 19
     },
     {
