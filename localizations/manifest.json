@@ -1,5 +1,5 @@
 {
-  "version": "01f5327f31e352220d9c0c94c1eb53636a82671f64e12d1d084ca72d3eac8fed",
+  "version": "7b8213fe8dad0d5e6348e4bf2ba04267a498948a517f3d03a57642d4a5882a04",
   "files": [
     {
       "path": "actiongroups_loc.csv",
@@ -45,7 +45,7 @@
     },
     {
       "path": "partmodules_loc.csv",
-      "sha256": "d039f42b5cf14076004dad94fab58e89465b203233b2f35b2dd5dd4550ac3e85",
+      "sha256": "7c4386e0fe92c9359b697c95016e81b3f7c859e80d0e76bba6c7f56827c88f08",
       "bytes": 18594,
       "order": 7
     },
@@ -99,8 +99,8 @@
     },
     {
       "path": "ui_map_loc.csv",
-      "sha256": "03442dd1a55fdff663b6459ed844e79f0681cdfff852509a41461807ba59d8b1",
-      "bytes": 8314,
+      "sha256": "68491d7ee151c904eeff4b036e0ffba577ba0fba64df3d33aebfa349a33a88d8",
+      "bytes": 8846,
       "order": 16
     },
     {
