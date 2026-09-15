@@ -1,5 +1,86 @@
 Key,Type,Desc,English,French,Italian,German,Spanish,Japanese,Korean,Polish,Russian,Chinese-Simplified [zh-CN],Portuguese-Brazil [pt-BR],Chinese-Traditional [zh-TW],Pirate English [en-PI],Serbian,Swedish,Romanian,$Context,$Status
 Menu/Main/GameSave,Text,,GAME SAVE,SAUVEGARDE,SALVATAGGI,SPIELSTAND,GUARDAR PARTIDA,ゲームセーブ,게임 저장,ZAPIS GRY,СОХРАНЕНИЕ ИГРЫ,游戏存档,JOGO SALVO,遊戲儲存,GAME SAVE,GAME SAVE,GAME SAVE,GAME SAVE,,Localized
+Menu/NewCampaign/Exploration Description,Text,,"- Earn Science by performing experiments
+  - Spend Science to unlock new technologies and vehicle parts
+  - Discover celestial bodies and resources
+- Spend resources to create vehicles
+  - Undertake missions
+  - Earn Achievements","- Accumulez de la science en réalisant des expériences
+- Dépensez de la science pour déverrouiller de nouvelles technologies et pièces de vaisseau
+- Découvrez des corps célestes et des ressources
+- Dépensez des ressources pour créer des véhicules
+- Menez des missions à bien
+- Remportez des succès","- Ottieni Scienza eseguendo esperimenti
+  - Investi Scienza per sbloccare nuove tecnologie e parti per veicoli
+  - Scopri risorse e corpi celesti
+- Investi risorse per creare veicoli
+  - Intraprendi missioni
+  - Completa obiettivi","- Verdiene Wissenschaft, indem du Experimente durchführst.
+- Wissenschaftspunkte kannst du für das Freischalten neuer Technologien und Fahrzeugteile ausgeben.
+- Entdecke Himmelskörper und Ressourcen.
+- Gib Ressourcen für das Erstellen von Fahrzeugen aus.
+- Gehe auf Missionen.
+- Erziele Erfolge.","- Obtén ciencia realizando experimentos
+ - Gasta ciencia para desbloquear nuevas tecnologías y piezas de vehículos
+ - Descubre cuerpos celestes y recursos
+ - Gasta recursos para crear vehículos
+ - Realiza misiones
+- Consigue logros","- 実験を行ってサイエンスポイントを獲得する
+- サイエンスポイントを使って新しい技術とロケットのパーツをアンロックする
+- 天体と資源を発見する
+ - 資源を使ってロケットを建造する
+- ミッションを引き受ける
+ - 成果を獲得する","- 실험을 수행하여 과학점수를 얻습니다
+- 과학점수를 이용하여 새로운 기술과 부품들을 해금할 수 있습니다
+- 천체와 자원들을 발견할 수 있습니다
+- 자원을 사용하여 기체를 제작할 수 있습니다
+- 임무를 수행할 수 있습니다
+- 도전과제를 달성할 수 있습니다","- Zdobywaj punkty naukowe poprzez wykonywaniu eksperymentów.
+- Wydawaj punkty naukowe na odblokowanie nowych technologii i części pojazdów.
+ - Odkrywaj ciała niebieskie i surowce.
+- Wydawaj surowce na budowanie pojazdów.
+ - Realizuj programy badawcze.
+- Zdobywaj osiągnięcia.","- Зарабатывайте очки науки, проводя эксперименты.
+- Тратьте очки науки на новые технологии и детали аппаратов.
+- Открывайте небесные тела и ресурсы.
+- Используйте ресурсы для создания аппаратов.
+- Выполняйте миссии.
+- Получайте достижения.","-通过进行实验赚取科技点
+-花费科技点解锁新科技和载具部件
+-发现天体和资源
+-花费资源制造载具
+-接受任务
+-获得成就","– Adquira Ciência realizando experimentos;
+ – Gaste sua Ciência para desbloquear novas tecnologias e peças de veículos;
+ – Descubra corpos celestes e recursos;
+– Gaste recursos para criar veículos;
+ – Cumpra missões;
+ – Obtenha conquistas.","- 經由執行實驗獲得科學點數
+- 花費科學點數以解鎖新技術和載具零件
+- 探索天體和資源
+ - 花費資源以製造載具
+- 執行任務
+ - 獲得成就","- Earn Science by performing experiments
+  - Spend Science to unlock new technologies and vehicle parts
+  - Discover celestial bodies and resources
+- Spend resources to create vehicles
+  - Undertake missions
+  - Earn Achievements","- Earn Science by performing experiments
+  - Spend Science to unlock new technologies and vehicle parts
+  - Discover celestial bodies and resources
+- Spend resources to create vehicles
+  - Undertake missions
+  - Earn Achievements","- Earn Science by performing experiments
+  - Spend Science to unlock new technologies and vehicle parts
+  - Discover celestial bodies and resources
+- Spend resources to create vehicles
+  - Undertake missions
+  - Earn Achievements","- Earn Science by performing experiments
+  - Spend Science to unlock new technologies and vehicle parts
+  - Discover celestial bodies and resources
+- Spend resources to create vehicles
+  - Undertake missions
+  - Earn Achievements",,Localized
 Menu/NewCampaign/Secondary,Text,,Accent,Secondaire,Dettagli,Akzent,Secundario,アクセント,액센트,Akcent,Акцентный,点缀色,Realçar,點綴,Accent,Accent,Accent,Accent,,Localized
 Menu/NewCampaign/Set to Agency default colors,Text,,Reset Agency Colors to Defaults,Définir comme couleurs par défaut de l'agence,Ripristina colori agenzia predefiniti,Standardfarben für Organisation wählen,Revertir a los colores por defecto,機関のデフォルトカラーに設定,기본 에이전시 색상으로 설정,Przywróć domyślne barwy Agencji,Выбрать по умолчанию,重置航天局的颜色为默认值,Definir com as cores padrões,重設太空總署的顏色為預設,Reset Agency Colors to Defaults,Reset Agency Colors to Defaults,Reset Agency Colors to Defaults,Reset Agency Colors to Defaults,,Localized
 Menu/SaveLoad/GameTime,Text,,Game Time,Temps de jeu,Tempo simulato,Spieldauer,Tiempo de juego,ゲームタイム,게임 시간,Czas gry,Время игры,游戏时间,Tempo de jogo,遊戲時間,Game Time,Game Time,Game Time,Game Time,,Localized
