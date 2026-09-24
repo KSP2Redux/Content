@@ -140,10 +140,14 @@ VAB/Size/XLARGE,Text,,X LARGE,TRÈS GRAND,XL,EXTRAGROSS,EXTRAGRANDE,XL,특대형
 VAB/Size/XSMALL,Text,,X SMALL,TRÈS PETIT,XS,EXTRAKLEIN,DIMINUTO,XS,특소형,B. MAŁY,ОЧ. МАЛ.,特小（0.625m）,X PEQUENA,XS,X SMALL,X SMALL,X SMALL,X SMALL,,Localized
 VAB/Tooltip/XXXXXXL,Text,,6X,6 X,6XL,6X,6X,6XL,6X,6XL,6XL,6X大,6XG,6XL,6X,6X,6X,6X,,Localized
 VAB/Size/XSMALLPLUS,Text,,X SMALL +,TRÈS PETIT +,S+,EXTRAKLEIN +,DIMINUTO +,X SMALL +,특소형+,B. MAŁY +,ОЧ.МАЛ.+,很小（0.9375m）,X SMALL +,X SMALL +,X SMALL +,X SMALL +,X SMALL +,X SMALL +,,Localized
-VAB/Size/SMALLPLUS,Text,,SMALL +,PETIT +,S+,KLEIN +,PEQUEÑO +,SMALL +,소형 +,MAŁY +,МАЛ. +,较小（1.875m）,SMALL +,SMALL +,SMALL +,SMALL +,SMALL +,SMALL +,,Localized
-VAB/Size/MEDIUMPLUS,Text,,MEDIUM +,MOYEN +,M+,MITTEL +,MEDIANO +,MEDIUM +,중형 +,ŚREDNI +,СРЕД. +,较大（3.125m）,MEDIUM +,MEDIUM +,MEDIUM +,MEDIUM +,MEDIUM +,MEDIUM +,,Localized
+VAB/Size/SMALLPLUS,Text,,SMALL +,PETIT +,S+,KLEIN +,PEQUEÑO +,SMALL +,소형 +,MAŁY +,МАЛ. +,中小（1.875m）,SMALL +,SMALL +,SMALL +,SMALL +,SMALL +,SMALL +,,Localized
+VAB/Size/MD+,Text,,MD+,MY+,M+,MD+,M+,MD+,M+,M+,СРЕД.+,中大,MD+,MD+,MD+,MD+,MD+,MD+,,Localized
+VAB/Size/MEDIUMPLUS,Text,,MEDIUM +,MOYEN +,M+,MITTEL +,MEDIANO +,MEDIUM +,중형 +,ŚREDNI +,СРЕД. +,中大（3.125m）,MEDIUM +,MEDIUM +,MEDIUM +,MEDIUM +,MEDIUM +,MEDIUM +,,Localized
 VAB/Size/LARGEPLUS,Text,,LARGE +,GRAND +,L+,GROSS +,GRANDE +,LARGE +,대형 +,DUŻY +,БОЛ. +,很大（4.375m）,LARGE +,LARGE +,LARGE +,LARGE +,LARGE +,LARGE +,,Localized
 VAB/Size/XLARGEPLUS,Text,,X LARGE +,TRÈS GRAND +,XL+,EXTRAGROSS +,X GRANDE+,X LARGE +,특대형+,B. DUŻY +,ОЧ. БОЛ. +,巨大（7.5m）,X LARGE +,X LARGE +,X LARGE +,X LARGE +,X LARGE +,X LARGE +,,Localized
+VAB/Tooltip/SPLUS,Text,,SM+,PT+,S+,SM+,P+,SM+,SM+,S+,МАЛ.+,中小,SM+,SM+,SM+,SM+,SM+,SM+,,Localized
+VAB/Size/SM+,Text,,SM+,PT+,S+,SM+,P+,SM+,S+,S+,МАЛ.+,中小,SM+,SM+,SM+,SM+,SM+,SM+,,Localized
+VAB/Tooltip/MPLUS,Text,,MD+,MY+,M+,MD+,M+,MD+,MD+,M+,СРЕД. +,中大,MD+,MD+,MD+,MD+,MD+,MD+,,Localized
 VAB/PartsPicker/0537-Camera,Text,,Camera,Caméra,Telecamere,Kamera,Cámara,Camera,카메라,Kamera,Камера,相机,Camera,Camera,Camera,Camera,Camera,Camera,,Localized
 VAB/PartsPicker/0538-Sticker,Text,,Sticker,Autocollant,Adesivi,Sticker,Pegatina,Sticker,스티커,Naklejka,Наклейка,贴花,Sticker,Sticker,Sticker,Sticker,Sticker,Sticker,,Localized
 VAB/Messages/PartNotAvailable,Text,,Part not available: {0},Pièce non disponible : {0},Parte non disponibile: {0},Part not available: {0},Part not available: {0},Part not available: {0},부품이 없습니다: {0},Part not available: {0},Деталь недоступна: {0},部件不可用: {0},Part not available: {0},Part not available: {0},Part not available: {0},Part not available: {0},Part not available: {0},Part not available: {0},,Localized
