@@ -1,4 +1,70 @@
 Key,Type,Desc,English,French,Italian,German,Spanish,Japanese,Korean,Polish,Russian,Chinese-Simplified [zh-CN],Portuguese-Brazil [pt-BR],Chinese-Traditional [zh-TW],Pirate English [en-PI],Serbian,Swedish,Romanian,$Context,$Status
+Tutorials/tutorial_2.4.12_msg_1,Text,,"Your current stage's fuel is empty. Let’s drop it and activate your deep-space engine.
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press Spacebar or click the Go Button to activate the next stage.","Votre étage actuel est arrivé à court de carburant. Larguez-le et activez votre moteur spatial.
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Appuyez sur la barre d'espace ou cliquez sur le bouton GO pour activer le prochain étage.","Il carburante del tuo stadio attuale è esaurito. Liberatene e attiva il motore per lo spazio profondo.
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Premi Barra Spaziatrice o clicca sul pulsante VIA per attivare il prossimo stadio.","Deine aktuelle Stufe hat keinen Treibstoff mehr. Wir sollten sie abwerfen und dein Weltraumtriebwerk aktivieren.
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Drücke die Leertaste oder klicke auf LOS, um die nächste Stufe zu aktivieren.","La etapa actual se ha quedado sin combustible. Suéltala y activa el motor de espacio profundo.
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Pulsa la barra espaciadora o haz clic en el botón ADELANTE para activar la siguiente etapa.","現在のステージの燃料は空になりました。切り離して深宇宙エンジンを起動しましょう。
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace>スペースキーを押すかGOボタンをクリックして次のステージを起動してください。","현재 스테이지의 연료가 모두 소진되었습니다. 연료탱크를 분리하고 심우주 엔진을 활성화해보세요.
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 스페이스바나 발사 버튼을 눌러 다음 스테이지를 활성화해보세요.","Twój bieżący stopień zużył całe paliwo. Odrzućmy go i aktywujmy silnik przeznaczony do działania w przestrzeni kosmicznej!
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Naciśnij spację lub kliknij przycisk START, by uruchomić następny stopień.","Топливный бак текущей ступени опустел. Давайте сбросим его и активируем двигатель для полетов в дальнем космосе.
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace>Чтобы активировать следующую ступень, нажмите «Пробел» или кнопку «Пуск».","你当前分级的燃料已空。我们来将它丢弃并启用你的深空引擎。
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace>按下空格键或点击“启动”按钮，启用下一分级。","O seu estágio atual está sem combustível. Vamos soltá-lo e ativar seu motor para o espaço profundo.
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Aperte a barra de espaço ou clique no botão ""Iniciar"" para ativar o próximo estágio.","你當前分節的燃料空了。拋棄它，啟動外太空引擎。
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace>按空白鍵或按一下GO按鈕以啟動下一分節。","Your current stage's fuel is empty. Let’s drop it and activate your deep-space engine.
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press Spacebar or click the Go Button to activate the next stage.","Your current stage's fuel is empty. Let’s drop it and activate your deep-space engine.
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press Spacebar or click the Go Button to activate the next stage.","Your current stage's fuel is empty. Let’s drop it and activate your deep-space engine.
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press Spacebar or click the Go Button to activate the next stage.","Your current stage's fuel is empty. Let’s drop it and activate your deep-space engine.
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press Spacebar or click the Go Button to activate the next stage.",,Localized
+Tutorials/tutorial_2.4.6_msg_1,Text,,"Alright, the solid fuel boosters are empty. Let’s drop them.
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press the Spacebar or click the Go Button to activate the radial decoupler stage.","Très bien, les propulseurs à ergol solide sont vides. Éjectons-les.
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Appuyez sur la barre d'espace ou cliquez sur le bouton GO pour activer l'étage des découpleurs radiaux.","D'accordo, i booster a carburante solido sono vuoti. Sbarazziamocene.
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Premi la Barra Spaziatrice o clicca sul pulsante VIA per attivare lo stadio del disaccoppiatore radiale.","Okay, die Festtreibstoff-Booster sind leer. Werfen wir sie ab.
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Drücke die Leertaste oder wähle LOS, um die Radial-Entkoppler-Stufe zu aktivieren.","Vale, los aceleradores de combustible sólido están vacíos. Es hora de soltarlos.
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Pulsa la barra espaciadora o haz clic en el botón ADELANTE para activar la etapa de los desacopladores radiales.","さあ、固定燃料ブースターが空になりました。切り離しましょう。
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace>スペースキーを押すかGOボタンをクリックしてラジアル型デカプラーのステージを起動してください。","고체로켓부스터의 연료가 바닥났군요. 드디어 부스터를 버릴 때가 왔습니다.
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> 스페이스바나 발사 버튼을 눌러 방사형 디커플러가 포함된 스테이지를 활성화해보세요.","Dobrze, silniki pomocnicze na paliwo stałe są puste. Odrzućmy je.
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Naciśnij spację lub kliknij przycisk START, by aktywować stopień rozdzielaczy obwodowych.","Так, твердотопливные ускорители опустели. Давайте их сбросим.
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Чтобы активировать ступень продольного отделителя, нажмите «пробел» или кнопку «Пуск».","好了，固体燃料助推器空了。我们来丢弃它们吧。
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace>按下空格键或点击“启动”按钮，启用径向分离器分级。","Certo, os boosters de combustível sólido estão vazios. Vamos soltá-los.
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Aperte a barra de espaço ou clique no botão ""Vai!"" para ativar o estágio do desacoplador radial.","好吧，固態燃料助推器空了。把它們扔掉吧。
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace>按空白鍵或按一下GO按鈕以啟動徑向解耦器分節。","Alright, the solid fuel boosters are empty. Let’s drop them.
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press the Spacebar or click the Go Button to activate the radial decoupler stage.","Alright, the solid fuel boosters are empty. Let’s drop them.
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press the Spacebar or click the Go Button to activate the radial decoupler stage.","Alright, the solid fuel boosters are empty. Let’s drop them.
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press the Spacebar or click the Go Button to activate the radial decoupler stage.","Alright, the solid fuel boosters are empty. Let’s drop them.
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press the Spacebar or click the Go Button to activate the radial decoupler stage.",,Localized
 Tutorials/tutorial_3.1.6_msg_1,Text,,"Experiments are performed by special <b><color=#FFA114><cspace=-.1>experiment parts</cspace></color></b>. Each experiment will detail what Research Locations they work in, so read your part details in the VAB!
 
 <b><color=#FFA114><cspace=-.1>Kerbals on Extravehicular Activity (EVA) are also able to perform experiments</cspace></color></b>, but make sure they don’t lock the door behind them so they can re-enter the vehicle!","Les expériences sont réalisées par des <b><color=#FFA114><cspace=-.1>pièces de recherche</cspace></color></b> spéciales. Chaque expérience va détailler dans sa description sur quel emplacement de recherche elle va pouvoir fonctionner, donc lisez bien les descriptions des pièces dans le BAV !
@@ -171,6 +237,106 @@ See this button? Select it to <b><color=#FFA114><cspace=-.1>warp automatically t
 See this button? Select it to <b><color=#FFA114><cspace=-.1>warp automatically to the moment before our maneuver begins</cspace></color></b>.
   
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Warp to your maneuver by selecting the Maneuver Warp button.",,Localized
+Tutorials/tutorial_5.3.10_msg_1,Text,,"The maneuver is right, and we’re pointed in the right direction, now we need to time warp to the right position!
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Warp to our maneuver by selecting the Maneuver Warp button.","La manœuvre est correcte, nous sommes dans la bonne direction, plus qu'à effectuer une avance rapide jusqu'au bon endroit !
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>Faites une avance rapide jusqu'à la manœuvre en sélectionnant le bouton Avancer jusqu'à la manœuvre</cspace></color></b>.","La manovra è corretta e abbiamo puntato nella direzione giusta, ora dobbiamo solo accelerare il tempo nel punto esatto!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Accelera il tempo fino alla manovra selezionando il pulsante Accelerazione Manovra.","Das Manöver ist korrekt, wir sind korrekt ausgerichtet, und jetzt müssen wir nur noch zum korrekten Zeitpunkt vorspulen!
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>Spule zu deinem Manöver vor, indem du „Zum Manöver vorspulen“ wählst.</cspace></color></b>","La maniobra es correcta: estamos apuntando en la dirección correcta, ¡ahora tenemos que saltar en el tiempo hasta la posición correcta!
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1> Para saltar en el tiempo hasta la maniobra, selecciona el botón Salto a maniobra</cspace></color></b>.","マニューバは正確で、私たちは正しい方向に向かっています。今度は、正しい位置まで時間加速しなければなりません！
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>「マニューバワープ」ボタンを選択してマニューバまで時間加速してください。</cspace></color></b>","메뉴버도 문제없고, 향하고 있는 방향도 정확하니, 이제 남은 건 올바른 위치까지 타임 워프하는 것입니다!
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> <b><color=#FFA114><cspace=-.1>메뉴버 워프 버튼을 눌러 메뉴버 위치로 워프해 보세요.</cspace></color></b>","Manewr jest prawidłowy i jesteśmy skierowani w odpowiednią stronę, teraz musimy tylko przeskoczyć w odpowiednie miejsce!
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>Przyśpiesz czas i przenieś się do manewru, naciskając przycisk „Przeskocz do manewru”</cspace></color></b>.","Маневр выбран правильно, мы развернули корабль туда, куда нужно, и теперь нам нужно ускорить время, чтобы прибыть на место!
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>Ускорьте время, выбрав кнопку «Ускорить до маневра».</cspace></color></b>","机动是正确的，我们已经朝向了正确的方向，现在我们只需要时间加速到正确的位置！
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>通过选择“机动时间加速”按钮，时间加速到我们的机动节点</cspace></color></b>。","A manobra está correta, e estamos apontados na direção certa. Agora, precisamos fazer a distorção temporal para a posição correta!
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Faça a distorção para a nossa manobra selecionando o botão Distorção para Manobra.","機動做對了，方向也正確，現在我們必須時間曲速到正確的位置！
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>選擇機動時間曲速按鈕，曲速到我們的機動那裡</cspace></color></b>。","The maneuver is right, and we’re pointed in the right direction, now we need to time warp to the right position!
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Warp to our maneuver by selecting the Maneuver Warp button.","The maneuver is right, and we’re pointed in the right direction, now we need to time warp to the right position!
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Warp to our maneuver by selecting the Maneuver Warp button.","The maneuver is right, and we’re pointed in the right direction, now we need to time warp to the right position!
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Warp to our maneuver by selecting the Maneuver Warp button.","The maneuver is right, and we’re pointed in the right direction, now we need to time warp to the right position!
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Warp to our maneuver by selecting the Maneuver Warp button.",,Localized
+Tutorials/tutorial_5.3.13_msg_1,Text,,"Throttle up now!
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Set Throttle to 100% by pressing Z or holding Shift.","Mettez les gaz maintenant !
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> <b><color=#FFA114><cspace=-.1>Appuyez sur la touche Z ou maintenez la touche Maj enfoncée pour mettre les gaz à 100 %</cspace></color></b>.","Accelera ora!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Imposta l'acceleratore a 100% premendo Z o tenendo premuto Shift.","Volle Kraft, jetzt!
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>Erhöhe den Schub auf 100 %, indem du Z drückst oder die Umschalttaste gedrückt hältst.</cspace></color></b>","Ahora, ¡acelera al máximo!
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1> Pon la potencia al 100 % pulsando Z o manteniendo pulsado Mayús</cspace></color></b>.","スロットルを開いて！
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>Zを押すかシフトを長押ししてスロットルを100%に設定してください。</cspace></color></b>","지금이에요! 스로틀을 올리세요!
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> <b><color=#FFA114><cspace=-.1>Z를 누르거나 Shift를 길게 눌러 스로틀을 100%로 설정해 보세요.</cspace></color></b>","Przepustnica w górę!
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>Ustaw przepustnicę na 100%, naciskając Z lub przytrzymując Shift</cspace></color></b>.","Поддайте газу!
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>Увеличьте тягу до 100%, нажав Z или удерживая Shift.</cspace></color></b>","马上加大节流阀！
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>通过按下Z或按住Shift，将节流阀设置为100%</cspace></color></b>。","Acelere agora!
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Configure a Aceleração para 100% apertando Z ou segurando Shift.","現在加大節流閥！
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>按Z鍵或按住Shift鍵將節流閥設定為100%</cspace></color></b>。","Throttle up now!
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Set Throttle to 100% by pressing Z or holding Shift.","Throttle up now!
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Set Throttle to 100% by pressing Z or holding Shift.","Throttle up now!
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Set Throttle to 100% by pressing Z or holding Shift.","Throttle up now!
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Set Throttle to 100% by pressing Z or holding Shift.",,Localized
+Tutorials/tutorial_5.3.15_msg_1,Text,,"Shut down the engines now! We have an orbit!
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Set Throttle to 0% by pressing X or holding Ctrl.","Coupez les moteurs, nous sommes en orbite !
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> <b><color=#FFA114><cspace=-.1>Appuyez sur X ou maintenez la touche Ctrl enfoncée pour mettre les gaz à 0 %</cspace></color></b>.","Ora spegni i motori! Abbiamo un'orbita!
+
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Imposta l'Acceleratore a 0% premendo X o tenendo premuto Ctrl.","Triebwerke jetzt abschalten! Wir sind in einer Umlaufbahn!
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>Stelle den Schub auf 0 %, indem du entweder X drückst oder STRG gedrückt hältst.</cspace></color></b>","¡Apaga los motores ya! ¡Estamos en órbita!
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1> Baja la potencia al 0 % pulsando X o manteniendo pulsado Ctrl</cspace></color></b>.","さあ、エンジンを停止してください！ 軌道に乗りました！
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>Xを押すかCtrlを長押ししてスロットルを0%に設定してください。</cspace></color></b>","엔진을 꺼주세요! 궤도에 도착했습니다!
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> <b><color=#FFA114><cspace=-.1>X를 누르거나 Ctrl을 길게 눌러 스로틀을 0%로 설정해 보세요</cspace></color></b>.","Wyłącz teraz silniki, jesteśmy na orbicie!
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>Ustaw przepustnicę na 0%, naciskając X lub przytrzymując Ctrl</cspace></color></b>.","Мы на орбите! Выключайте тягу!
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>Уменьшите тягу до 0%, нажав X или удерживая Ctrl.</cspace></color></b>","现在关闭引擎，我们进入轨道了！
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>通过按下X或按住Ctrl，将节流阀设置为0%</cspace></color></b>。","Desligue os motores agora! Estamos em órbita!
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Configure a Aceleração para 0% apertando X ou segurando Ctrl.","現在關閉引擎！我們進入軌道了！
+  
+  <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>按X鍵或按住Ctrl鍵將節流閥設定為0%</cspace></color></b>。","Shut down the engines now! We have an orbit!
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Set Throttle to 0% by pressing X or holding Ctrl.","Shut down the engines now! We have an orbit!
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Set Throttle to 0% by pressing X or holding Ctrl.","Shut down the engines now! We have an orbit!
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Set Throttle to 0% by pressing X or holding Ctrl.","Shut down the engines now! We have an orbit!
+  
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Set Throttle to 0% by pressing X or holding Ctrl.",,Localized
+Tutorials/tutorial_5.3.2_msg_1,Text,,"<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Enter Map View by pressing <mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=77></voffset></mspace>.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> <b><color=#FFA114><cspace=-.1>Entrez dans l'Écran Carte en appuyant sur </cspace></color></b><mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=77></voffset></mspace>.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Accedi alla Visuale Mappa premendo <mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=77></voffset></mspace>.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>Öffne die Kartenansicht, indem du </cspace></color></b><mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=77></voffset></mspace> drückst.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1> Entra en la vista de mapa pulsando </cspace></color></b><mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=77></voffset></mspace>.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1></cspace></color></b><mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=77></voffset></mspace>を押して「マップビュー」を開きます。","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=77>를 눌러 맵뷰로 들어가 보세요</voffset></mspace>.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>Przejdź do widoku mapy, naciskając </cspace></color></b><mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=77></voffset></mspace>.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>Войдите в режим карты, нажав M.</cspace></color></b><mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=77></voffset></mspace>.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>按下</cspace></color></b><mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=77></voffset></mspace>进入地图视图。","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Entre na visão do mapa apertando <mspace=20><voffset=.3em>.<sprite=""Input-Keyboard"" index=77></voffset></mspace>.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>按</cspace></color></b> <mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=77></voffset></mspace> 進入地圖檢視。","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Enter Map View by pressing <mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=77></voffset></mspace>.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Enter Map View by pressing <mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=77></voffset></mspace>.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Enter Map View by pressing <mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=77></voffset></mspace>.","<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Enter Map View by pressing <mspace=20><voffset=.3em><sprite=""Input-Keyboard"" index=77></voffset></mspace>.",,Localized
 Tutorials/tutorial_4.1.2,Text,,"I've given you a rocket to fly. Let's see how far you can get it off the pad!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press the GO Button or the space bar to launch!","Je t'ai donné une fusée à piloter. Voyons jusqu'où tu parviens à l'éloigner du pas de tir !

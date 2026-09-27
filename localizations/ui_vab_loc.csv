@@ -3,6 +3,7 @@ VAB/PartsPicker/0536-Resource Storage,Text,,Resource Storage,Stockage de ressour
 VAB/PartsPicker/0535-Resource Extraction,Text,,Resource Extraction,Extraction de ressources,Sistemi di estrazione,Ressourcenextraktion,Extracción de recursos,資源の抽出,자원 추출,Wydobywanie Surowców,Добыча Ресурсов,资源采集,Extração de Recursos,Resource Extraction,Loot takin',Екстракција ресурса,Resource Extraction,Extracția resurselor,,Localized
 Menu/VAB/Boat Launch,Text,,Boat Launch,Lancement de bateau,Rampa di lancio,Boot starten,Grada,ボート打ち上げ,도크 발사,Wodowanie,Запуск корабля,下水码头,Lançamento de barco,載具發射,Boat Launch,лансирање чамца,Boat Launch,Lansare Barcă,,Localized
 Menu/VAB/VAB,Text,,VAB,BAV,EAV,FZF,EEV,VAB,VAB,Hangar rakiet,Цех вертикальной сборки,组装大楼,PMV,載具組裝大樓,VAB,VAB,VAB,VAB,,Localized
+PartsManager/Payload,Text,,Payload,Charge utile,Carico,NUTZLAST,Carga útil,ペイロード,화물,Ładunek,Грузовые модули,载荷,Cargas,酬載,Payload,Payload,Payload,Payload,,Localized
 VAB/DeltaVTool/Situation,Text,,Situation,Situation,Situazione,Situation,Situación,状況,상황,Stan,Условия,情况,Situação,狀況,Situation,Situation,Situation,Situation,,Localized
 VAB/DeltaVTool/Stage,Text,,Stage,Étage,Stage,Stufe,Etapa,ステージ,스테이지,Stopień,Ступени,分级,Estágio,分節,Stage,Stage,Stage,Stage,,Localized
 VAB/Fuel/ElectricCharge,Text,,Electric Charge,Charge électrique,Carica elettrica,Elektrischer Strom,Carga eléctrica,電力,전력량,Ładunek elektr.,Электроэнергия,电能,Carga elétrica,電量,Electric Charge,Electric Charge,Electric Charge,Electric Charge,,Localized
@@ -103,6 +104,13 @@ VAB/PartsPicker/Favorites,Text,,"Favorites
  All the parts you like!","Favorites
  All the parts you like!",,Localized
 VAB/PartsPicker/Landing Legs,Text,,Landing Legs,Train d'atterrissage (jambes),Supporti di atterraggio,Landebeine,Patas de aterrizaje,着陸脚,랜딩레그,Nogi,Посадочные опоры,着陆支架,Pernas de aterrissagem,著陸架,Landing Legs,Landing Legs,Landing Legs,Landing Legs,,Localized
+VAB/PartsPicker/Science,Text,,"Science
+ Perform experiments in new locations",Science,Scienza,Wissenschaft,Ciencia,科学機器,과학,Badania naukowe,Наука,科学,"Ciência
+ -Realizar experimentos em novos locais.",科學,"Science
+ Perform experiments in new locations","Science
+ Perform experiments in new locations","Science
+ Perform experiments in new locations","Science
+ Perform experiments in new locations",,Localized
 VAB/PartsPicker/SearchFieldPlaceholder,Text,,"Search ""landing gear""","Chercher ""train d'atterrissage""",Cerca...,In „Fahrwerk“ suchen,"Buscar ""tren de aterrizaje""",「ランディングギア」を検索,"""랜딩기어"" 검색",Wyszukaj „podwozie”,Искать «шасси»,搜索“起落架”,"Buscar ""trem de pouso""",搜尋「起落架」,"Search ""landing gear""","Search ""landing gear""","Search ""landing gear""","Search ""landing gear""",,Localized
 VAB/PartsPicker/Structures,Text,,"Structures
  Trusses and adapters","Structures
@@ -124,7 +132,7 @@ Tralicci e adattatori","Strukturen
 VAB/Search/MassFilter1,Text,,0 - 0.1,0 - 0.1,"0 - 0,1",0 - 0.1,0 - 0.1,0 - 0.1,0 - 0.1,0 - 0.1,0 - 0.1,0-0.1,0 - 0.1,0 - 0.1,0 - 0.1,0 - 0.1,0 - 0.1,0 - 0.1,,Localized
 VAB/Search/MassFilter2,Text,,0.1 - 0.5,0.1 - 0.5,"0,1 - 0,5",0.1 - 0.5,0.1 - 0.5,0.1 - 0.5,0.1 - 0.5,0.1 - 0.5,0.1 - 0.5,0.1-0.5,0.1 - 0.5,0.1 - 0.5,0.1 - 0.5,0.1 - 0.5,0.1 - 0.5,0.1 - 0.5,,Localized
 VAB/Search/MassFilter3,Text,,0.5 - 1,0.5 - 1,"0,5 - 1",0.5 - 1,0.5 - 1,0.5 - 1,0.5 - 1,0.5 - 1,0.5 - 1,0.5-1,0.5 - 1,0.5 - 1,0.5 - 1,0.5 - 1,0.5 - 1,0.5 - 1,,Localized
-VAB/Size/2X,Text,,2X,2 X,2XL,x 2,X2,2X,2X,2X,ГИГАНТ.,2X,GG,2X,2X,2X,2X,2X,,Localized
+VAB/Size/2X,Text,,2X,2 X,2XL,x 2,X2,2X,2X,2X,ГИГАНТ.,2X,2X,2X,2X,2X,2X,2X,,Localized
 VAB/Size/2XLARGE,Text,,2X LARGE,2 X GRAND,2XL,DOPPELTE GRÖSSE,GRANDE X2,2XL,2XL,2X DUŻY,ГИГАНТСКИЙ,2X大（10m）,2X GRANDE,2XL,2X LARGE,2X LARGE,2X LARGE,2X LARGE,,Localized
 VAB/Size/3X,Text,,3X,3 X,3XL,x 3,X3,3X,3X,3X,3X,3X,3X,3X,3X,3X,3X,3X,,Localized
 VAB/Size/3XLARGE,Text,,3X LARGE,3 X GRAND,3XL,DREIFACHE GRÖSSE,GRANDE X3,3XL,3XL,3X DUŻY,3X БОЛЬШОЙ,3X大（20m）,3X GRANDE,3XL,3X LARGE,3X LARGE,3X LARGE,3X LARGE,,Localized
@@ -133,12 +141,18 @@ VAB/Size/4XLARGE,Text,,4X LARGE,4 X GRAND,4XL,VIERFACHE GRÖSSE,GRANDE X4,4XL,4X
 VAB/Size/5X,Text,,5X,5 X,5XL,x 5,X5,5X,5X,5X,5X,5X,5X,5X,5X,5X,5X,5X,,Localized
 VAB/Size/5XLARGE,Text,,5X LARGE,5 X GRAND,5XL,FÜNFFACHE GRÖSSE,GRANDE X5,5XL,5XL,5X DUŻY,5X БОЛЬШОЙ,5X大（40m~60M）,5X GRANDE,5XL,5X LARGE,5X LARGE,5X LARGE,5X LARGE,,Localized
 VAB/Size/6X,Text,,6X,6 X,6XL,x 6,X6,6XL,6X,6X,6X,6X,6X,6X,6X,6X,6X,6X,,Localized
-VAB/Size/6XLARGE,Text,,6X Large,6 X GRAND,6XL,SECHSFACHE GRÖSSE,GRANDE X6,6XL,6XL,6X duży,6X БОЛЬШОЙ,6X大（60m~100m）,6X GRANDE,6XL,6X Large,6X Large,6X Large,6X Large,,Localized
+VAB/Size/6XLARGE,Text,,6X Large,6 X GRAND,6XL,SECHSFACHE GRÖSSE,GRANDE X6,6XL,6XL,6X duży,6X БОЛЬШОЙ,6X大（60m~100m）,6X Grande,6XL,6X Large,6X Large,6X Large,6X Large,,Localized
 VAB/Size/LARGE,Text,,LARGE,GRAND,L,GROSS,GRANDE,大型,대형,DUŻY,БОЛЬШОЙ,大（3.75m）,GRANDE,L,LARGE,LARGE,LARGE,LARGE,,Localized
 VAB/Size/MEDIUM,Text,,MEDIUM,MOYEN,M,MITTEL,MEDIANO,中型,중형,ŚREDNI,СРЕДНИЙ,中（2.5m）,MÉDIO,M,MEDIUM,MEDIUM,MEDIUM,MEDIUM,,Localized
 VAB/Size/XLARGE,Text,,X LARGE,TRÈS GRAND,XL,EXTRAGROSS,EXTRAGRANDE,XL,특대형,B. DUŻY,ОЧ. БОЛ.,特大（5m）,X GRANDE,XL,X LARGE,X LARGE,X LARGE,X LARGE,,Localized
 VAB/Size/XSMALL,Text,,X SMALL,TRÈS PETIT,XS,EXTRAKLEIN,DIMINUTO,XS,특소형,B. MAŁY,ОЧ. МАЛ.,特小（0.625m）,X PEQUENA,XS,X SMALL,X SMALL,X SMALL,X SMALL,,Localized
-VAB/Tooltip/XXXXXXL,Text,,6X,6 X,6XL,6X,6X,6XL,6X,6XL,6XL,6X大,6XG,6XL,6X,6X,6X,6X,,Localized
+VAB/Tooltip/XXL,Text,,2X,2 X,2XL,2X,2X,XXL,2XL,XXL,ГИГАНТ.,2X大,2X,XXL,2X,2X,2X,2X,,Localized
+VAB/Tooltip/XXXL,Text,,3X,3 X,3XL,3X,3X,3XL,3XL,3XL,3XL,3X大,3X,3XL,3X,3X,3X,3X,,Localized
+VAB/Tooltip/XXXXL,Text,,4X,4 X,4XL,4X,4X,4XL,4XL,4XL,4XL,4X大,4X,4XL,4X,4X,4X,4X,,Localized
+VAB/Tooltip/XXXXXL,Text,,5X,5 X,5XL,5X,5X,5XL,5XL,5XL,5XL,5X大,5X,5XL,5X,5X,5X,5X,,Localized
+VAB/Tooltip/XXXXXXL,Text,,6X,6 X,6XL,6X,6X,6XL,6X,6XL,6XL,6X大,6X,6XL,6X,6X,6X,6X,,Localized
+VAB/Topbar/Kerbin KSC VAB,Text,,Kerbin / Ksc / Vab,Kerbin / CSK / BAV,Kerbin/Csk/Eav,Kerbin/KWZ/FZF,Kerbin/CEK/EEV,カービン / Ksc / Vab,커빈 / KSC / VAB,Kerbin / KOK / Hangar rakiet,Кербин/ЦУП/ЦВС,Kerbin/Ksc/Vab,Kerbin / Cek / Pmv,坎巴拉星 / 坎巴拉太空中心 / 載具組裝大樓,Kerbin / Ksc / Vab,Kerbin / Ksc / Vab,Kerbin / Ksc / Vab,Kerbin / Ksc / Vab,,Localized
+VAB/TripPlanner/Destination dV,Text,,Destination dV,Destination dV,Destinazione dV,Ziel-dV,Delta-v de destino,目的地dV,목적지 dV,ΔV celu,Место назначения: изменение скорости,目的地dV,dV do destino,目的地速度,Destination dV,Destination dV,Destination dV,Destination dV,,Localized
 VAB/Size/XSMALLPLUS,Text,,X SMALL +,TRÈS PETIT +,S+,EXTRAKLEIN +,DIMINUTO +,X SMALL +,특소형+,B. MAŁY +,ОЧ.МАЛ.+,很小（0.9375m）,X SMALL +,X SMALL +,X SMALL +,X SMALL +,X SMALL +,X SMALL +,,Localized
 VAB/Size/SMALLPLUS,Text,,SMALL +,PETIT +,S+,KLEIN +,PEQUEÑO +,SMALL +,소형 +,MAŁY +,МАЛ. +,中小（1.875m）,SMALL +,SMALL +,SMALL +,SMALL +,SMALL +,SMALL +,,Localized
 VAB/Size/MD+,Text,,MD+,MY+,M+,MD+,M+,MD+,M+,M+,СРЕД.+,中大,MD+,MD+,MD+,MD+,MD+,MD+,,Localized
