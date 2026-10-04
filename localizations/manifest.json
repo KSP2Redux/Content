@@ -1,21 +1,21 @@
 {
-  "version": "9c175e897372e91afad829ec77bd58cc0bab096912bdccb4ce6f015479611ab7",
+  "version": "8113d25b545c94acb5f55a167200c1c9430f68d69403cd75191eac463ebecb21",
   "files": [
     {
       "path": "actiongroups_loc.csv",
-      "sha256": "1ca7f89f94f3677401bf1710d439578cc1b006694d3e64e5e5553686f5fd8ad1",
-      "bytes": 930,
+      "sha256": "f79dc01e1ab5b912a43b771f6b3fc2d471f2ee0ee3980a5a63e5ba96d77c9d3b",
+      "bytes": 929,
       "order": 0
     },
     {
       "path": "celestialbody_loc.csv",
-      "sha256": "6fc9d024e8d62d4df62249d8629bdd1736514f8c74ea00e96d70417e1967cf61",
-      "bytes": 496,
+      "sha256": "468144c68e3cfda9e97f1908039351d902dda418ba0105786c0e775769bfed58",
+      "bytes": 508,
       "order": 1
     },
     {
       "path": "experiments_loc.csv",
-      "sha256": "673fd0f0315117b00e411d688a616e7c1c835624f360f6b5177cdfc592997323",
+      "sha256": "2bfe681dd6bbf911793ec6887db75c798cdfc31a9f670a799634481cfbfd9dc1",
       "bytes": 44966,
       "order": 2
     },
@@ -33,8 +33,8 @@
     },
     {
       "path": "missions_loc.csv",
-      "sha256": "e05bc264a638460c16514fb3aa84e4c5ca93a25b966340b1f015a76138832be1",
-      "bytes": 427994,
+      "sha256": "45c6d152092867aa2a81f0a13f430c1449802a834b3c909b1afd974ef412b30e",
+      "bytes": 427986,
       "order": 5
     },
     {
@@ -75,8 +75,8 @@
     },
     {
       "path": "ui_escapemenu_loc.csv",
-      "sha256": "b3d740f9b3c90585ccd2a20c9aa697ad2cf2db48310505cfd1bad0ef3201691b",
-      "bytes": 5556,
+      "sha256": "82d771195ce34a7f4b4fea023f90625d24457e30b98132a4eacf5c6bd44f8cea",
+      "bytes": 5573,
       "order": 12
     },
     {
@@ -117,8 +117,8 @@
     },
     {
       "path": "ui_settings_loc.csv",
-      "sha256": "ee0ad91a78c167de60478dad72e07863b259d86ee08fad95d94b85c9e14f6fb4",
-      "bytes": 209440,
+      "sha256": "0d08539dae096b622c0cc76ce5420971b6c2fe5dbc4836b11ae91b21e0ab6ed0",
+      "bytes": 215008,
       "order": 19
     },
     {
