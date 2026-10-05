@@ -1,5 +1,5 @@
 {
-  "version": "8113d25b545c94acb5f55a167200c1c9430f68d69403cd75191eac463ebecb21",
+  "version": "41a8e860598f46c162adb605fcf503bd45dea875eeb76c2293a9794f7e08c565",
   "files": [
     {
       "path": "actiongroups_loc.csv",
@@ -15,8 +15,8 @@
     },
     {
       "path": "experiments_loc.csv",
-      "sha256": "2bfe681dd6bbf911793ec6887db75c798cdfc31a9f670a799634481cfbfd9dc1",
-      "bytes": 44966,
+      "sha256": "53941eda532b37b14b9b910d52ec4bad1ab82acec6d48bfb7fccb03f7e5f7b77",
+      "bytes": 45517,
       "order": 2
     },
     {
@@ -27,14 +27,14 @@
     },
     {
       "path": "misc_loc.csv",
-      "sha256": "24b58c7d65e3cfe1dedd98402a31db518c56f2089c93d9c74ddb54b53b315e16",
-      "bytes": 27422,
+      "sha256": "6ea0154bedb9eee3363f5c7358db72f1a454cdb434bad73847c653f6be588127",
+      "bytes": 27547,
       "order": 4
     },
     {
       "path": "missions_loc.csv",
-      "sha256": "45c6d152092867aa2a81f0a13f430c1449802a834b3c909b1afd974ef412b30e",
-      "bytes": 427986,
+      "sha256": "96750eb51773e1e34fa1a880e76ac04658dbc0d0f47d311c08fc231a33c7ed58",
+      "bytes": 427993,
       "order": 5
     },
     {
@@ -45,8 +45,8 @@
     },
     {
       "path": "partmodules_loc.csv",
-      "sha256": "2879d1cc2a202bf0639c133292b08527bc099bc9b04b7c5efb82d21cef5ff256",
-      "bytes": 39288,
+      "sha256": "6b345ab9435275e04a3f56d46d2699fa0718daf425a952174092e1826d6e9ce4",
+      "bytes": 39290,
       "order": 7
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "path": "ui_flight_loc.csv",
-      "sha256": "ce38e823b07fdae406c5b47bbf0f65d17a30759512d906b070faeaf7e25a4b77",
-      "bytes": 64139,
+      "sha256": "f1343f6d29424cc3522a40e900e949e4e94176b30f164c77c4426062b661ea6e",
+      "bytes": 64489,
       "order": 13
     },
     {
@@ -99,8 +99,8 @@
     },
     {
       "path": "ui_map_loc.csv",
-      "sha256": "9e77b75f16e66d2f45ed29bc692d4048472b05d477c8e48c07bb968db43b35c4",
-      "bytes": 8948,
+      "sha256": "616255878eb2d7698200873606f92b6c838822c58d472799e7e411b603d6fcc5",
+      "bytes": 32404,
       "order": 16
     },
     {
@@ -117,8 +117,8 @@
     },
     {
       "path": "ui_settings_loc.csv",
-      "sha256": "0d08539dae096b622c0cc76ce5420971b6c2fe5dbc4836b11ae91b21e0ab6ed0",
-      "bytes": 215008,
+      "sha256": "7b49133d65454a2f8c4eb7d778d294128a722d56040f4a992a69d47ab94fe487",
+      "bytes": 234835,
       "order": 19
     },
     {
