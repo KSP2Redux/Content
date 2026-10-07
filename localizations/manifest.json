@@ -1,5 +1,5 @@
 {
-  "version": "e798d1e9c430698e928c993020b7c884d90f93be85d716c166356a9cfbfe10c2",
+  "version": "35f78f94249cd2dd0347a9160e1ebca5a856e9aee6dd6088de68de67b2b1ee14",
   "files": [
     {
       "path": "actiongroups_loc.csv",
@@ -15,8 +15,8 @@
     },
     {
       "path": "experiments_loc.csv",
-      "sha256": "ed18bc695ccd419a68c7295411fa2f3c25017bfe79575077b2687b6e02232e16",
-      "bytes": 69560,
+      "sha256": "6caa0a302fe6e1ef7618edd841b5a853ab641b9bac2a5a3bf2392784f46f832b",
+      "bytes": 93780,
       "order": 2
     },
     {
@@ -99,8 +99,8 @@
     },
     {
       "path": "ui_map_loc.csv",
-      "sha256": "4deee69080329bd8f33da5a0b205d144ad0daaf67cb0159ee6ed936d1163a28c",
-      "bytes": 32120,
+      "sha256": "b56c906bb2abd5de3418a8a38f52020d2b3869e9b30baa4b96aa6f1f9ad5b93b",
+      "bytes": 32519,
       "order": 16
     },
     {
@@ -117,8 +117,8 @@
     },
     {
       "path": "ui_settings_loc.csv",
-      "sha256": "2007ccbaeb142cb6fb9f6270e61cba30b9c793a67f3306edb500c5cd82a96adc",
-      "bytes": 234323,
+      "sha256": "59c246b813374abce6b490ab1c4231f31fd1e07192f1992aebcacaeeb0bf3625",
+      "bytes": 234664,
       "order": 19
     },
     {
@@ -129,8 +129,8 @@
     },
     {
       "path": "ui_trackingstation_loc.csv",
-      "sha256": "2ae098e5225ad2a6c875255a64b8c210d8bc89d2e6f1fe357b720674cb35301e",
-      "bytes": 23617,
+      "sha256": "96ea64efd348de88381cb9c488674e3da96e4e074a9836e21e51f48161ae7ab1",
+      "bytes": 23650,
       "order": 21
     },
     {
