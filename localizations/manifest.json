@@ -1,5 +1,5 @@
 {
-  "version": "12a82b17fd5f7a8dbba8b79aec503a11c43d0bef975cce50c14f21bd66027532",
+  "version": "b77f46680ef0928a2bda694bff7a06d12788cba1da6134f8439f35a960763741",
   "files": [
     {
       "path": "actiongroups_loc.csv",
@@ -15,8 +15,8 @@
     },
     {
       "path": "experiments_loc.csv",
-      "sha256": "f7746b25ab58ee69f3d90706f61daabf93aae90cfb70835f26c36ca55cee68c5",
-      "bytes": 93804,
+      "sha256": "64c180dd3489710cff07e88e0d1d7fefd85528b6f864cda2f213ff2c029718b7",
+      "bytes": 93547,
       "order": 2
     },
     {
@@ -93,8 +93,8 @@
     },
     {
       "path": "ui_mainmenu_loc.csv",
-      "sha256": "57fd103f42f1b9ccb5dd85f45708cdfe52be7b056ce6f122cfd6757ee9c2c9b9",
-      "bytes": 9760,
+      "sha256": "7b5e4a20769fa8420565c14b56a89cd3edbe49f9af293daf8b22a3092b6249fc",
+      "bytes": 16281,
       "order": 15
     },
     {
