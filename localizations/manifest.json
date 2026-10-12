@@ -1,5 +1,5 @@
 {
-  "version": "c3beb0f451eb4db65971f70c001d35af1c2c16587c1ed836c506d49c578201d4",
+  "version": "f935ddb0ed14459b1da5ad759b68478c8d08f8867689820738e0d68ded55eb12",
   "files": [
     {
       "path": "actiongroups_loc.csv",
@@ -15,8 +15,8 @@
     },
     {
       "path": "experiments_loc.csv",
-      "sha256": "64c180dd3489710cff07e88e0d1d7fefd85528b6f864cda2f213ff2c029718b7",
-      "bytes": 93547,
+      "sha256": "d6721b8ebdc8e8c12b4fcc00e1e8d419e6ef18b0292c5a60233671af1e0f304b",
+      "bytes": 105042,
       "order": 2
     },
     {
@@ -93,14 +93,14 @@
     },
     {
       "path": "ui_mainmenu_loc.csv",
-      "sha256": "7b5e4a20769fa8420565c14b56a89cd3edbe49f9af293daf8b22a3092b6249fc",
-      "bytes": 16281,
+      "sha256": "ad95e0fa79eb92b5ee2489c6361df4b821acfcf53c1099baacab3869409ab230",
+      "bytes": 16291,
       "order": 15
     },
     {
       "path": "ui_map_loc.csv",
-      "sha256": "f84fbf1eee15a20f887414b7528b237f81eeff40538bb2c47fa6f09bee0f1fb0",
-      "bytes": 34189,
+      "sha256": "d4c814e0952e87bd02a7b866b24722906d3b1dde746f059a746a1aa05cb4f79a",
+      "bytes": 34188,
       "order": 16
     },
     {
@@ -117,8 +117,8 @@
     },
     {
       "path": "ui_settings_loc.csv",
-      "sha256": "b487f08d6164c5a5d21f119b10692ee3677163645d46c4442ef7cca1edccb8ab",
-      "bytes": 244666,
+      "sha256": "3b7d9a48890224d49ef2960fc5840614faee03441c6a246b3b6304c6bb3b4043",
+      "bytes": 244889,
       "order": 19
     },
     {
@@ -129,14 +129,14 @@
     },
     {
       "path": "ui_trackingstation_loc.csv",
-      "sha256": "56d036958a4d933c77c92ddd0217e23724addef23edd2fcab83a32687b7c079b",
-      "bytes": 24065,
+      "sha256": "f0b5cb3b48eb7ed885a6b88ce0032e10fc03268c30bc4dc2b408ba7287137266",
+      "bytes": 32848,
       "order": 21
     },
     {
       "path": "ui_vab_loc.csv",
-      "sha256": "90fdccc09d463e930f531d9cbaad31475f3511994770699e6ed595f88523d151",
-      "bytes": 39117,
+      "sha256": "7fd73ab91a44c37a0f6aaa8d710aef2d5b2bf9588a4672694f06058b98ca7fc0",
+      "bytes": 39130,
       "order": 22
     },
     {
