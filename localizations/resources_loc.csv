@@ -1,4 +1,9 @@
 Key,Type,Desc,English,French,Italian,German,Spanish,Japanese,Korean,Polish,Russian,Chinese-Simplified [zh-CN],Portuguese-Brazil [pt-BR],Chinese-Traditional [zh-TW],Pirate English [en-PI],Serbian,Swedish,Romanian,$Context,$Status
-ISRU/Formulas/Regolith,Text,,Regolith,Régolithe,Regolite,Geröll,Regolito,Regolith,토양층,Regolit,Реголит,表土,Regolito,Regolith,Regolith,Regolith,Regolith,Regolith,,Localized
-Resource/DisplayName/CarbonRegolith,Text,,Carbon Regolith,Régolithe carboné,Regolite carbonica,Kohlenstoffregolith,Regolito de carbón,Carbon Regolith,탄소 토양층,Regolit węglowy,Углеродный Реголит,含碳表土,Regolito Carbônico,Carbon Regolith,Carbon Regolith,Carbon Regolith,Carbon Regolith,Carbon Regolith,,Localized
-VAB/Tooltip/CarbonRegolith,Text,,Carbon Regolith,Régolithe carbonique,Regolite carboniosa,Kohlenstoffregolith,Carbon Regolith,Carbon Regolith,탄소 토양층,Carbon Regolith,Carbon Regolith,含碳表土,Regolito Carbônico,Carbon Regolith,Carbon Regolith,Carbon Regolith,Carbon Regolith,Carbon Regolith,,Localized
+Resource/DisplayName/Carbon,Text,,Carbon,Carbone,Carbonio,Kohlenstoff,Carbón,炭素,탄소,Węgiel,Углерод,碳,Carbono,碳,Carbon,Carbon,Carbon,Carbon,,Localized
+VAB/Tooltip/Carbon,Text,,Carbon,Carbone,Carbonio,Kohlenstoff,Carbón,炭素,탄소,Węgiel,Углерод,碳,Carbono,碳,Carbon,Carbon,Carbon,Carbon,,Localized
+VAB/Tooltip/Water,Text,,Water,Eau,Acqua,Wasser,Agua,水,물,Woda,Вода,水,Água,Water,Wat'r,Water,Water,Water,,Localized
+Resource/DisplayName/Ammonia,Text,,Ammonia,Ammoniaque,Ammoniaca,Ammoniak,Amoníaco,アンモニア,암모니아,Amoniak,Аммиак,氨,Amônia,阿摩尼亞,Ammonier,Ammonia,Ammonia,Ammonia,,Localized
+VAB/Tooltip/Ammonia,Text,,Ammonia,Ammoniaque,Ammoniaca,Ammoniak,Amoníaco,アンモニア,암모니아,Amoniak,Аммиак,氨,Amônia,阿摩尼亞,Ammonier,Ammonia,Ammonia,Ammonia,,Localized
+ISRU/Formulas/Regolith,Text,,Regolith,Régolithe,Regolite,Geröll,Regolito,レゴリス,토양층,Regolit,Реголит,表土,Regolito,Regolith,Regolith,Regolith,Regolith,Regolith,,Localized
+Resource/DisplayName/CarbonRegolith,Text,,Carbon Regolith,Régolithe carboné,Regolite carbonica,Kohlenstoffregolith,Regolito de carbón,炭素レゴリス,탄소 토양층,Regolit węglowy,Углеродный Реголит,含碳表土,Regolito Carbônico,Carbon Regolith,Carbon Regolith,Carbon Regolith,Carbon Regolith,Carbon Regolith,,Localized
+VAB/Tooltip/CarbonRegolith,Text,,Carbon Regolith,Régolithe carbonique,Regolite carboniosa,Kohlenstoffregolith,Carbon Regolith,炭素レゴリス,탄소 토양층,Carbon Regolith,Углеродный реголит,含碳表土,Regolito Carbônico,Carbon Regolith,Carbon Regolith,Carbon Regolith,Carbon Regolith,Carbon Regolith,,Localized
