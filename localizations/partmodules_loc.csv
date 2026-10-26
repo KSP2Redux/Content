@@ -135,3 +135,6 @@ PartModules/SmokeEmitter/ColorB,Text,,Smoke Blue,Fumée bleu,Fumo blu,Smoke Blue
 PartModules/SmokeEmitter/Toggle,Text,,Toggle Smoke,Activer Fumée,Attiva/disattiva fumo,Toggle Smoke,Toggle Smoke,煙の排出を切り替える,Toggle Smoke,Toggle Smoke,Toggle Smoke,开关烟雾,Toggle Smoke,Toggle Smoke,Toggle Smoke,Toggle Smoke,Toggle Smoke,Toggle Smoke,,Localized
 PartModules/SmokeEmitter/Start,Text,,Start Smoke,Commencer fumée,Attiva fumo,Start Smoke,Start Smoke,煙の排出を開始する,Start Smoke,Start Smoke,Start Smoke,开始拉烟,Start Smoke,Start Smoke,Start Smoke,Start Smoke,Start Smoke,Start Smoke,,Localized
 PartModules/SmokeEmitter/Stop,Text,,Stop Smoke,Arrêter Fumée,Ferma fumo,Stop Smoke,Stop Smoke,煙の排出を停止する,Stop Smoke,Stop Smoke,Stop Smoke,停止拉烟,Stop Smoke,Stop Smoke,Stop Smoke,Stop Smoke,Stop Smoke,Stop Smoke,,Localized
+PartModules/Engine/Boattail,Text,,Boattail,Boattail,Boattail,Boattail,Boattail,Boattail,Boattail,Boattail,Boattail,Boattail,Boattail,Boattail,Boattail,Boattail,Boattail,Boattail,,Localized
+PartModules/Generic/Disabled,Text,,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,Disabled,,Localized
+PartModules/Generic/Enabled,Text,,Enabled,Enabled,Enabled,Enabled,Enabled,Enabled,Enabled,Enabled,Enabled,Enabled,Enabled,Enabled,Enabled,Enabled,Enabled,Enabled,,Localized

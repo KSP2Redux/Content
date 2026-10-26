@@ -1,5 +1,5 @@
 {
-  "version": "1dcc1195c81067e33d230d18e972e9b990bf9908462cc52b1ef8fa15e3a5803d",
+  "version": "95cd9aa3d8837e1dea38afb3bb4b990cc45f473776b8e46984d45cd841671d69",
   "files": [
     {
       "path": "actiongroups_loc.csv",
@@ -27,14 +27,14 @@
     },
     {
       "path": "misc_loc.csv",
-      "sha256": "4f79fb53e0d177e57ad274fa4b8cb78065fd4554621b1efe5b00f59384ecae14",
-      "bytes": 32651,
+      "sha256": "ed1cd93ee815d1692cf58249e40999b005f9768b21525de67ff7d283dfb9fb9c",
+      "bytes": 32652,
       "order": 4
     },
     {
       "path": "missions_loc.csv",
-      "sha256": "06c561fb4f02b4ac58318fd7de21ddec9b730ad6c0e9a20acfd03033bdce506b",
-      "bytes": 442474,
+      "sha256": "aae69d3a2eff1fbf120863ad803bcaea427cf2ea6e361a4269834801c38be0c2",
+      "bytes": 442513,
       "order": 5
     },
     {
@@ -45,14 +45,14 @@
     },
     {
       "path": "partmodules_loc.csv",
-      "sha256": "3f07a01f4742d3754864e45ce7cb1696ff2957c358c19ea66e1d23bda429150d",
-      "bytes": 45331,
+      "sha256": "92b4113b81fc277d435cb8c59eb6a03fcafa25bd865d85da069f411ac15ad7ad",
+      "bytes": 45883,
       "order": 7
     },
     {
       "path": "parts_loc.csv",
-      "sha256": "9d9b64fa590b988295392c4e9bf958d2787da048894dd62f120c11ad6e96df66",
-      "bytes": 467553,
+      "sha256": "561ea4b532958d915a059f7c9a55c3660bb1a068f5325648d7ad46e0bfb44c0b",
+      "bytes": 495387,
       "order": 8
     },
     {
@@ -63,8 +63,8 @@
     },
     {
       "path": "technodes_loc.csv",
-      "sha256": "7267c9bac8dcf5fad1739e2e7e28ae38666655b467a9d072ce2b6488c72f4b84",
-      "bytes": 28983,
+      "sha256": "78b75d620427edc797bb25d7150867cba45c909f6670bdce023b42e9bed78c7b",
+      "bytes": 28995,
       "order": 10
     },
     {
@@ -81,14 +81,14 @@
     },
     {
       "path": "ui_flight_loc.csv",
-      "sha256": "dac91742eb1b615b6c347622d9db86a91a5df73e1ea33282d4a0e6eca2ba6582",
-      "bytes": 67151,
+      "sha256": "1426ff3751c5316df1d02d2650d6e8cd32fdd4d61f03d74c7e9d3677b1851853",
+      "bytes": 68219,
       "order": 13
     },
     {
       "path": "ui_ksc_loc.csv",
-      "sha256": "92f4e5dc82f5fb8c212c23aa017e1f4e309190d748c4adb4af5b89c3bd80c9e2",
-      "bytes": 2868,
+      "sha256": "b2b703907f7998a0fc393e0ffe0c9fa5f6bc45c17eff9bfd7cf9b8fb5f42a9fb",
+      "bytes": 3183,
       "order": 14
     },
     {
@@ -117,8 +117,8 @@
     },
     {
       "path": "ui_settings_loc.csv",
-      "sha256": "8e2c809e9c1dd2afb38ff2a4c301d72490044af9ba07b7204780d1b11f94bc9c",
-      "bytes": 349286,
+      "sha256": "5679b433b1c95f92a6d0cd006b73c51793843e002fb8a11ecdce6ee4b453d63b",
+      "bytes": 349527,
       "order": 19
     },
     {
