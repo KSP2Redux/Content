@@ -2320,10 +2320,10 @@ Tutorials/tutorial_4.3.23,Text,,"<mspace=20><voffset=.3em><sprite=""input-userac
 Tutorials/tutorial_4.3.24,Text,,"Okay, let's see how this rocket flies!
 Don't forget to make sure that the staging order is correct!
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press the Launch Button to place it on the launch pad.","Okay, let's see how this rocket flies!
-Don't forget to make sure that the staging order is correct!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press the Launch Button to place it on the launch pad.","Okay, voyons comment cette fusée vole !
+N'oubliez pas de vérifier que la séquence de lancement est dans le bon ordre !
 
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Press the Launch Button to place it on the launch pad.","Bene, vediamo come vola questo razzo!
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Appuyez sur le bouton Lancer pour la placer sur l'aire de lancement.","Bene, vediamo come vola questo razzo!
 Non dimenticare di verificare che l'ordine degli stadi sia corretto!
 
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Premi il pulsante Lancio per posizionarlo sulla rampa di lancio.","Okay, let's see how this rocket flies!
@@ -2370,11 +2370,11 @@ Tutorials/tutorial_4.3.25,Text,,"Before we launch, there's one more thing we can
 Any rocket with a Part attached that holds Kerbals provides your vehicles with the latest in rocketry technology called <b><color=#FFA114><cspace=-.1>Stability Assist System</cspace></color></b> or <b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> for short.
 
 
-While active, <b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> will assist you in keeping your rocket oriented in the direction it's heading, provided it's a stable rocket to begin with. Additionally, it enables you to select various orientations such as prograde, retrograde, etc.","Before we launch, there's one more thing we can use to help us stabilize this rocket. 
-Any rocket with a Part attached that holds Kerbals provides your vehicles with the latest in rocketry technology called <b><color=#FFA114><cspace=-.1>Stability Assist System</cspace></color></b> or <b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> for short.
+While active, <b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> will assist you in keeping your rocket oriented in the direction it's heading, provided it's a stable rocket to begin with. Additionally, it enables you to select various orientations such as prograde, retrograde, etc.","Avant de lancer, il y a une dernière chose qui peut nous aider à stabiliser cette fusée.
+N'importe quelle fusée avec une pièce qui peut contenir des kerbals permet à votre véhicule d'utiliser la dernière technologie de fuséologie appelée <b><color=#FFA114><cspace=-.1>Système d'Assistance à la Stabilité</cspace></color></b> ou pour faire court <b><color=#FFA114><cspace=-.1>SAS</cspace></color></b>.
 
 
-While active, <b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> will assist you in keeping your rocket oriented in the direction it's heading, provided it's a stable rocket to begin with. Additionally, it enables you to select various orientations such as prograde, retrograde, etc.","Prima del lancio, c'è un'ultima risorsa che possiamo usare per aiutarci a stabilizzare questo razzo.
+Lorsqu'actif, le <b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> vous assistera pour garder votre fusée orienté dans la direction vers laquelle elle pointe, sous réserve que cette fusée soit stable pour commencer. Qui plus est, il vous permet de sélectionner différentes orientations telles que prograde, rétrograde, etc.","Prima del lancio, c'è un'ultima risorsa che possiamo usare per aiutarci a stabilizzare questo razzo.
 Qualsiasi razzo dotato di un componente in grado di ospitare Kerbal fornisce ai tuoi veicoli la più recente tecnologia missilistica, chiamata <b><color=#FFA114><cspace=-.1>Sistema d'Assistenza alla Stabilità</cspace></color></b> o <b><color=#FFA114><cspace=-.1>SAS</cspace></color></b> in breve
 
 
