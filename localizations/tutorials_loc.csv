@@ -239,7 +239,7 @@ See this button? Select it to <b><color=#FFA114><cspace=-.1>warp automatically t
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Warp to your maneuver by selecting the Maneuver Warp button.",,Localized
 Tutorials/tutorial_5.3.10_msg_1,Text,,"The maneuver is right, and we’re pointed in the right direction, now we need to time warp to the right position!
   
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Warp to our maneuver by selecting the Maneuver Warp button.","La manœuvre est correcte, nous sommes dans la bonne direction, plus qu'à effectuer une avance rapide jusqu'au bon endroit !
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Warp to our maneuver by selecting the Maneuver Warp button.","La manœuvre est correcte, nous sommes dans la bonne direction, plus qu'à effectuer une avance rapide jusqu'au bon endroit !
   
   <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace><b><color=#FFA114><cspace=-.1>Faites une avance rapide jusqu'à la manœuvre en sélectionnant le bouton Avancer jusqu'à la manœuvre</cspace></color></b>.","La manovra è corretta e abbiamo puntato nella direzione giusta, ora dobbiamo solo accelerare il tempo nel punto esatto!
 
@@ -272,7 +272,7 @@ Tutorials/tutorial_5.3.10_msg_1,Text,,"The maneuver is right, and we’re pointe
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Warp to our maneuver by selecting the Maneuver Warp button.",,Localized
 Tutorials/tutorial_5.3.13_msg_1,Text,,"Throttle up now!
   
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Set Throttle to 100% by pressing Z or holding Shift.","Mettez les gaz maintenant !
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Set Throttle to 100% by pressing Z or holding Shift.","Mettez les gaz maintenant !
   
   <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> <b><color=#FFA114><cspace=-.1>Appuyez sur la touche Z ou maintenez la touche Maj enfoncée pour mettre les gaz à 100 %</cspace></color></b>.","Accelera ora!
 
@@ -305,7 +305,7 @@ Tutorials/tutorial_5.3.13_msg_1,Text,,"Throttle up now!
 <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Set Throttle to 100% by pressing Z or holding Shift.",,Localized
 Tutorials/tutorial_5.3.15_msg_1,Text,,"Shut down the engines now! We have an orbit!
   
-<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Set Throttle to 0% by pressing X or holding Ctrl.","Coupez les moteurs, nous sommes en orbite !
+<mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> Set Throttle to 0% by pressing X or holding Ctrl.","Coupez les moteurs, nous sommes en orbite !
   
   <mspace=20><voffset=.3em><sprite=""input-useractions"" index=1></voffset></mspace> <b><color=#FFA114><cspace=-.1>Appuyez sur X ou maintenez la touche Ctrl enfoncée pour mettre les gaz à 0 %</cspace></color></b>.","Ora spegni i motori! Abbiamo un'orbita!
 
