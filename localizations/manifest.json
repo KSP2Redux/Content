@@ -1,5 +1,5 @@
 {
-  "version": "91763881d28942bde29fa48c5e5901f89ce282cf64910fb9078b9eb3774e7a5a",
+  "version": "22acb0c8a6da605b4a98b0f44208536e3e44f84861a673cf5d142fb7ca8f7626",
   "files": [
     {
       "path": "actiongroups_loc.csv",
@@ -9,32 +9,32 @@
     },
     {
       "path": "celestialbody_loc.csv",
-      "sha256": "468144c68e3cfda9e97f1908039351d902dda418ba0105786c0e775769bfed58",
-      "bytes": 508,
+      "sha256": "57958c20addea2a2456752b3433a25f96bd078c68be740ec16515cd71ec30d55",
+      "bytes": 531,
       "order": 1
     },
     {
       "path": "experiments_loc.csv",
-      "sha256": "a270d95440464fc2d1251944dc373a6509b6f391857aaea52f08c34916b1fc90",
-      "bytes": 343681,
+      "sha256": "b1afab3ff8cd7df7457235bda4a867f4cbfdcb3512129efc7371fb0c73342e3a",
+      "bytes": 344967,
       "order": 2
     },
     {
       "path": "loadingtips_loc.csv",
-      "sha256": "39aade5a70e691f12a74bab6e7ccb7c151e42cecbb67e3797c93023a50edaad7",
-      "bytes": 9801,
+      "sha256": "15ea177aa2babd8e39ae53c57f1a81896619f547ac6422273a07249b29296d83",
+      "bytes": 9795,
       "order": 3
     },
     {
       "path": "misc_loc.csv",
-      "sha256": "d74e22a70e7477bcac18efa5b639a09968993d6b5d30bfd9337502d480ea68c4",
-      "bytes": 32669,
+      "sha256": "8214e50903c6103912d8ab7c0d6284852de554b3db04b9842ce304fc09bb106f",
+      "bytes": 32880,
       "order": 4
     },
     {
       "path": "missions_loc.csv",
-      "sha256": "b440004822731c243a69b8bac2f00ad652f51c32a2ba600c9edd643b66efae0e",
-      "bytes": 470187,
+      "sha256": "86175e1fec3f71cf3e483074653056eccba1f7be7e5ff245e46f593ca03dc0f2",
+      "bytes": 470845,
       "order": 5
     },
     {
@@ -45,14 +45,14 @@
     },
     {
       "path": "partmodules_loc.csv",
-      "sha256": "31eeb423e4f767218760f7f50d01f8243993dd9895a47444a23bcd6f7c8e2155",
-      "bytes": 50746,
+      "sha256": "17dc2ef1bd0ee072729980aa0c9e2d76e0afcff58fd536cf4f98fa1161fbad40",
+      "bytes": 51693,
       "order": 7
     },
     {
       "path": "parts_loc.csv",
-      "sha256": "9e5345ddeab37d7c11be43a0077c835bb38fd66759cc34bbb38e8af8353d9ecc",
-      "bytes": 713264,
+      "sha256": "77bb9a82265fa84e06fa6012a12121d235f924d257998c191aed8b3fc87ae157",
+      "bytes": 758870,
       "order": 8
     },
     {
@@ -81,8 +81,8 @@
     },
     {
       "path": "ui_flight_loc.csv",
-      "sha256": "32fe8bec1e4ad58f3a32f345d4ef06c4b9092d0f1990017b359f082055a44958",
-      "bytes": 79036,
+      "sha256": "3bb4765ea3a36adcaaef1c35dcf1bd6b2ea4293a5945b618226290a64d9b368b",
+      "bytes": 79566,
       "order": 13
     },
     {
@@ -93,20 +93,20 @@
     },
     {
       "path": "ui_mainmenu_loc.csv",
-      "sha256": "1c2718263be88369d0dffe8a7e889b0325ff39208da515f066215ec3679fc5be",
-      "bytes": 22071,
+      "sha256": "2336d54c629839eed293eecb4fb83c6636f629e3033585c51f35bf61e5c77957",
+      "bytes": 22109,
       "order": 15
     },
     {
       "path": "ui_map_loc.csv",
-      "sha256": "ec8b7c7f7d78fac2fe95e26c8c5e901052ff8838b1ec0437f4fb8d4dcfa50fc0",
-      "bytes": 36280,
+      "sha256": "fc9e161fe912b9d5faed3f1baac32715e0d91e370794bd0ddd9eaa097b8994a7",
+      "bytes": 38749,
       "order": 16
     },
     {
       "path": "ui_rdcenter_loc.csv",
-      "sha256": "cc30d6034ced2a4c29fc0eb10d9e603d8dbd62c3384e5404b26183b7fc9aadeb",
-      "bytes": 1650,
+      "sha256": "8005f441328c9a8bf55b7c6c84c23bcd89b87553f0e070b7fd810c304eb996d1",
+      "bytes": 2039,
       "order": 17
     },
     {
@@ -117,8 +117,8 @@
     },
     {
       "path": "ui_settings_loc.csv",
-      "sha256": "b2f8ef74e62d505e98e1f4f0ebffcd1caa73f64264c2a3d69a10bd8c259b4de6",
-      "bytes": 424101,
+      "sha256": "8810e867db20b8dc93ef970735c5024ed918b98c26dcafae1526397734116fcf",
+      "bytes": 480599,
       "order": 19
     },
     {
@@ -135,8 +135,8 @@
     },
     {
       "path": "ui_vab_loc.csv",
-      "sha256": "5d3926da945f48aa7f38710d91ca5962558d25d6cbb921aaf261f0e6cd41587f",
-      "bytes": 54800,
+      "sha256": "99123e2c73919771ba1947dc76fcaacc5891467c8be19160b28734277d7c4da1",
+      "bytes": 55220,
       "order": 22
     },
     {

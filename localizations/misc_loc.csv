@@ -149,10 +149,10 @@ Was there anything you were doing prior to the bug occuring?
 You can include additional information if you think it is useful.","What did you observe? 
 What did you expect?
 Was there anything you were doing prior to the bug occuring? 
-You can include additional information if you think it is useful.","What did you observe? 
-What did you expect?
-Was there anything you were doing prior to the bug occuring? 
-You can include additional information if you think it is useful.","你观察到了什么？
+You can include additional information if you think it is useful.","Что вы наблюдали?
+Чего вы ожидали?
+Делали ли вы что-либо перед тем, как возникла ошибка?
+Вы можете добавить дополнительную информацию, если считаете её полезной.","你观察到了什么？
 你期望发生什么？
 在出现该bug之前，你正在做什么？
 你可以附上其他你认为有用的信息。","What did you observe? 
@@ -174,6 +174,6 @@ You can include additional information if you think it is useful.","What did you
 What did you expect?
 Was there anything you were doing prior to the bug occuring? 
 You can include additional information if you think it is useful.",,Localized
-Application/Performance/Smoothed,Text,,Smoothed,Lissé,Livellato,Smoothed,Smoothed,平滑化,Smoothed,Smoothed,Smoothed,平滑,Smoothed,Smoothed,Smoothed,Smoothed,Smoothed,Smoothed,,Localized
-Application/Performance/Realtime,Text,,Realtime,Temps réel,In tempo reale,Realtime,Realtime,リアルタイム,Realtime,Realtime,Realtime,实时,Realtime,Realtime,Realtime,Realtime,Realtime,Realtime,,Localized
-Application/Performance/Bottleneck/FrameRateLimited,Text,,Frame limit,Limite de FPS,Limite FPS,Frame limit,Frame limit,FPS制限,Frame limit,Frame limit,Frame limit,帧数限制,Frame limit,Frame limit,Frame limit,Frame limit,Frame limit,Frame limit,,Localized
+Application/Performance/Smoothed,Text,,Smoothed,Lissé,Livellato,Smoothed,Smoothed,平滑化,Smoothed,Smoothed,Сглаженно,平滑,Smoothed,Smoothed,Smoothed,Smoothed,Smoothed,Smoothed,,Localized
+Application/Performance/Realtime,Text,,Realtime,Temps réel,In tempo reale,Realtime,Realtime,リアルタイム,Realtime,Realtime,В режиме реального времени,实时,Realtime,Realtime,Realtime,Realtime,Realtime,Realtime,,Localized
+Application/Performance/Bottleneck/FrameRateLimited,Text,,Frame limit,Limite de FPS,Limite FPS,Frame limit,Frame limit,FPS制限,Frame limit,Frame limit,Ограничение частоты кадров,帧数限制,Frame limit,Frame limit,Frame limit,Frame limit,Frame limit,Frame limit,,Localized
